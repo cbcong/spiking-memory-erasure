@@ -1,0 +1,5 @@
+method,sparse_peak_sum,dense_peak_sum,regular_peak_sum,total_peak_sum,mean_completion_updates,total_cumulative_drive
+Tightened row-sum,510,8792,265,9567,18.19,86279
+Marginal interval,190,6068,337,6595,24.40,138380
+Per-graph comparator,190,6068,265,6523,25.47,138670
+Topology-aware (ours),140,6020,265,6425,33.65,202100

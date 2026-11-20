@@ -1,0 +1,35 @@
+{
+  "encoder_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "task_seed_base": 31261112,
+  "query_seed_base": 31271112,
+  "delays": [
+    1,
+    16,
+    64
+  ],
+  "episodes_per_condition": 32,
+  "slots": 4,
+  "bits_per_class": 5,
+  "module_count": 20,
+  "coupling": "directed ring, each row sum 1",
+  "erase_amplitudes": [
+    3,
+    2
+  ],
+  "erase_duration": 4,
+  "recovery_ticks": 10,
+  "write": "external 14 times 2 followed by 6 unforced ticks",
+  "query": "slot address generated only after hold completion; two spike updates over selected five modules",
+  "readout": "unique count winner per bit; ties invalid; canonical (1,0)/(0,1) phase validity separate",
+  "delay_pairing": "reset pattern/query RNG to identical seed for each delay; same utterances and addresses",
+  "encoder_selection": "use all five frozen encoders; no test-seed selection",
+  "baseline": "ideal digital register, explicitly different direct-write/clear semantics",
+  "scope": "derived SHD four-utterance delayed class-selection and reuse; not end-to-end spiking classification",
+  "amendment": "After v1/v2 measurement audits: use permissive readout, pair delays, freeze new task/query seeds. This remains an exploratory pilot with no model selection on task test results."
+}

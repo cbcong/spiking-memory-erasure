@@ -1,0 +1,13922 @@
+[
+  {
+    "id": "s0_d1_e0",
+    "old_test_indices": [
+      1010,
+      1209,
+      1258,
+      447
+    ],
+    "new_test_indices": [
+      291,
+      1459,
+      1268,
+      820
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      19,
+      13,
+      0
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      1,
+      17
+    ]
+  },
+  {
+    "id": "s0_d1_e1",
+    "old_test_indices": [
+      2224,
+      2095,
+      1749,
+      2080
+    ],
+    "new_test_indices": [
+      1681,
+      1075,
+      645,
+      82
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      3,
+      13,
+      1
+    ],
+    "new_encoder_classes": [
+      6,
+      10,
+      10,
+      3
+    ]
+  },
+  {
+    "id": "s0_d1_e2",
+    "old_test_indices": [
+      392,
+      178,
+      1897,
+      154
+    ],
+    "new_test_indices": [
+      1670,
+      1843,
+      1163,
+      1461
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      2,
+      13,
+      7,
+      12
+    ],
+    "new_encoder_classes": [
+      7,
+      2,
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s0_d1_e3",
+    "old_test_indices": [
+      1438,
+      1780,
+      786,
+      136
+    ],
+    "new_test_indices": [
+      676,
+      224,
+      2037,
+      1224
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      14,
+      7,
+      10
+    ],
+    "new_encoder_classes": [
+      9,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "s0_d1_e4",
+    "old_test_indices": [
+      461,
+      1659,
+      230,
+      1389
+    ],
+    "new_test_indices": [
+      1369,
+      420,
+      2128,
+      956
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      0,
+      9,
+      17
+    ],
+    "new_encoder_classes": [
+      6,
+      10,
+      12,
+      17
+    ]
+  },
+  {
+    "id": "s0_d1_e5",
+    "old_test_indices": [
+      759,
+      2201,
+      2172,
+      1263
+    ],
+    "new_test_indices": [
+      2046,
+      463,
+      1790,
+      1352
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      7,
+      15,
+      12,
+      12
+    ],
+    "new_encoder_classes": [
+      8,
+      13,
+      14,
+      17
+    ]
+  },
+  {
+    "id": "s0_d1_e6",
+    "old_test_indices": [
+      1571,
+      2246,
+      395,
+      1026
+    ],
+    "new_test_indices": [
+      1912,
+      2031,
+      282,
+      1067
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      19,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      5,
+      3,
+      18,
+      18
+    ]
+  },
+  {
+    "id": "s0_d1_e7",
+    "old_test_indices": [
+      1063,
+      1496,
+      794,
+      2024
+    ],
+    "new_test_indices": [
+      1662,
+      1228,
+      1287,
+      1294
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      11,
+      9,
+      14
+    ],
+    "new_encoder_classes": [
+      13,
+      0,
+      9,
+      1
+    ]
+  },
+  {
+    "id": "s0_d1_e8",
+    "old_test_indices": [
+      2050,
+      116,
+      1595,
+      536
+    ],
+    "new_test_indices": [
+      1647,
+      1350,
+      1952,
+      690
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      11,
+      12,
+      7
+    ],
+    "new_encoder_classes": [
+      7,
+      14,
+      9,
+      8
+    ]
+  },
+  {
+    "id": "s0_d1_e9",
+    "old_test_indices": [
+      1746,
+      662,
+      519,
+      2234
+    ],
+    "new_test_indices": [
+      706,
+      1923,
+      2241,
+      1707
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      3,
+      12,
+      4,
+      6
+    ],
+    "new_encoder_classes": [
+      7,
+      3,
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s0_d1_e10",
+    "old_test_indices": [
+      1235,
+      401,
+      2013,
+      917
+    ],
+    "new_test_indices": [
+      717,
+      1204,
+      2236,
+      831
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      19,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      9,
+      14,
+      6,
+      9
+    ]
+  },
+  {
+    "id": "s0_d1_e11",
+    "old_test_indices": [
+      2113,
+      461,
+      1620,
+      355
+    ],
+    "new_test_indices": [
+      980,
+      773,
+      638,
+      248
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      14,
+      6,
+      15
+    ],
+    "new_encoder_classes": [
+      9,
+      5,
+      9,
+      13
+    ]
+  },
+  {
+    "id": "s0_d1_e12",
+    "old_test_indices": [
+      1502,
+      1023,
+      1565,
+      2079
+    ],
+    "new_test_indices": [
+      679,
+      108,
+      1325,
+      2193
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      3,
+      14,
+      17
+    ],
+    "new_encoder_classes": [
+      1,
+      13,
+      18,
+      4
+    ]
+  },
+  {
+    "id": "s0_d1_e13",
+    "old_test_indices": [
+      1744,
+      1055,
+      1500,
+      1027
+    ],
+    "new_test_indices": [
+      1558,
+      1351,
+      2021,
+      2226
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      4,
+      3,
+      4,
+      19
+    ],
+    "new_encoder_classes": [
+      16,
+      14,
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s0_d1_e14",
+    "old_test_indices": [
+      993,
+      1351,
+      568,
+      1474
+    ],
+    "new_test_indices": [
+      982,
+      2074,
+      1649,
+      851
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      18,
+      14,
+      5,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      16,
+      9,
+      16
+    ]
+  },
+  {
+    "id": "s0_d1_e15",
+    "old_test_indices": [
+      876,
+      950,
+      1523,
+      1614
+    ],
+    "new_test_indices": [
+      1440,
+      1236,
+      1234,
+      1354
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      16,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      13,
+      9,
+      7,
+      17
+    ]
+  },
+  {
+    "id": "s0_d1_e16",
+    "old_test_indices": [
+      101,
+      1151,
+      558,
+      2094
+    ],
+    "new_test_indices": [
+      402,
+      1161,
+      1700,
+      1436
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      17,
+      16,
+      13
+    ],
+    "new_encoder_classes": [
+      15,
+      7,
+      8,
+      15
+    ]
+  },
+  {
+    "id": "s0_d1_e17",
+    "old_test_indices": [
+      1982,
+      2113,
+      2091,
+      479
+    ],
+    "new_test_indices": [
+      1894,
+      470,
+      701,
+      2151
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      19,
+      16,
+      19,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      12,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s0_d1_e18",
+    "old_test_indices": [
+      1998,
+      85,
+      173,
+      1144
+    ],
+    "new_test_indices": [
+      973,
+      1448,
+      980,
+      2191
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      16,
+      17,
+      11
+    ],
+    "new_encoder_classes": [
+      9,
+      3,
+      9,
+      16
+    ]
+  },
+  {
+    "id": "s0_d1_e19",
+    "old_test_indices": [
+      160,
+      343,
+      907,
+      805
+    ],
+    "new_test_indices": [
+      1878,
+      494,
+      2223,
+      995
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      1,
+      17,
+      12,
+      0
+    ],
+    "new_encoder_classes": [
+      10,
+      18,
+      3,
+      12
+    ]
+  },
+  {
+    "id": "s0_d1_e20",
+    "old_test_indices": [
+      1381,
+      1558,
+      1311,
+      930
+    ],
+    "new_test_indices": [
+      404,
+      2125,
+      871,
+      1648
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      16,
+      6,
+      0
+    ],
+    "new_encoder_classes": [
+      19,
+      4,
+      2,
+      9
+    ]
+  },
+  {
+    "id": "s0_d1_e21",
+    "old_test_indices": [
+      1971,
+      2125,
+      444,
+      1807
+    ],
+    "new_test_indices": [
+      1171,
+      174,
+      761,
+      2191
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      5,
+      4,
+      14,
+      17
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      0,
+      16
+    ]
+  },
+  {
+    "id": "s0_d1_e22",
+    "old_test_indices": [
+      1889,
+      2222,
+      1253,
+      2263
+    ],
+    "new_test_indices": [
+      202,
+      604,
+      843,
+      1269
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      11,
+      8,
+      3,
+      11
+    ],
+    "new_encoder_classes": [
+      6,
+      17,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s0_d1_e23",
+    "old_test_indices": [
+      1843,
+      671,
+      815,
+      504
+    ],
+    "new_test_indices": [
+      777,
+      721,
+      2165,
+      1795
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      2,
+      8,
+      14,
+      11
+    ],
+    "new_encoder_classes": [
+      3,
+      0,
+      16,
+      14
+    ]
+  },
+  {
+    "id": "s0_d1_e24",
+    "old_test_indices": [
+      522,
+      1617,
+      464,
+      716
+    ],
+    "new_test_indices": [
+      1058,
+      850,
+      838,
+      1057
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      13,
+      14,
+      11
+    ],
+    "new_encoder_classes": [
+      7,
+      18,
+      16,
+      0
+    ]
+  },
+  {
+    "id": "s0_d1_e25",
+    "old_test_indices": [
+      2256,
+      1137,
+      464,
+      52
+    ],
+    "new_test_indices": [
+      104,
+      2138,
+      2073,
+      2053
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      19,
+      11,
+      14,
+      18
+    ],
+    "new_encoder_classes": [
+      14,
+      17,
+      14,
+      8
+    ]
+  },
+  {
+    "id": "s0_d1_e26",
+    "old_test_indices": [
+      682,
+      1023,
+      125,
+      1936
+    ],
+    "new_test_indices": [
+      619,
+      100,
+      1271,
+      235
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      3,
+      3,
+      17,
+      3
+    ],
+    "new_encoder_classes": [
+      8,
+      18,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s0_d1_e27",
+    "old_test_indices": [
+      899,
+      785,
+      1555,
+      1296
+    ],
+    "new_test_indices": [
+      823,
+      1711,
+      229,
+      1908
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      17,
+      8,
+      16
+    ],
+    "new_encoder_classes": [
+      11,
+      7,
+      8,
+      7
+    ]
+  },
+  {
+    "id": "s0_d1_e28",
+    "old_test_indices": [
+      1648,
+      354,
+      1325,
+      1887
+    ],
+    "new_test_indices": [
+      1043,
+      510,
+      1059,
+      329
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      11,
+      18,
+      15
+    ],
+    "new_encoder_classes": [
+      14,
+      9,
+      10,
+      13
+    ]
+  },
+  {
+    "id": "s0_d1_e29",
+    "old_test_indices": [
+      347,
+      1588,
+      41,
+      851
+    ],
+    "new_test_indices": [
+      997,
+      334,
+      1847,
+      2223
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      7,
+      8,
+      8,
+      16
+    ],
+    "new_encoder_classes": [
+      6,
+      2,
+      7,
+      3
+    ]
+  },
+  {
+    "id": "s0_d1_e30",
+    "old_test_indices": [
+      286,
+      735,
+      725,
+      1037
+    ],
+    "new_test_indices": [
+      149,
+      715,
+      795,
+      1024
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      13,
+      4,
+      13
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "s0_d1_e31",
+    "old_test_indices": [
+      388,
+      1583,
+      857,
+      1103
+    ],
+    "new_test_indices": [
+      1329,
+      505,
+      1791,
+      1218
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      19,
+      18,
+      2
+    ],
+    "new_encoder_classes": [
+      6,
+      5,
+      8,
+      13
+    ]
+  },
+  {
+    "id": "s0_d16_e0",
+    "old_test_indices": [
+      1010,
+      1209,
+      1258,
+      447
+    ],
+    "new_test_indices": [
+      291,
+      1459,
+      1268,
+      820
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      19,
+      13,
+      0
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      1,
+      17
+    ]
+  },
+  {
+    "id": "s0_d16_e1",
+    "old_test_indices": [
+      2224,
+      2095,
+      1749,
+      2080
+    ],
+    "new_test_indices": [
+      1681,
+      1075,
+      645,
+      82
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      3,
+      13,
+      1
+    ],
+    "new_encoder_classes": [
+      6,
+      10,
+      10,
+      3
+    ]
+  },
+  {
+    "id": "s0_d16_e2",
+    "old_test_indices": [
+      392,
+      178,
+      1897,
+      154
+    ],
+    "new_test_indices": [
+      1670,
+      1843,
+      1163,
+      1461
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      2,
+      13,
+      7,
+      12
+    ],
+    "new_encoder_classes": [
+      7,
+      2,
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s0_d16_e3",
+    "old_test_indices": [
+      1438,
+      1780,
+      786,
+      136
+    ],
+    "new_test_indices": [
+      676,
+      224,
+      2037,
+      1224
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      14,
+      7,
+      10
+    ],
+    "new_encoder_classes": [
+      9,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "s0_d16_e4",
+    "old_test_indices": [
+      461,
+      1659,
+      230,
+      1389
+    ],
+    "new_test_indices": [
+      1369,
+      420,
+      2128,
+      956
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      0,
+      9,
+      17
+    ],
+    "new_encoder_classes": [
+      6,
+      10,
+      12,
+      17
+    ]
+  },
+  {
+    "id": "s0_d16_e5",
+    "old_test_indices": [
+      759,
+      2201,
+      2172,
+      1263
+    ],
+    "new_test_indices": [
+      2046,
+      463,
+      1790,
+      1352
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      7,
+      15,
+      12,
+      12
+    ],
+    "new_encoder_classes": [
+      8,
+      13,
+      14,
+      17
+    ]
+  },
+  {
+    "id": "s0_d16_e6",
+    "old_test_indices": [
+      1571,
+      2246,
+      395,
+      1026
+    ],
+    "new_test_indices": [
+      1912,
+      2031,
+      282,
+      1067
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      19,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      5,
+      3,
+      18,
+      18
+    ]
+  },
+  {
+    "id": "s0_d16_e7",
+    "old_test_indices": [
+      1063,
+      1496,
+      794,
+      2024
+    ],
+    "new_test_indices": [
+      1662,
+      1228,
+      1287,
+      1294
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      11,
+      9,
+      14
+    ],
+    "new_encoder_classes": [
+      13,
+      0,
+      9,
+      1
+    ]
+  },
+  {
+    "id": "s0_d16_e8",
+    "old_test_indices": [
+      2050,
+      116,
+      1595,
+      536
+    ],
+    "new_test_indices": [
+      1647,
+      1350,
+      1952,
+      690
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      11,
+      12,
+      7
+    ],
+    "new_encoder_classes": [
+      7,
+      14,
+      9,
+      8
+    ]
+  },
+  {
+    "id": "s0_d16_e9",
+    "old_test_indices": [
+      1746,
+      662,
+      519,
+      2234
+    ],
+    "new_test_indices": [
+      706,
+      1923,
+      2241,
+      1707
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      3,
+      12,
+      4,
+      6
+    ],
+    "new_encoder_classes": [
+      7,
+      3,
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s0_d16_e10",
+    "old_test_indices": [
+      1235,
+      401,
+      2013,
+      917
+    ],
+    "new_test_indices": [
+      717,
+      1204,
+      2236,
+      831
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      19,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      9,
+      14,
+      6,
+      9
+    ]
+  },
+  {
+    "id": "s0_d16_e11",
+    "old_test_indices": [
+      2113,
+      461,
+      1620,
+      355
+    ],
+    "new_test_indices": [
+      980,
+      773,
+      638,
+      248
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      14,
+      6,
+      15
+    ],
+    "new_encoder_classes": [
+      9,
+      5,
+      9,
+      13
+    ]
+  },
+  {
+    "id": "s0_d16_e12",
+    "old_test_indices": [
+      1502,
+      1023,
+      1565,
+      2079
+    ],
+    "new_test_indices": [
+      679,
+      108,
+      1325,
+      2193
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      3,
+      14,
+      17
+    ],
+    "new_encoder_classes": [
+      1,
+      13,
+      18,
+      4
+    ]
+  },
+  {
+    "id": "s0_d16_e13",
+    "old_test_indices": [
+      1744,
+      1055,
+      1500,
+      1027
+    ],
+    "new_test_indices": [
+      1558,
+      1351,
+      2021,
+      2226
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      4,
+      3,
+      4,
+      19
+    ],
+    "new_encoder_classes": [
+      16,
+      14,
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s0_d16_e14",
+    "old_test_indices": [
+      993,
+      1351,
+      568,
+      1474
+    ],
+    "new_test_indices": [
+      982,
+      2074,
+      1649,
+      851
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      18,
+      14,
+      5,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      16,
+      9,
+      16
+    ]
+  },
+  {
+    "id": "s0_d16_e15",
+    "old_test_indices": [
+      876,
+      950,
+      1523,
+      1614
+    ],
+    "new_test_indices": [
+      1440,
+      1236,
+      1234,
+      1354
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      16,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      13,
+      9,
+      7,
+      17
+    ]
+  },
+  {
+    "id": "s0_d16_e16",
+    "old_test_indices": [
+      101,
+      1151,
+      558,
+      2094
+    ],
+    "new_test_indices": [
+      402,
+      1161,
+      1700,
+      1436
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      17,
+      16,
+      13
+    ],
+    "new_encoder_classes": [
+      15,
+      7,
+      8,
+      15
+    ]
+  },
+  {
+    "id": "s0_d16_e17",
+    "old_test_indices": [
+      1982,
+      2113,
+      2091,
+      479
+    ],
+    "new_test_indices": [
+      1894,
+      470,
+      701,
+      2151
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      19,
+      16,
+      19,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      12,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s0_d16_e18",
+    "old_test_indices": [
+      1998,
+      85,
+      173,
+      1144
+    ],
+    "new_test_indices": [
+      973,
+      1448,
+      980,
+      2191
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      16,
+      17,
+      11
+    ],
+    "new_encoder_classes": [
+      9,
+      3,
+      9,
+      16
+    ]
+  },
+  {
+    "id": "s0_d16_e19",
+    "old_test_indices": [
+      160,
+      343,
+      907,
+      805
+    ],
+    "new_test_indices": [
+      1878,
+      494,
+      2223,
+      995
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      1,
+      17,
+      12,
+      0
+    ],
+    "new_encoder_classes": [
+      10,
+      18,
+      3,
+      12
+    ]
+  },
+  {
+    "id": "s0_d16_e20",
+    "old_test_indices": [
+      1381,
+      1558,
+      1311,
+      930
+    ],
+    "new_test_indices": [
+      404,
+      2125,
+      871,
+      1648
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      16,
+      6,
+      0
+    ],
+    "new_encoder_classes": [
+      19,
+      4,
+      2,
+      9
+    ]
+  },
+  {
+    "id": "s0_d16_e21",
+    "old_test_indices": [
+      1971,
+      2125,
+      444,
+      1807
+    ],
+    "new_test_indices": [
+      1171,
+      174,
+      761,
+      2191
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      5,
+      4,
+      14,
+      17
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      0,
+      16
+    ]
+  },
+  {
+    "id": "s0_d16_e22",
+    "old_test_indices": [
+      1889,
+      2222,
+      1253,
+      2263
+    ],
+    "new_test_indices": [
+      202,
+      604,
+      843,
+      1269
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      11,
+      8,
+      3,
+      11
+    ],
+    "new_encoder_classes": [
+      6,
+      17,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s0_d16_e23",
+    "old_test_indices": [
+      1843,
+      671,
+      815,
+      504
+    ],
+    "new_test_indices": [
+      777,
+      721,
+      2165,
+      1795
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      2,
+      8,
+      14,
+      11
+    ],
+    "new_encoder_classes": [
+      3,
+      0,
+      16,
+      14
+    ]
+  },
+  {
+    "id": "s0_d16_e24",
+    "old_test_indices": [
+      522,
+      1617,
+      464,
+      716
+    ],
+    "new_test_indices": [
+      1058,
+      850,
+      838,
+      1057
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      13,
+      14,
+      11
+    ],
+    "new_encoder_classes": [
+      7,
+      18,
+      16,
+      0
+    ]
+  },
+  {
+    "id": "s0_d16_e25",
+    "old_test_indices": [
+      2256,
+      1137,
+      464,
+      52
+    ],
+    "new_test_indices": [
+      104,
+      2138,
+      2073,
+      2053
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      19,
+      11,
+      14,
+      18
+    ],
+    "new_encoder_classes": [
+      14,
+      17,
+      14,
+      8
+    ]
+  },
+  {
+    "id": "s0_d16_e26",
+    "old_test_indices": [
+      682,
+      1023,
+      125,
+      1936
+    ],
+    "new_test_indices": [
+      619,
+      100,
+      1271,
+      235
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      3,
+      3,
+      17,
+      3
+    ],
+    "new_encoder_classes": [
+      8,
+      18,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s0_d16_e27",
+    "old_test_indices": [
+      899,
+      785,
+      1555,
+      1296
+    ],
+    "new_test_indices": [
+      823,
+      1711,
+      229,
+      1908
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      17,
+      8,
+      16
+    ],
+    "new_encoder_classes": [
+      11,
+      7,
+      8,
+      7
+    ]
+  },
+  {
+    "id": "s0_d16_e28",
+    "old_test_indices": [
+      1648,
+      354,
+      1325,
+      1887
+    ],
+    "new_test_indices": [
+      1043,
+      510,
+      1059,
+      329
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      11,
+      18,
+      15
+    ],
+    "new_encoder_classes": [
+      14,
+      9,
+      10,
+      13
+    ]
+  },
+  {
+    "id": "s0_d16_e29",
+    "old_test_indices": [
+      347,
+      1588,
+      41,
+      851
+    ],
+    "new_test_indices": [
+      997,
+      334,
+      1847,
+      2223
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      7,
+      8,
+      8,
+      16
+    ],
+    "new_encoder_classes": [
+      6,
+      2,
+      7,
+      3
+    ]
+  },
+  {
+    "id": "s0_d16_e30",
+    "old_test_indices": [
+      286,
+      735,
+      725,
+      1037
+    ],
+    "new_test_indices": [
+      149,
+      715,
+      795,
+      1024
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      13,
+      4,
+      13
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "s0_d16_e31",
+    "old_test_indices": [
+      388,
+      1583,
+      857,
+      1103
+    ],
+    "new_test_indices": [
+      1329,
+      505,
+      1791,
+      1218
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      19,
+      18,
+      2
+    ],
+    "new_encoder_classes": [
+      6,
+      5,
+      8,
+      13
+    ]
+  },
+  {
+    "id": "s0_d64_e0",
+    "old_test_indices": [
+      1010,
+      1209,
+      1258,
+      447
+    ],
+    "new_test_indices": [
+      291,
+      1459,
+      1268,
+      820
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      19,
+      13,
+      0
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      1,
+      17
+    ]
+  },
+  {
+    "id": "s0_d64_e1",
+    "old_test_indices": [
+      2224,
+      2095,
+      1749,
+      2080
+    ],
+    "new_test_indices": [
+      1681,
+      1075,
+      645,
+      82
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      3,
+      13,
+      1
+    ],
+    "new_encoder_classes": [
+      6,
+      10,
+      10,
+      3
+    ]
+  },
+  {
+    "id": "s0_d64_e2",
+    "old_test_indices": [
+      392,
+      178,
+      1897,
+      154
+    ],
+    "new_test_indices": [
+      1670,
+      1843,
+      1163,
+      1461
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      2,
+      13,
+      7,
+      12
+    ],
+    "new_encoder_classes": [
+      7,
+      2,
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s0_d64_e3",
+    "old_test_indices": [
+      1438,
+      1780,
+      786,
+      136
+    ],
+    "new_test_indices": [
+      676,
+      224,
+      2037,
+      1224
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      14,
+      7,
+      10
+    ],
+    "new_encoder_classes": [
+      9,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "s0_d64_e4",
+    "old_test_indices": [
+      461,
+      1659,
+      230,
+      1389
+    ],
+    "new_test_indices": [
+      1369,
+      420,
+      2128,
+      956
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      0,
+      9,
+      17
+    ],
+    "new_encoder_classes": [
+      6,
+      10,
+      12,
+      17
+    ]
+  },
+  {
+    "id": "s0_d64_e5",
+    "old_test_indices": [
+      759,
+      2201,
+      2172,
+      1263
+    ],
+    "new_test_indices": [
+      2046,
+      463,
+      1790,
+      1352
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      7,
+      15,
+      12,
+      12
+    ],
+    "new_encoder_classes": [
+      8,
+      13,
+      14,
+      17
+    ]
+  },
+  {
+    "id": "s0_d64_e6",
+    "old_test_indices": [
+      1571,
+      2246,
+      395,
+      1026
+    ],
+    "new_test_indices": [
+      1912,
+      2031,
+      282,
+      1067
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      19,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      5,
+      3,
+      18,
+      18
+    ]
+  },
+  {
+    "id": "s0_d64_e7",
+    "old_test_indices": [
+      1063,
+      1496,
+      794,
+      2024
+    ],
+    "new_test_indices": [
+      1662,
+      1228,
+      1287,
+      1294
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      11,
+      9,
+      14
+    ],
+    "new_encoder_classes": [
+      13,
+      0,
+      9,
+      1
+    ]
+  },
+  {
+    "id": "s0_d64_e8",
+    "old_test_indices": [
+      2050,
+      116,
+      1595,
+      536
+    ],
+    "new_test_indices": [
+      1647,
+      1350,
+      1952,
+      690
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      11,
+      12,
+      7
+    ],
+    "new_encoder_classes": [
+      7,
+      14,
+      9,
+      8
+    ]
+  },
+  {
+    "id": "s0_d64_e9",
+    "old_test_indices": [
+      1746,
+      662,
+      519,
+      2234
+    ],
+    "new_test_indices": [
+      706,
+      1923,
+      2241,
+      1707
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      3,
+      12,
+      4,
+      6
+    ],
+    "new_encoder_classes": [
+      7,
+      3,
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s0_d64_e10",
+    "old_test_indices": [
+      1235,
+      401,
+      2013,
+      917
+    ],
+    "new_test_indices": [
+      717,
+      1204,
+      2236,
+      831
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      19,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      9,
+      14,
+      6,
+      9
+    ]
+  },
+  {
+    "id": "s0_d64_e11",
+    "old_test_indices": [
+      2113,
+      461,
+      1620,
+      355
+    ],
+    "new_test_indices": [
+      980,
+      773,
+      638,
+      248
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      14,
+      6,
+      15
+    ],
+    "new_encoder_classes": [
+      9,
+      5,
+      9,
+      13
+    ]
+  },
+  {
+    "id": "s0_d64_e12",
+    "old_test_indices": [
+      1502,
+      1023,
+      1565,
+      2079
+    ],
+    "new_test_indices": [
+      679,
+      108,
+      1325,
+      2193
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      3,
+      14,
+      17
+    ],
+    "new_encoder_classes": [
+      1,
+      13,
+      18,
+      4
+    ]
+  },
+  {
+    "id": "s0_d64_e13",
+    "old_test_indices": [
+      1744,
+      1055,
+      1500,
+      1027
+    ],
+    "new_test_indices": [
+      1558,
+      1351,
+      2021,
+      2226
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      4,
+      3,
+      4,
+      19
+    ],
+    "new_encoder_classes": [
+      16,
+      14,
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s0_d64_e14",
+    "old_test_indices": [
+      993,
+      1351,
+      568,
+      1474
+    ],
+    "new_test_indices": [
+      982,
+      2074,
+      1649,
+      851
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      18,
+      14,
+      5,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      16,
+      9,
+      16
+    ]
+  },
+  {
+    "id": "s0_d64_e15",
+    "old_test_indices": [
+      876,
+      950,
+      1523,
+      1614
+    ],
+    "new_test_indices": [
+      1440,
+      1236,
+      1234,
+      1354
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      16,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      13,
+      9,
+      7,
+      17
+    ]
+  },
+  {
+    "id": "s0_d64_e16",
+    "old_test_indices": [
+      101,
+      1151,
+      558,
+      2094
+    ],
+    "new_test_indices": [
+      402,
+      1161,
+      1700,
+      1436
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      17,
+      16,
+      13
+    ],
+    "new_encoder_classes": [
+      15,
+      7,
+      8,
+      15
+    ]
+  },
+  {
+    "id": "s0_d64_e17",
+    "old_test_indices": [
+      1982,
+      2113,
+      2091,
+      479
+    ],
+    "new_test_indices": [
+      1894,
+      470,
+      701,
+      2151
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      19,
+      16,
+      19,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      12,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s0_d64_e18",
+    "old_test_indices": [
+      1998,
+      85,
+      173,
+      1144
+    ],
+    "new_test_indices": [
+      973,
+      1448,
+      980,
+      2191
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      16,
+      17,
+      11
+    ],
+    "new_encoder_classes": [
+      9,
+      3,
+      9,
+      16
+    ]
+  },
+  {
+    "id": "s0_d64_e19",
+    "old_test_indices": [
+      160,
+      343,
+      907,
+      805
+    ],
+    "new_test_indices": [
+      1878,
+      494,
+      2223,
+      995
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      1,
+      17,
+      12,
+      0
+    ],
+    "new_encoder_classes": [
+      10,
+      18,
+      3,
+      12
+    ]
+  },
+  {
+    "id": "s0_d64_e20",
+    "old_test_indices": [
+      1381,
+      1558,
+      1311,
+      930
+    ],
+    "new_test_indices": [
+      404,
+      2125,
+      871,
+      1648
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      16,
+      6,
+      0
+    ],
+    "new_encoder_classes": [
+      19,
+      4,
+      2,
+      9
+    ]
+  },
+  {
+    "id": "s0_d64_e21",
+    "old_test_indices": [
+      1971,
+      2125,
+      444,
+      1807
+    ],
+    "new_test_indices": [
+      1171,
+      174,
+      761,
+      2191
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      5,
+      4,
+      14,
+      17
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      0,
+      16
+    ]
+  },
+  {
+    "id": "s0_d64_e22",
+    "old_test_indices": [
+      1889,
+      2222,
+      1253,
+      2263
+    ],
+    "new_test_indices": [
+      202,
+      604,
+      843,
+      1269
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      11,
+      8,
+      3,
+      11
+    ],
+    "new_encoder_classes": [
+      6,
+      17,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s0_d64_e23",
+    "old_test_indices": [
+      1843,
+      671,
+      815,
+      504
+    ],
+    "new_test_indices": [
+      777,
+      721,
+      2165,
+      1795
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      2,
+      8,
+      14,
+      11
+    ],
+    "new_encoder_classes": [
+      3,
+      0,
+      16,
+      14
+    ]
+  },
+  {
+    "id": "s0_d64_e24",
+    "old_test_indices": [
+      522,
+      1617,
+      464,
+      716
+    ],
+    "new_test_indices": [
+      1058,
+      850,
+      838,
+      1057
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      13,
+      14,
+      11
+    ],
+    "new_encoder_classes": [
+      7,
+      18,
+      16,
+      0
+    ]
+  },
+  {
+    "id": "s0_d64_e25",
+    "old_test_indices": [
+      2256,
+      1137,
+      464,
+      52
+    ],
+    "new_test_indices": [
+      104,
+      2138,
+      2073,
+      2053
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      19,
+      11,
+      14,
+      18
+    ],
+    "new_encoder_classes": [
+      14,
+      17,
+      14,
+      8
+    ]
+  },
+  {
+    "id": "s0_d64_e26",
+    "old_test_indices": [
+      682,
+      1023,
+      125,
+      1936
+    ],
+    "new_test_indices": [
+      619,
+      100,
+      1271,
+      235
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      3,
+      3,
+      17,
+      3
+    ],
+    "new_encoder_classes": [
+      8,
+      18,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s0_d64_e27",
+    "old_test_indices": [
+      899,
+      785,
+      1555,
+      1296
+    ],
+    "new_test_indices": [
+      823,
+      1711,
+      229,
+      1908
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      17,
+      8,
+      16
+    ],
+    "new_encoder_classes": [
+      11,
+      7,
+      8,
+      7
+    ]
+  },
+  {
+    "id": "s0_d64_e28",
+    "old_test_indices": [
+      1648,
+      354,
+      1325,
+      1887
+    ],
+    "new_test_indices": [
+      1043,
+      510,
+      1059,
+      329
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      11,
+      18,
+      15
+    ],
+    "new_encoder_classes": [
+      14,
+      9,
+      10,
+      13
+    ]
+  },
+  {
+    "id": "s0_d64_e29",
+    "old_test_indices": [
+      347,
+      1588,
+      41,
+      851
+    ],
+    "new_test_indices": [
+      997,
+      334,
+      1847,
+      2223
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      7,
+      8,
+      8,
+      16
+    ],
+    "new_encoder_classes": [
+      6,
+      2,
+      7,
+      3
+    ]
+  },
+  {
+    "id": "s0_d64_e30",
+    "old_test_indices": [
+      286,
+      735,
+      725,
+      1037
+    ],
+    "new_test_indices": [
+      149,
+      715,
+      795,
+      1024
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      13,
+      4,
+      13
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "s0_d64_e31",
+    "old_test_indices": [
+      388,
+      1583,
+      857,
+      1103
+    ],
+    "new_test_indices": [
+      1329,
+      505,
+      1791,
+      1218
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      19,
+      18,
+      2
+    ],
+    "new_encoder_classes": [
+      6,
+      5,
+      8,
+      13
+    ]
+  },
+  {
+    "id": "s1_d1_e0",
+    "old_test_indices": [
+      1323,
+      1162,
+      1334,
+      1181
+    ],
+    "new_test_indices": [
+      1783,
+      68,
+      1051,
+      798
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      18,
+      13,
+      11
+    ],
+    "new_encoder_classes": [
+      17,
+      8,
+      6,
+      12
+    ]
+  },
+  {
+    "id": "s1_d1_e1",
+    "old_test_indices": [
+      1031,
+      1298,
+      190,
+      1825
+    ],
+    "new_test_indices": [
+      777,
+      2008,
+      1252,
+      1731
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      4,
+      11,
+      18
+    ],
+    "new_encoder_classes": [
+      3,
+      12,
+      4,
+      12
+    ]
+  },
+  {
+    "id": "s1_d1_e2",
+    "old_test_indices": [
+      1293,
+      2038,
+      609,
+      365
+    ],
+    "new_test_indices": [
+      70,
+      3,
+      56,
+      765
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      16,
+      13,
+      18,
+      16
+    ],
+    "new_encoder_classes": [
+      3,
+      10,
+      15,
+      9
+    ]
+  },
+  {
+    "id": "s1_d1_e3",
+    "old_test_indices": [
+      2226,
+      1612,
+      1546,
+      1473
+    ],
+    "new_test_indices": [
+      1509,
+      69,
+      227,
+      1497
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      8,
+      6,
+      14
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      3,
+      13
+    ]
+  },
+  {
+    "id": "s1_d1_e4",
+    "old_test_indices": [
+      252,
+      485,
+      1934,
+      1942
+    ],
+    "new_test_indices": [
+      1405,
+      1414,
+      1868,
+      972
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      5,
+      2,
+      1,
+      7
+    ],
+    "new_encoder_classes": [
+      12,
+      9,
+      19,
+      18
+    ]
+  },
+  {
+    "id": "s1_d1_e5",
+    "old_test_indices": [
+      1793,
+      1262,
+      1127,
+      1181
+    ],
+    "new_test_indices": [
+      1541,
+      1897,
+      483,
+      579
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      8,
+      4,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      7,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s1_d1_e6",
+    "old_test_indices": [
+      1391,
+      885,
+      786,
+      1850
+    ],
+    "new_test_indices": [
+      1269,
+      548,
+      1320,
+      373
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      7,
+      1
+    ],
+    "new_encoder_classes": [
+      5,
+      13,
+      7,
+      16
+    ]
+  },
+  {
+    "id": "s1_d1_e7",
+    "old_test_indices": [
+      1672,
+      1298,
+      1345,
+      1060
+    ],
+    "new_test_indices": [
+      967,
+      318,
+      594,
+      166
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      3,
+      4,
+      14,
+      2
+    ],
+    "new_encoder_classes": [
+      8,
+      8,
+      2,
+      14
+    ]
+  },
+  {
+    "id": "s1_d1_e8",
+    "old_test_indices": [
+      1241,
+      1986,
+      1441,
+      758
+    ],
+    "new_test_indices": [
+      1602,
+      807,
+      1894,
+      538
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      19,
+      9,
+      17,
+      0
+    ],
+    "new_encoder_classes": [
+      4,
+      15,
+      14,
+      15
+    ]
+  },
+  {
+    "id": "s1_d1_e9",
+    "old_test_indices": [
+      2026,
+      762,
+      1277,
+      66
+    ],
+    "new_test_indices": [
+      98,
+      1080,
+      1019,
+      1919
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      4,
+      9,
+      13
+    ],
+    "new_encoder_classes": [
+      6,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s1_d1_e10",
+    "old_test_indices": [
+      2104,
+      1744,
+      660,
+      1204
+    ],
+    "new_test_indices": [
+      639,
+      142,
+      935,
+      1785
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      4,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      3,
+      6,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "s1_d1_e11",
+    "old_test_indices": [
+      1723,
+      2184,
+      1940,
+      717
+    ],
+    "new_test_indices": [
+      476,
+      465,
+      2160,
+      1156
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      10,
+      10,
+      11,
+      9
+    ],
+    "new_encoder_classes": [
+      14,
+      13,
+      17,
+      13
+    ]
+  },
+  {
+    "id": "s1_d1_e12",
+    "old_test_indices": [
+      1071,
+      729,
+      1730,
+      972
+    ],
+    "new_test_indices": [
+      2030,
+      1878,
+      1675,
+      955
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      1,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      14,
+      10,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s1_d1_e13",
+    "old_test_indices": [
+      780,
+      2045,
+      465,
+      2062
+    ],
+    "new_test_indices": [
+      463,
+      1784,
+      1814,
+      1647
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      14,
+      13,
+      8
+    ],
+    "new_encoder_classes": [
+      13,
+      8,
+      15,
+      7
+    ]
+  },
+  {
+    "id": "s1_d1_e14",
+    "old_test_indices": [
+      1433,
+      2136,
+      772,
+      157
+    ],
+    "new_test_indices": [
+      280,
+      624,
+      264,
+      121
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      5,
+      10,
+      2
+    ],
+    "new_encoder_classes": [
+      17,
+      4,
+      1,
+      12
+    ]
+  },
+  {
+    "id": "s1_d1_e15",
+    "old_test_indices": [
+      1647,
+      2127,
+      2211,
+      515
+    ],
+    "new_test_indices": [
+      904,
+      1454,
+      1402,
+      826
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      7,
+      4,
+      16,
+      18
+    ],
+    "new_encoder_classes": [
+      11,
+      3,
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s1_d1_e16",
+    "old_test_indices": [
+      1775,
+      1676,
+      1801,
+      751
+    ],
+    "new_test_indices": [
+      461,
+      612,
+      1776,
+      590
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      6,
+      9,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      10,
+      8,
+      11
+    ]
+  },
+  {
+    "id": "s1_d1_e17",
+    "old_test_indices": [
+      1815,
+      967,
+      1953,
+      164
+    ],
+    "new_test_indices": [
+      876,
+      680,
+      495,
+      1787
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      8,
+      0,
+      4
+    ],
+    "new_encoder_classes": [
+      6,
+      19,
+      0,
+      8
+    ]
+  },
+  {
+    "id": "s1_d1_e18",
+    "old_test_indices": [
+      1061,
+      1264,
+      1127,
+      495
+    ],
+    "new_test_indices": [
+      354,
+      1478,
+      440,
+      1376
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      16,
+      4,
+      0
+    ],
+    "new_encoder_classes": [
+      11,
+      18,
+      18,
+      3
+    ]
+  },
+  {
+    "id": "s1_d1_e19",
+    "old_test_indices": [
+      1664,
+      1528,
+      1913,
+      525
+    ],
+    "new_test_indices": [
+      237,
+      1154,
+      778,
+      389
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      10,
+      12,
+      1
+    ],
+    "new_encoder_classes": [
+      3,
+      13,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s1_d1_e20",
+    "old_test_indices": [
+      918,
+      920,
+      1472,
+      1320
+    ],
+    "new_test_indices": [
+      65,
+      1694,
+      195,
+      778
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      3,
+      2,
+      7
+    ],
+    "new_encoder_classes": [
+      18,
+      1,
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1_d1_e21",
+    "old_test_indices": [
+      759,
+      731,
+      1630,
+      454
+    ],
+    "new_test_indices": [
+      1386,
+      105,
+      1622,
+      1701
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      0,
+      10,
+      1,
+      16
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      16,
+      17
+    ]
+  },
+  {
+    "id": "s1_d1_e22",
+    "old_test_indices": [
+      353,
+      1216,
+      637,
+      119
+    ],
+    "new_test_indices": [
+      526,
+      1358,
+      1982,
+      459
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      15,
+      9,
+      4
+    ],
+    "new_encoder_classes": [
+      2,
+      2,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "s1_d1_e23",
+    "old_test_indices": [
+      1804,
+      1175,
+      1314,
+      321
+    ],
+    "new_test_indices": [
+      1968,
+      1431,
+      772,
+      1924
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      7,
+      8,
+      12,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      11,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "s1_d1_e24",
+    "old_test_indices": [
+      928,
+      1270,
+      35,
+      1417
+    ],
+    "new_test_indices": [
+      2153,
+      2047,
+      336,
+      2199
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      3,
+      8,
+      14
+    ],
+    "new_encoder_classes": [
+      0,
+      10,
+      8,
+      8
+    ]
+  },
+  {
+    "id": "s1_d1_e25",
+    "old_test_indices": [
+      1435,
+      626,
+      178,
+      374
+    ],
+    "new_test_indices": [
+      224,
+      1683,
+      956,
+      501
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      9,
+      13,
+      6
+    ],
+    "new_encoder_classes": [
+      0,
+      3,
+      17,
+      9
+    ]
+  },
+  {
+    "id": "s1_d1_e26",
+    "old_test_indices": [
+      1307,
+      1543,
+      1923,
+      2168
+    ],
+    "new_test_indices": [
+      679,
+      420,
+      477,
+      519
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      12,
+      3,
+      12
+    ],
+    "new_encoder_classes": [
+      1,
+      10,
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s1_d1_e27",
+    "old_test_indices": [
+      637,
+      1463,
+      704,
+      111
+    ],
+    "new_test_indices": [
+      868,
+      650,
+      517,
+      132
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      15,
+      8,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      3,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s1_d1_e28",
+    "old_test_indices": [
+      1594,
+      1913,
+      516,
+      1434
+    ],
+    "new_test_indices": [
+      245,
+      857,
+      42,
+      427
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      3,
+      12,
+      5,
+      2
+    ],
+    "new_encoder_classes": [
+      10,
+      18,
+      16,
+      3
+    ]
+  },
+  {
+    "id": "s1_d1_e29",
+    "old_test_indices": [
+      1986,
+      393,
+      349,
+      457
+    ],
+    "new_test_indices": [
+      879,
+      1465,
+      256,
+      1041
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      8,
+      11,
+      10
+    ],
+    "new_encoder_classes": [
+      3,
+      10,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s1_d1_e30",
+    "old_test_indices": [
+      540,
+      194,
+      1722,
+      1344
+    ],
+    "new_test_indices": [
+      273,
+      1367,
+      1473,
+      1820
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      17,
+      6,
+      13
+    ],
+    "new_encoder_classes": [
+      5,
+      3,
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1_d1_e31",
+    "old_test_indices": [
+      2171,
+      979,
+      1891,
+      40
+    ],
+    "new_test_indices": [
+      2160,
+      1495,
+      1649,
+      1348
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      19,
+      12,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      2,
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s1_d16_e0",
+    "old_test_indices": [
+      1323,
+      1162,
+      1334,
+      1181
+    ],
+    "new_test_indices": [
+      1783,
+      68,
+      1051,
+      798
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      18,
+      13,
+      11
+    ],
+    "new_encoder_classes": [
+      17,
+      8,
+      6,
+      12
+    ]
+  },
+  {
+    "id": "s1_d16_e1",
+    "old_test_indices": [
+      1031,
+      1298,
+      190,
+      1825
+    ],
+    "new_test_indices": [
+      777,
+      2008,
+      1252,
+      1731
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      4,
+      11,
+      18
+    ],
+    "new_encoder_classes": [
+      3,
+      12,
+      4,
+      12
+    ]
+  },
+  {
+    "id": "s1_d16_e2",
+    "old_test_indices": [
+      1293,
+      2038,
+      609,
+      365
+    ],
+    "new_test_indices": [
+      70,
+      3,
+      56,
+      765
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      16,
+      13,
+      18,
+      16
+    ],
+    "new_encoder_classes": [
+      3,
+      10,
+      15,
+      9
+    ]
+  },
+  {
+    "id": "s1_d16_e3",
+    "old_test_indices": [
+      2226,
+      1612,
+      1546,
+      1473
+    ],
+    "new_test_indices": [
+      1509,
+      69,
+      227,
+      1497
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      8,
+      6,
+      14
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      3,
+      13
+    ]
+  },
+  {
+    "id": "s1_d16_e4",
+    "old_test_indices": [
+      252,
+      485,
+      1934,
+      1942
+    ],
+    "new_test_indices": [
+      1405,
+      1414,
+      1868,
+      972
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      5,
+      2,
+      1,
+      7
+    ],
+    "new_encoder_classes": [
+      12,
+      9,
+      19,
+      18
+    ]
+  },
+  {
+    "id": "s1_d16_e5",
+    "old_test_indices": [
+      1793,
+      1262,
+      1127,
+      1181
+    ],
+    "new_test_indices": [
+      1541,
+      1897,
+      483,
+      579
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      8,
+      4,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      7,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s1_d16_e6",
+    "old_test_indices": [
+      1391,
+      885,
+      786,
+      1850
+    ],
+    "new_test_indices": [
+      1269,
+      548,
+      1320,
+      373
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      7,
+      1
+    ],
+    "new_encoder_classes": [
+      5,
+      13,
+      7,
+      16
+    ]
+  },
+  {
+    "id": "s1_d16_e7",
+    "old_test_indices": [
+      1672,
+      1298,
+      1345,
+      1060
+    ],
+    "new_test_indices": [
+      967,
+      318,
+      594,
+      166
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      3,
+      4,
+      14,
+      2
+    ],
+    "new_encoder_classes": [
+      8,
+      8,
+      2,
+      14
+    ]
+  },
+  {
+    "id": "s1_d16_e8",
+    "old_test_indices": [
+      1241,
+      1986,
+      1441,
+      758
+    ],
+    "new_test_indices": [
+      1602,
+      807,
+      1894,
+      538
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      19,
+      9,
+      17,
+      0
+    ],
+    "new_encoder_classes": [
+      4,
+      15,
+      14,
+      15
+    ]
+  },
+  {
+    "id": "s1_d16_e9",
+    "old_test_indices": [
+      2026,
+      762,
+      1277,
+      66
+    ],
+    "new_test_indices": [
+      98,
+      1080,
+      1019,
+      1919
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      4,
+      9,
+      13
+    ],
+    "new_encoder_classes": [
+      6,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s1_d16_e10",
+    "old_test_indices": [
+      2104,
+      1744,
+      660,
+      1204
+    ],
+    "new_test_indices": [
+      639,
+      142,
+      935,
+      1785
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      4,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      3,
+      6,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "s1_d16_e11",
+    "old_test_indices": [
+      1723,
+      2184,
+      1940,
+      717
+    ],
+    "new_test_indices": [
+      476,
+      465,
+      2160,
+      1156
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      10,
+      10,
+      11,
+      9
+    ],
+    "new_encoder_classes": [
+      14,
+      13,
+      17,
+      13
+    ]
+  },
+  {
+    "id": "s1_d16_e12",
+    "old_test_indices": [
+      1071,
+      729,
+      1730,
+      972
+    ],
+    "new_test_indices": [
+      2030,
+      1878,
+      1675,
+      955
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      1,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      14,
+      10,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s1_d16_e13",
+    "old_test_indices": [
+      780,
+      2045,
+      465,
+      2062
+    ],
+    "new_test_indices": [
+      463,
+      1784,
+      1814,
+      1647
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      14,
+      13,
+      8
+    ],
+    "new_encoder_classes": [
+      13,
+      8,
+      15,
+      7
+    ]
+  },
+  {
+    "id": "s1_d16_e14",
+    "old_test_indices": [
+      1433,
+      2136,
+      772,
+      157
+    ],
+    "new_test_indices": [
+      280,
+      624,
+      264,
+      121
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      5,
+      10,
+      2
+    ],
+    "new_encoder_classes": [
+      17,
+      4,
+      1,
+      12
+    ]
+  },
+  {
+    "id": "s1_d16_e15",
+    "old_test_indices": [
+      1647,
+      2127,
+      2211,
+      515
+    ],
+    "new_test_indices": [
+      904,
+      1454,
+      1402,
+      826
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      7,
+      4,
+      16,
+      18
+    ],
+    "new_encoder_classes": [
+      11,
+      3,
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s1_d16_e16",
+    "old_test_indices": [
+      1775,
+      1676,
+      1801,
+      751
+    ],
+    "new_test_indices": [
+      461,
+      612,
+      1776,
+      590
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      6,
+      9,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      10,
+      8,
+      11
+    ]
+  },
+  {
+    "id": "s1_d16_e17",
+    "old_test_indices": [
+      1815,
+      967,
+      1953,
+      164
+    ],
+    "new_test_indices": [
+      876,
+      680,
+      495,
+      1787
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      8,
+      0,
+      4
+    ],
+    "new_encoder_classes": [
+      6,
+      19,
+      0,
+      8
+    ]
+  },
+  {
+    "id": "s1_d16_e18",
+    "old_test_indices": [
+      1061,
+      1264,
+      1127,
+      495
+    ],
+    "new_test_indices": [
+      354,
+      1478,
+      440,
+      1376
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      16,
+      4,
+      0
+    ],
+    "new_encoder_classes": [
+      11,
+      18,
+      18,
+      3
+    ]
+  },
+  {
+    "id": "s1_d16_e19",
+    "old_test_indices": [
+      1664,
+      1528,
+      1913,
+      525
+    ],
+    "new_test_indices": [
+      237,
+      1154,
+      778,
+      389
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      10,
+      12,
+      1
+    ],
+    "new_encoder_classes": [
+      3,
+      13,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s1_d16_e20",
+    "old_test_indices": [
+      918,
+      920,
+      1472,
+      1320
+    ],
+    "new_test_indices": [
+      65,
+      1694,
+      195,
+      778
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      3,
+      2,
+      7
+    ],
+    "new_encoder_classes": [
+      18,
+      1,
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1_d16_e21",
+    "old_test_indices": [
+      759,
+      731,
+      1630,
+      454
+    ],
+    "new_test_indices": [
+      1386,
+      105,
+      1622,
+      1701
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      0,
+      10,
+      1,
+      16
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      16,
+      17
+    ]
+  },
+  {
+    "id": "s1_d16_e22",
+    "old_test_indices": [
+      353,
+      1216,
+      637,
+      119
+    ],
+    "new_test_indices": [
+      526,
+      1358,
+      1982,
+      459
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      15,
+      9,
+      4
+    ],
+    "new_encoder_classes": [
+      2,
+      2,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "s1_d16_e23",
+    "old_test_indices": [
+      1804,
+      1175,
+      1314,
+      321
+    ],
+    "new_test_indices": [
+      1968,
+      1431,
+      772,
+      1924
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      7,
+      8,
+      12,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      11,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "s1_d16_e24",
+    "old_test_indices": [
+      928,
+      1270,
+      35,
+      1417
+    ],
+    "new_test_indices": [
+      2153,
+      2047,
+      336,
+      2199
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      3,
+      8,
+      14
+    ],
+    "new_encoder_classes": [
+      0,
+      10,
+      8,
+      8
+    ]
+  },
+  {
+    "id": "s1_d16_e25",
+    "old_test_indices": [
+      1435,
+      626,
+      178,
+      374
+    ],
+    "new_test_indices": [
+      224,
+      1683,
+      956,
+      501
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      9,
+      13,
+      6
+    ],
+    "new_encoder_classes": [
+      0,
+      3,
+      17,
+      9
+    ]
+  },
+  {
+    "id": "s1_d16_e26",
+    "old_test_indices": [
+      1307,
+      1543,
+      1923,
+      2168
+    ],
+    "new_test_indices": [
+      679,
+      420,
+      477,
+      519
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      12,
+      3,
+      12
+    ],
+    "new_encoder_classes": [
+      1,
+      10,
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s1_d16_e27",
+    "old_test_indices": [
+      637,
+      1463,
+      704,
+      111
+    ],
+    "new_test_indices": [
+      868,
+      650,
+      517,
+      132
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      15,
+      8,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      3,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s1_d16_e28",
+    "old_test_indices": [
+      1594,
+      1913,
+      516,
+      1434
+    ],
+    "new_test_indices": [
+      245,
+      857,
+      42,
+      427
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      3,
+      12,
+      5,
+      2
+    ],
+    "new_encoder_classes": [
+      10,
+      18,
+      16,
+      3
+    ]
+  },
+  {
+    "id": "s1_d16_e29",
+    "old_test_indices": [
+      1986,
+      393,
+      349,
+      457
+    ],
+    "new_test_indices": [
+      879,
+      1465,
+      256,
+      1041
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      8,
+      11,
+      10
+    ],
+    "new_encoder_classes": [
+      3,
+      10,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s1_d16_e30",
+    "old_test_indices": [
+      540,
+      194,
+      1722,
+      1344
+    ],
+    "new_test_indices": [
+      273,
+      1367,
+      1473,
+      1820
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      17,
+      6,
+      13
+    ],
+    "new_encoder_classes": [
+      5,
+      3,
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1_d16_e31",
+    "old_test_indices": [
+      2171,
+      979,
+      1891,
+      40
+    ],
+    "new_test_indices": [
+      2160,
+      1495,
+      1649,
+      1348
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      19,
+      12,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      2,
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s1_d64_e0",
+    "old_test_indices": [
+      1323,
+      1162,
+      1334,
+      1181
+    ],
+    "new_test_indices": [
+      1783,
+      68,
+      1051,
+      798
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      18,
+      13,
+      11
+    ],
+    "new_encoder_classes": [
+      17,
+      8,
+      6,
+      12
+    ]
+  },
+  {
+    "id": "s1_d64_e1",
+    "old_test_indices": [
+      1031,
+      1298,
+      190,
+      1825
+    ],
+    "new_test_indices": [
+      777,
+      2008,
+      1252,
+      1731
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      4,
+      11,
+      18
+    ],
+    "new_encoder_classes": [
+      3,
+      12,
+      4,
+      12
+    ]
+  },
+  {
+    "id": "s1_d64_e2",
+    "old_test_indices": [
+      1293,
+      2038,
+      609,
+      365
+    ],
+    "new_test_indices": [
+      70,
+      3,
+      56,
+      765
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      16,
+      13,
+      18,
+      16
+    ],
+    "new_encoder_classes": [
+      3,
+      10,
+      15,
+      9
+    ]
+  },
+  {
+    "id": "s1_d64_e3",
+    "old_test_indices": [
+      2226,
+      1612,
+      1546,
+      1473
+    ],
+    "new_test_indices": [
+      1509,
+      69,
+      227,
+      1497
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      8,
+      6,
+      14
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      3,
+      13
+    ]
+  },
+  {
+    "id": "s1_d64_e4",
+    "old_test_indices": [
+      252,
+      485,
+      1934,
+      1942
+    ],
+    "new_test_indices": [
+      1405,
+      1414,
+      1868,
+      972
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      5,
+      2,
+      1,
+      7
+    ],
+    "new_encoder_classes": [
+      12,
+      9,
+      19,
+      18
+    ]
+  },
+  {
+    "id": "s1_d64_e5",
+    "old_test_indices": [
+      1793,
+      1262,
+      1127,
+      1181
+    ],
+    "new_test_indices": [
+      1541,
+      1897,
+      483,
+      579
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      8,
+      4,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      7,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s1_d64_e6",
+    "old_test_indices": [
+      1391,
+      885,
+      786,
+      1850
+    ],
+    "new_test_indices": [
+      1269,
+      548,
+      1320,
+      373
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      7,
+      1
+    ],
+    "new_encoder_classes": [
+      5,
+      13,
+      7,
+      16
+    ]
+  },
+  {
+    "id": "s1_d64_e7",
+    "old_test_indices": [
+      1672,
+      1298,
+      1345,
+      1060
+    ],
+    "new_test_indices": [
+      967,
+      318,
+      594,
+      166
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      3,
+      4,
+      14,
+      2
+    ],
+    "new_encoder_classes": [
+      8,
+      8,
+      2,
+      14
+    ]
+  },
+  {
+    "id": "s1_d64_e8",
+    "old_test_indices": [
+      1241,
+      1986,
+      1441,
+      758
+    ],
+    "new_test_indices": [
+      1602,
+      807,
+      1894,
+      538
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      19,
+      9,
+      17,
+      0
+    ],
+    "new_encoder_classes": [
+      4,
+      15,
+      14,
+      15
+    ]
+  },
+  {
+    "id": "s1_d64_e9",
+    "old_test_indices": [
+      2026,
+      762,
+      1277,
+      66
+    ],
+    "new_test_indices": [
+      98,
+      1080,
+      1019,
+      1919
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      4,
+      9,
+      13
+    ],
+    "new_encoder_classes": [
+      6,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s1_d64_e10",
+    "old_test_indices": [
+      2104,
+      1744,
+      660,
+      1204
+    ],
+    "new_test_indices": [
+      639,
+      142,
+      935,
+      1785
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      0,
+      4,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      3,
+      6,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "s1_d64_e11",
+    "old_test_indices": [
+      1723,
+      2184,
+      1940,
+      717
+    ],
+    "new_test_indices": [
+      476,
+      465,
+      2160,
+      1156
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      10,
+      10,
+      11,
+      9
+    ],
+    "new_encoder_classes": [
+      14,
+      13,
+      17,
+      13
+    ]
+  },
+  {
+    "id": "s1_d64_e12",
+    "old_test_indices": [
+      1071,
+      729,
+      1730,
+      972
+    ],
+    "new_test_indices": [
+      2030,
+      1878,
+      1675,
+      955
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      1,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      14,
+      10,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s1_d64_e13",
+    "old_test_indices": [
+      780,
+      2045,
+      465,
+      2062
+    ],
+    "new_test_indices": [
+      463,
+      1784,
+      1814,
+      1647
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      14,
+      13,
+      8
+    ],
+    "new_encoder_classes": [
+      13,
+      8,
+      15,
+      7
+    ]
+  },
+  {
+    "id": "s1_d64_e14",
+    "old_test_indices": [
+      1433,
+      2136,
+      772,
+      157
+    ],
+    "new_test_indices": [
+      280,
+      624,
+      264,
+      121
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      14,
+      5,
+      10,
+      2
+    ],
+    "new_encoder_classes": [
+      17,
+      4,
+      1,
+      12
+    ]
+  },
+  {
+    "id": "s1_d64_e15",
+    "old_test_indices": [
+      1647,
+      2127,
+      2211,
+      515
+    ],
+    "new_test_indices": [
+      904,
+      1454,
+      1402,
+      826
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      7,
+      4,
+      16,
+      18
+    ],
+    "new_encoder_classes": [
+      11,
+      3,
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s1_d64_e16",
+    "old_test_indices": [
+      1775,
+      1676,
+      1801,
+      751
+    ],
+    "new_test_indices": [
+      461,
+      612,
+      1776,
+      590
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      6,
+      9,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      10,
+      8,
+      11
+    ]
+  },
+  {
+    "id": "s1_d64_e17",
+    "old_test_indices": [
+      1815,
+      967,
+      1953,
+      164
+    ],
+    "new_test_indices": [
+      876,
+      680,
+      495,
+      1787
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      8,
+      0,
+      4
+    ],
+    "new_encoder_classes": [
+      6,
+      19,
+      0,
+      8
+    ]
+  },
+  {
+    "id": "s1_d64_e18",
+    "old_test_indices": [
+      1061,
+      1264,
+      1127,
+      495
+    ],
+    "new_test_indices": [
+      354,
+      1478,
+      440,
+      1376
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      16,
+      4,
+      0
+    ],
+    "new_encoder_classes": [
+      11,
+      18,
+      18,
+      3
+    ]
+  },
+  {
+    "id": "s1_d64_e19",
+    "old_test_indices": [
+      1664,
+      1528,
+      1913,
+      525
+    ],
+    "new_test_indices": [
+      237,
+      1154,
+      778,
+      389
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      10,
+      12,
+      1
+    ],
+    "new_encoder_classes": [
+      3,
+      13,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s1_d64_e20",
+    "old_test_indices": [
+      918,
+      920,
+      1472,
+      1320
+    ],
+    "new_test_indices": [
+      65,
+      1694,
+      195,
+      778
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      3,
+      2,
+      7
+    ],
+    "new_encoder_classes": [
+      18,
+      1,
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1_d64_e21",
+    "old_test_indices": [
+      759,
+      731,
+      1630,
+      454
+    ],
+    "new_test_indices": [
+      1386,
+      105,
+      1622,
+      1701
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      0,
+      10,
+      1,
+      16
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      16,
+      17
+    ]
+  },
+  {
+    "id": "s1_d64_e22",
+    "old_test_indices": [
+      353,
+      1216,
+      637,
+      119
+    ],
+    "new_test_indices": [
+      526,
+      1358,
+      1982,
+      459
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      15,
+      9,
+      4
+    ],
+    "new_encoder_classes": [
+      2,
+      2,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "s1_d64_e23",
+    "old_test_indices": [
+      1804,
+      1175,
+      1314,
+      321
+    ],
+    "new_test_indices": [
+      1968,
+      1431,
+      772,
+      1924
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      7,
+      8,
+      12,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      11,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "s1_d64_e24",
+    "old_test_indices": [
+      928,
+      1270,
+      35,
+      1417
+    ],
+    "new_test_indices": [
+      2153,
+      2047,
+      336,
+      2199
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      3,
+      8,
+      14
+    ],
+    "new_encoder_classes": [
+      0,
+      10,
+      8,
+      8
+    ]
+  },
+  {
+    "id": "s1_d64_e25",
+    "old_test_indices": [
+      1435,
+      626,
+      178,
+      374
+    ],
+    "new_test_indices": [
+      224,
+      1683,
+      956,
+      501
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      9,
+      13,
+      6
+    ],
+    "new_encoder_classes": [
+      0,
+      3,
+      17,
+      9
+    ]
+  },
+  {
+    "id": "s1_d64_e26",
+    "old_test_indices": [
+      1307,
+      1543,
+      1923,
+      2168
+    ],
+    "new_test_indices": [
+      679,
+      420,
+      477,
+      519
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      12,
+      3,
+      12
+    ],
+    "new_encoder_classes": [
+      1,
+      10,
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s1_d64_e27",
+    "old_test_indices": [
+      637,
+      1463,
+      704,
+      111
+    ],
+    "new_test_indices": [
+      868,
+      650,
+      517,
+      132
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      15,
+      8,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      3,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s1_d64_e28",
+    "old_test_indices": [
+      1594,
+      1913,
+      516,
+      1434
+    ],
+    "new_test_indices": [
+      245,
+      857,
+      42,
+      427
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      3,
+      12,
+      5,
+      2
+    ],
+    "new_encoder_classes": [
+      10,
+      18,
+      16,
+      3
+    ]
+  },
+  {
+    "id": "s1_d64_e29",
+    "old_test_indices": [
+      1986,
+      393,
+      349,
+      457
+    ],
+    "new_test_indices": [
+      879,
+      1465,
+      256,
+      1041
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      8,
+      11,
+      10
+    ],
+    "new_encoder_classes": [
+      3,
+      10,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s1_d64_e30",
+    "old_test_indices": [
+      540,
+      194,
+      1722,
+      1344
+    ],
+    "new_test_indices": [
+      273,
+      1367,
+      1473,
+      1820
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      17,
+      6,
+      13
+    ],
+    "new_encoder_classes": [
+      5,
+      3,
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1_d64_e31",
+    "old_test_indices": [
+      2171,
+      979,
+      1891,
+      40
+    ],
+    "new_test_indices": [
+      2160,
+      1495,
+      1649,
+      1348
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      19,
+      12,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      2,
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s2_d1_e0",
+    "old_test_indices": [
+      1969,
+      579,
+      635,
+      1897
+    ],
+    "new_test_indices": [
+      1102,
+      2183,
+      1292,
+      1744
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      12,
+      7,
+      7
+    ],
+    "new_encoder_classes": [
+      16,
+      12,
+      0,
+      4
+    ]
+  },
+  {
+    "id": "s2_d1_e1",
+    "old_test_indices": [
+      1830,
+      1331,
+      263,
+      762
+    ],
+    "new_test_indices": [
+      2007,
+      903,
+      1622,
+      1571
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      0,
+      6,
+      11,
+      4
+    ],
+    "new_encoder_classes": [
+      1,
+      1,
+      16,
+      15
+    ]
+  },
+  {
+    "id": "s2_d1_e2",
+    "old_test_indices": [
+      1324,
+      2069,
+      264,
+      2083
+    ],
+    "new_test_indices": [
+      1205,
+      436,
+      615,
+      304
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      12,
+      1,
+      14
+    ],
+    "new_encoder_classes": [
+      6,
+      15,
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s2_d1_e3",
+    "old_test_indices": [
+      1637,
+      1008,
+      2199,
+      991
+    ],
+    "new_test_indices": [
+      1745,
+      2138,
+      930,
+      1969
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      8,
+      8,
+      13
+    ],
+    "new_encoder_classes": [
+      10,
+      17,
+      0,
+      10
+    ]
+  },
+  {
+    "id": "s2_d1_e4",
+    "old_test_indices": [
+      181,
+      476,
+      50,
+      538
+    ],
+    "new_test_indices": [
+      698,
+      1898,
+      583,
+      776
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      14,
+      13,
+      15
+    ],
+    "new_encoder_classes": [
+      14,
+      14,
+      7,
+      6
+    ]
+  },
+  {
+    "id": "s2_d1_e5",
+    "old_test_indices": [
+      1871,
+      2240,
+      1458,
+      1968
+    ],
+    "new_test_indices": [
+      1209,
+      1107,
+      208,
+      2158
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      15,
+      18,
+      1,
+      11
+    ],
+    "new_encoder_classes": [
+      19,
+      17,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "s2_d1_e6",
+    "old_test_indices": [
+      1691,
+      1248,
+      386,
+      927
+    ],
+    "new_test_indices": [
+      1514,
+      288,
+      194,
+      1831
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      11,
+      14,
+      1,
+      14
+    ],
+    "new_encoder_classes": [
+      10,
+      1,
+      17,
+      6
+    ]
+  },
+  {
+    "id": "s2_d1_e7",
+    "old_test_indices": [
+      615,
+      2157,
+      152,
+      2152
+    ],
+    "new_test_indices": [
+      1596,
+      220,
+      973,
+      1300
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      13,
+      8,
+      0
+    ],
+    "new_encoder_classes": [
+      13,
+      3,
+      9,
+      13
+    ]
+  },
+  {
+    "id": "s2_d1_e8",
+    "old_test_indices": [
+      597,
+      1990,
+      970,
+      1846
+    ],
+    "new_test_indices": [
+      301,
+      697,
+      1274,
+      358
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      15,
+      17,
+      3,
+      11
+    ],
+    "new_encoder_classes": [
+      11,
+      12,
+      12,
+      8
+    ]
+  },
+  {
+    "id": "s2_d1_e9",
+    "old_test_indices": [
+      2077,
+      1609,
+      1525,
+      1434
+    ],
+    "new_test_indices": [
+      180,
+      758,
+      322,
+      151
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      10,
+      13,
+      2
+    ],
+    "new_encoder_classes": [
+      1,
+      0,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s2_d1_e10",
+    "old_test_indices": [
+      1570,
+      2054,
+      764,
+      211
+    ],
+    "new_test_indices": [
+      1314,
+      766,
+      1711,
+      325
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      19,
+      16,
+      12
+    ],
+    "new_encoder_classes": [
+      12,
+      15,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "s2_d1_e11",
+    "old_test_indices": [
+      2076,
+      1631,
+      1151,
+      472
+    ],
+    "new_test_indices": [
+      101,
+      1467,
+      1794,
+      235
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      14,
+      5,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      18,
+      16,
+      0,
+      15
+    ]
+  },
+  {
+    "id": "s2_d1_e12",
+    "old_test_indices": [
+      2253,
+      1683,
+      1702,
+      1473
+    ],
+    "new_test_indices": [
+      1808,
+      1310,
+      2132,
+      1650
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      3,
+      13,
+      14
+    ],
+    "new_encoder_classes": [
+      5,
+      14,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s2_d1_e13",
+    "old_test_indices": [
+      1446,
+      302,
+      570,
+      482
+    ],
+    "new_test_indices": [
+      2131,
+      1875,
+      1546,
+      1243
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      13,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      14,
+      13,
+      6,
+      3
+    ]
+  },
+  {
+    "id": "s2_d1_e14",
+    "old_test_indices": [
+      772,
+      712,
+      1454,
+      1218
+    ],
+    "new_test_indices": [
+      860,
+      815,
+      122,
+      417
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      10,
+      2,
+      3,
+      13
+    ],
+    "new_encoder_classes": [
+      4,
+      14,
+      12,
+      9
+    ]
+  },
+  {
+    "id": "s2_d1_e15",
+    "old_test_indices": [
+      1956,
+      873,
+      1251,
+      1495
+    ],
+    "new_test_indices": [
+      206,
+      1039,
+      1526,
+      138
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      12,
+      7,
+      2
+    ],
+    "new_encoder_classes": [
+      4,
+      12,
+      10,
+      4
+    ]
+  },
+  {
+    "id": "s2_d1_e16",
+    "old_test_indices": [
+      1171,
+      1886,
+      200,
+      1958
+    ],
+    "new_test_indices": [
+      549,
+      477,
+      1721,
+      1352
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      2,
+      0,
+      0
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      12,
+      17
+    ]
+  },
+  {
+    "id": "s2_d1_e17",
+    "old_test_indices": [
+      780,
+      1409,
+      1715,
+      21
+    ],
+    "new_test_indices": [
+      844,
+      30,
+      1187,
+      142
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      13,
+      8,
+      9
+    ],
+    "new_encoder_classes": [
+      11,
+      6,
+      13,
+      6
+    ]
+  },
+  {
+    "id": "s2_d1_e18",
+    "old_test_indices": [
+      1782,
+      787,
+      855,
+      1683
+    ],
+    "new_test_indices": [
+      475,
+      18,
+      469,
+      857
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      1,
+      15,
+      4,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      3,
+      10,
+      18
+    ]
+  },
+  {
+    "id": "s2_d1_e19",
+    "old_test_indices": [
+      2010,
+      370,
+      478,
+      1848
+    ],
+    "new_test_indices": [
+      163,
+      386,
+      343,
+      1081
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      6,
+      11,
+      19
+    ],
+    "new_encoder_classes": [
+      9,
+      1,
+      14,
+      2
+    ]
+  },
+  {
+    "id": "s2_d1_e20",
+    "old_test_indices": [
+      1492,
+      2128,
+      1783,
+      639
+    ],
+    "new_test_indices": [
+      1302,
+      623,
+      769,
+      233
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      7,
+      12,
+      17,
+      3
+    ],
+    "new_encoder_classes": [
+      6,
+      9,
+      2,
+      6
+    ]
+  },
+  {
+    "id": "s2_d1_e21",
+    "old_test_indices": [
+      1725,
+      935,
+      1081,
+      1252
+    ],
+    "new_test_indices": [
+      2112,
+      1940,
+      1742,
+      1608
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      14,
+      2,
+      4
+    ],
+    "new_encoder_classes": [
+      11,
+      11,
+      6,
+      18
+    ]
+  },
+  {
+    "id": "s2_d1_e22",
+    "old_test_indices": [
+      1116,
+      561,
+      1337,
+      413
+    ],
+    "new_test_indices": [
+      2202,
+      1989,
+      317,
+      927
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      3,
+      14,
+      1
+    ],
+    "new_encoder_classes": [
+      2,
+      17,
+      13,
+      14
+    ]
+  },
+  {
+    "id": "s2_d1_e23",
+    "old_test_indices": [
+      522,
+      1578,
+      680,
+      2216
+    ],
+    "new_test_indices": [
+      833,
+      874,
+      1360,
+      263
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      17,
+      6,
+      19,
+      13
+    ],
+    "new_encoder_classes": [
+      9,
+      15,
+      19,
+      11
+    ]
+  },
+  {
+    "id": "s2_d1_e24",
+    "old_test_indices": [
+      71,
+      660,
+      2193,
+      1072
+    ],
+    "new_test_indices": [
+      2237,
+      1665,
+      939,
+      1095
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      12,
+      4,
+      13
+    ],
+    "new_encoder_classes": [
+      14,
+      11,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s2_d1_e25",
+    "old_test_indices": [
+      2154,
+      1798,
+      827,
+      1232
+    ],
+    "new_test_indices": [
+      1626,
+      1361,
+      404,
+      1076
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      3,
+      15,
+      3,
+      14
+    ],
+    "new_encoder_classes": [
+      17,
+      13,
+      19,
+      4
+    ]
+  },
+  {
+    "id": "s2_d1_e26",
+    "old_test_indices": [
+      1089,
+      1896,
+      2110,
+      1324
+    ],
+    "new_test_indices": [
+      644,
+      1045,
+      267,
+      454
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      13,
+      14,
+      2
+    ],
+    "new_encoder_classes": [
+      8,
+      6,
+      14,
+      6
+    ]
+  },
+  {
+    "id": "s2_d1_e27",
+    "old_test_indices": [
+      649,
+      2032,
+      120,
+      701
+    ],
+    "new_test_indices": [
+      73,
+      2140,
+      1307,
+      1378
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      4,
+      6,
+      1,
+      13
+    ],
+    "new_encoder_classes": [
+      14,
+      8,
+      19,
+      0
+    ]
+  },
+  {
+    "id": "s2_d1_e28",
+    "old_test_indices": [
+      515,
+      1295,
+      321,
+      1768
+    ],
+    "new_test_indices": [
+      708,
+      454,
+      1452,
+      627
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      8,
+      13,
+      14
+    ],
+    "new_encoder_classes": [
+      11,
+      6,
+      14,
+      13
+    ]
+  },
+  {
+    "id": "s2_d1_e29",
+    "old_test_indices": [
+      1755,
+      605,
+      1998,
+      2038
+    ],
+    "new_test_indices": [
+      1769,
+      97,
+      1364,
+      1024
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      17,
+      9,
+      7
+    ],
+    "new_encoder_classes": [
+      6,
+      1,
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s2_d1_e30",
+    "old_test_indices": [
+      1428,
+      273,
+      250,
+      956
+    ],
+    "new_test_indices": [
+      742,
+      1219,
+      82,
+      261
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      0,
+      7,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      11,
+      10,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "s2_d1_e31",
+    "old_test_indices": [
+      870,
+      995,
+      1643,
+      972
+    ],
+    "new_test_indices": [
+      559,
+      1190,
+      451,
+      1517
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      12,
+      9,
+      18
+    ],
+    "new_encoder_classes": [
+      19,
+      9,
+      11,
+      6
+    ]
+  },
+  {
+    "id": "s2_d16_e0",
+    "old_test_indices": [
+      1969,
+      579,
+      635,
+      1897
+    ],
+    "new_test_indices": [
+      1102,
+      2183,
+      1292,
+      1744
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      12,
+      7,
+      7
+    ],
+    "new_encoder_classes": [
+      16,
+      12,
+      0,
+      4
+    ]
+  },
+  {
+    "id": "s2_d16_e1",
+    "old_test_indices": [
+      1830,
+      1331,
+      263,
+      762
+    ],
+    "new_test_indices": [
+      2007,
+      903,
+      1622,
+      1571
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      0,
+      6,
+      11,
+      4
+    ],
+    "new_encoder_classes": [
+      1,
+      1,
+      16,
+      15
+    ]
+  },
+  {
+    "id": "s2_d16_e2",
+    "old_test_indices": [
+      1324,
+      2069,
+      264,
+      2083
+    ],
+    "new_test_indices": [
+      1205,
+      436,
+      615,
+      304
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      12,
+      1,
+      14
+    ],
+    "new_encoder_classes": [
+      6,
+      15,
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s2_d16_e3",
+    "old_test_indices": [
+      1637,
+      1008,
+      2199,
+      991
+    ],
+    "new_test_indices": [
+      1745,
+      2138,
+      930,
+      1969
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      8,
+      8,
+      13
+    ],
+    "new_encoder_classes": [
+      10,
+      17,
+      0,
+      10
+    ]
+  },
+  {
+    "id": "s2_d16_e4",
+    "old_test_indices": [
+      181,
+      476,
+      50,
+      538
+    ],
+    "new_test_indices": [
+      698,
+      1898,
+      583,
+      776
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      14,
+      13,
+      15
+    ],
+    "new_encoder_classes": [
+      14,
+      14,
+      7,
+      6
+    ]
+  },
+  {
+    "id": "s2_d16_e5",
+    "old_test_indices": [
+      1871,
+      2240,
+      1458,
+      1968
+    ],
+    "new_test_indices": [
+      1209,
+      1107,
+      208,
+      2158
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      15,
+      18,
+      1,
+      11
+    ],
+    "new_encoder_classes": [
+      19,
+      17,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "s2_d16_e6",
+    "old_test_indices": [
+      1691,
+      1248,
+      386,
+      927
+    ],
+    "new_test_indices": [
+      1514,
+      288,
+      194,
+      1831
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      11,
+      14,
+      1,
+      14
+    ],
+    "new_encoder_classes": [
+      10,
+      1,
+      17,
+      6
+    ]
+  },
+  {
+    "id": "s2_d16_e7",
+    "old_test_indices": [
+      615,
+      2157,
+      152,
+      2152
+    ],
+    "new_test_indices": [
+      1596,
+      220,
+      973,
+      1300
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      13,
+      8,
+      0
+    ],
+    "new_encoder_classes": [
+      13,
+      3,
+      9,
+      13
+    ]
+  },
+  {
+    "id": "s2_d16_e8",
+    "old_test_indices": [
+      597,
+      1990,
+      970,
+      1846
+    ],
+    "new_test_indices": [
+      301,
+      697,
+      1274,
+      358
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      15,
+      17,
+      3,
+      11
+    ],
+    "new_encoder_classes": [
+      11,
+      12,
+      12,
+      8
+    ]
+  },
+  {
+    "id": "s2_d16_e9",
+    "old_test_indices": [
+      2077,
+      1609,
+      1525,
+      1434
+    ],
+    "new_test_indices": [
+      180,
+      758,
+      322,
+      151
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      10,
+      13,
+      2
+    ],
+    "new_encoder_classes": [
+      1,
+      0,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s2_d16_e10",
+    "old_test_indices": [
+      1570,
+      2054,
+      764,
+      211
+    ],
+    "new_test_indices": [
+      1314,
+      766,
+      1711,
+      325
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      19,
+      16,
+      12
+    ],
+    "new_encoder_classes": [
+      12,
+      15,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "s2_d16_e11",
+    "old_test_indices": [
+      2076,
+      1631,
+      1151,
+      472
+    ],
+    "new_test_indices": [
+      101,
+      1467,
+      1794,
+      235
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      14,
+      5,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      18,
+      16,
+      0,
+      15
+    ]
+  },
+  {
+    "id": "s2_d16_e12",
+    "old_test_indices": [
+      2253,
+      1683,
+      1702,
+      1473
+    ],
+    "new_test_indices": [
+      1808,
+      1310,
+      2132,
+      1650
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      3,
+      13,
+      14
+    ],
+    "new_encoder_classes": [
+      5,
+      14,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s2_d16_e13",
+    "old_test_indices": [
+      1446,
+      302,
+      570,
+      482
+    ],
+    "new_test_indices": [
+      2131,
+      1875,
+      1546,
+      1243
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      13,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      14,
+      13,
+      6,
+      3
+    ]
+  },
+  {
+    "id": "s2_d16_e14",
+    "old_test_indices": [
+      772,
+      712,
+      1454,
+      1218
+    ],
+    "new_test_indices": [
+      860,
+      815,
+      122,
+      417
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      10,
+      2,
+      3,
+      13
+    ],
+    "new_encoder_classes": [
+      4,
+      14,
+      12,
+      9
+    ]
+  },
+  {
+    "id": "s2_d16_e15",
+    "old_test_indices": [
+      1956,
+      873,
+      1251,
+      1495
+    ],
+    "new_test_indices": [
+      206,
+      1039,
+      1526,
+      138
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      12,
+      7,
+      2
+    ],
+    "new_encoder_classes": [
+      4,
+      12,
+      10,
+      4
+    ]
+  },
+  {
+    "id": "s2_d16_e16",
+    "old_test_indices": [
+      1171,
+      1886,
+      200,
+      1958
+    ],
+    "new_test_indices": [
+      549,
+      477,
+      1721,
+      1352
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      2,
+      0,
+      0
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      12,
+      17
+    ]
+  },
+  {
+    "id": "s2_d16_e17",
+    "old_test_indices": [
+      780,
+      1409,
+      1715,
+      21
+    ],
+    "new_test_indices": [
+      844,
+      30,
+      1187,
+      142
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      13,
+      8,
+      9
+    ],
+    "new_encoder_classes": [
+      11,
+      6,
+      13,
+      6
+    ]
+  },
+  {
+    "id": "s2_d16_e18",
+    "old_test_indices": [
+      1782,
+      787,
+      855,
+      1683
+    ],
+    "new_test_indices": [
+      475,
+      18,
+      469,
+      857
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      1,
+      15,
+      4,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      3,
+      10,
+      18
+    ]
+  },
+  {
+    "id": "s2_d16_e19",
+    "old_test_indices": [
+      2010,
+      370,
+      478,
+      1848
+    ],
+    "new_test_indices": [
+      163,
+      386,
+      343,
+      1081
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      6,
+      11,
+      19
+    ],
+    "new_encoder_classes": [
+      9,
+      1,
+      14,
+      2
+    ]
+  },
+  {
+    "id": "s2_d16_e20",
+    "old_test_indices": [
+      1492,
+      2128,
+      1783,
+      639
+    ],
+    "new_test_indices": [
+      1302,
+      623,
+      769,
+      233
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      7,
+      12,
+      17,
+      3
+    ],
+    "new_encoder_classes": [
+      6,
+      9,
+      2,
+      6
+    ]
+  },
+  {
+    "id": "s2_d16_e21",
+    "old_test_indices": [
+      1725,
+      935,
+      1081,
+      1252
+    ],
+    "new_test_indices": [
+      2112,
+      1940,
+      1742,
+      1608
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      14,
+      2,
+      4
+    ],
+    "new_encoder_classes": [
+      11,
+      11,
+      6,
+      18
+    ]
+  },
+  {
+    "id": "s2_d16_e22",
+    "old_test_indices": [
+      1116,
+      561,
+      1337,
+      413
+    ],
+    "new_test_indices": [
+      2202,
+      1989,
+      317,
+      927
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      3,
+      14,
+      1
+    ],
+    "new_encoder_classes": [
+      2,
+      17,
+      13,
+      14
+    ]
+  },
+  {
+    "id": "s2_d16_e23",
+    "old_test_indices": [
+      522,
+      1578,
+      680,
+      2216
+    ],
+    "new_test_indices": [
+      833,
+      874,
+      1360,
+      263
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      17,
+      6,
+      19,
+      13
+    ],
+    "new_encoder_classes": [
+      9,
+      15,
+      19,
+      11
+    ]
+  },
+  {
+    "id": "s2_d16_e24",
+    "old_test_indices": [
+      71,
+      660,
+      2193,
+      1072
+    ],
+    "new_test_indices": [
+      2237,
+      1665,
+      939,
+      1095
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      12,
+      4,
+      13
+    ],
+    "new_encoder_classes": [
+      14,
+      11,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s2_d16_e25",
+    "old_test_indices": [
+      2154,
+      1798,
+      827,
+      1232
+    ],
+    "new_test_indices": [
+      1626,
+      1361,
+      404,
+      1076
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      3,
+      15,
+      3,
+      14
+    ],
+    "new_encoder_classes": [
+      17,
+      13,
+      19,
+      4
+    ]
+  },
+  {
+    "id": "s2_d16_e26",
+    "old_test_indices": [
+      1089,
+      1896,
+      2110,
+      1324
+    ],
+    "new_test_indices": [
+      644,
+      1045,
+      267,
+      454
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      13,
+      14,
+      2
+    ],
+    "new_encoder_classes": [
+      8,
+      6,
+      14,
+      6
+    ]
+  },
+  {
+    "id": "s2_d16_e27",
+    "old_test_indices": [
+      649,
+      2032,
+      120,
+      701
+    ],
+    "new_test_indices": [
+      73,
+      2140,
+      1307,
+      1378
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      4,
+      6,
+      1,
+      13
+    ],
+    "new_encoder_classes": [
+      14,
+      8,
+      19,
+      0
+    ]
+  },
+  {
+    "id": "s2_d16_e28",
+    "old_test_indices": [
+      515,
+      1295,
+      321,
+      1768
+    ],
+    "new_test_indices": [
+      708,
+      454,
+      1452,
+      627
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      8,
+      13,
+      14
+    ],
+    "new_encoder_classes": [
+      11,
+      6,
+      14,
+      13
+    ]
+  },
+  {
+    "id": "s2_d16_e29",
+    "old_test_indices": [
+      1755,
+      605,
+      1998,
+      2038
+    ],
+    "new_test_indices": [
+      1769,
+      97,
+      1364,
+      1024
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      17,
+      9,
+      7
+    ],
+    "new_encoder_classes": [
+      6,
+      1,
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s2_d16_e30",
+    "old_test_indices": [
+      1428,
+      273,
+      250,
+      956
+    ],
+    "new_test_indices": [
+      742,
+      1219,
+      82,
+      261
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      0,
+      7,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      11,
+      10,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "s2_d16_e31",
+    "old_test_indices": [
+      870,
+      995,
+      1643,
+      972
+    ],
+    "new_test_indices": [
+      559,
+      1190,
+      451,
+      1517
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      12,
+      9,
+      18
+    ],
+    "new_encoder_classes": [
+      19,
+      9,
+      11,
+      6
+    ]
+  },
+  {
+    "id": "s2_d64_e0",
+    "old_test_indices": [
+      1969,
+      579,
+      635,
+      1897
+    ],
+    "new_test_indices": [
+      1102,
+      2183,
+      1292,
+      1744
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      12,
+      7,
+      7
+    ],
+    "new_encoder_classes": [
+      16,
+      12,
+      0,
+      4
+    ]
+  },
+  {
+    "id": "s2_d64_e1",
+    "old_test_indices": [
+      1830,
+      1331,
+      263,
+      762
+    ],
+    "new_test_indices": [
+      2007,
+      903,
+      1622,
+      1571
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      0,
+      6,
+      11,
+      4
+    ],
+    "new_encoder_classes": [
+      1,
+      1,
+      16,
+      15
+    ]
+  },
+  {
+    "id": "s2_d64_e2",
+    "old_test_indices": [
+      1324,
+      2069,
+      264,
+      2083
+    ],
+    "new_test_indices": [
+      1205,
+      436,
+      615,
+      304
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      2,
+      12,
+      1,
+      14
+    ],
+    "new_encoder_classes": [
+      6,
+      15,
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s2_d64_e3",
+    "old_test_indices": [
+      1637,
+      1008,
+      2199,
+      991
+    ],
+    "new_test_indices": [
+      1745,
+      2138,
+      930,
+      1969
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      8,
+      8,
+      13
+    ],
+    "new_encoder_classes": [
+      10,
+      17,
+      0,
+      10
+    ]
+  },
+  {
+    "id": "s2_d64_e4",
+    "old_test_indices": [
+      181,
+      476,
+      50,
+      538
+    ],
+    "new_test_indices": [
+      698,
+      1898,
+      583,
+      776
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      14,
+      13,
+      15
+    ],
+    "new_encoder_classes": [
+      14,
+      14,
+      7,
+      6
+    ]
+  },
+  {
+    "id": "s2_d64_e5",
+    "old_test_indices": [
+      1871,
+      2240,
+      1458,
+      1968
+    ],
+    "new_test_indices": [
+      1209,
+      1107,
+      208,
+      2158
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      15,
+      18,
+      1,
+      11
+    ],
+    "new_encoder_classes": [
+      19,
+      17,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "s2_d64_e6",
+    "old_test_indices": [
+      1691,
+      1248,
+      386,
+      927
+    ],
+    "new_test_indices": [
+      1514,
+      288,
+      194,
+      1831
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      11,
+      14,
+      1,
+      14
+    ],
+    "new_encoder_classes": [
+      10,
+      1,
+      17,
+      6
+    ]
+  },
+  {
+    "id": "s2_d64_e7",
+    "old_test_indices": [
+      615,
+      2157,
+      152,
+      2152
+    ],
+    "new_test_indices": [
+      1596,
+      220,
+      973,
+      1300
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      13,
+      8,
+      0
+    ],
+    "new_encoder_classes": [
+      13,
+      3,
+      9,
+      13
+    ]
+  },
+  {
+    "id": "s2_d64_e8",
+    "old_test_indices": [
+      597,
+      1990,
+      970,
+      1846
+    ],
+    "new_test_indices": [
+      301,
+      697,
+      1274,
+      358
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      15,
+      17,
+      3,
+      11
+    ],
+    "new_encoder_classes": [
+      11,
+      12,
+      12,
+      8
+    ]
+  },
+  {
+    "id": "s2_d64_e9",
+    "old_test_indices": [
+      2077,
+      1609,
+      1525,
+      1434
+    ],
+    "new_test_indices": [
+      180,
+      758,
+      322,
+      151
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      10,
+      13,
+      2
+    ],
+    "new_encoder_classes": [
+      1,
+      0,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s2_d64_e10",
+    "old_test_indices": [
+      1570,
+      2054,
+      764,
+      211
+    ],
+    "new_test_indices": [
+      1314,
+      766,
+      1711,
+      325
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      19,
+      16,
+      12
+    ],
+    "new_encoder_classes": [
+      12,
+      15,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "s2_d64_e11",
+    "old_test_indices": [
+      2076,
+      1631,
+      1151,
+      472
+    ],
+    "new_test_indices": [
+      101,
+      1467,
+      1794,
+      235
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      14,
+      5,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      18,
+      16,
+      0,
+      15
+    ]
+  },
+  {
+    "id": "s2_d64_e12",
+    "old_test_indices": [
+      2253,
+      1683,
+      1702,
+      1473
+    ],
+    "new_test_indices": [
+      1808,
+      1310,
+      2132,
+      1650
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      3,
+      13,
+      14
+    ],
+    "new_encoder_classes": [
+      5,
+      14,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s2_d64_e13",
+    "old_test_indices": [
+      1446,
+      302,
+      570,
+      482
+    ],
+    "new_test_indices": [
+      2131,
+      1875,
+      1546,
+      1243
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      13,
+      13,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      14,
+      13,
+      6,
+      3
+    ]
+  },
+  {
+    "id": "s2_d64_e14",
+    "old_test_indices": [
+      772,
+      712,
+      1454,
+      1218
+    ],
+    "new_test_indices": [
+      860,
+      815,
+      122,
+      417
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      10,
+      2,
+      3,
+      13
+    ],
+    "new_encoder_classes": [
+      4,
+      14,
+      12,
+      9
+    ]
+  },
+  {
+    "id": "s2_d64_e15",
+    "old_test_indices": [
+      1956,
+      873,
+      1251,
+      1495
+    ],
+    "new_test_indices": [
+      206,
+      1039,
+      1526,
+      138
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      12,
+      7,
+      2
+    ],
+    "new_encoder_classes": [
+      4,
+      12,
+      10,
+      4
+    ]
+  },
+  {
+    "id": "s2_d64_e16",
+    "old_test_indices": [
+      1171,
+      1886,
+      200,
+      1958
+    ],
+    "new_test_indices": [
+      549,
+      477,
+      1721,
+      1352
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      2,
+      0,
+      0
+    ],
+    "new_encoder_classes": [
+      18,
+      13,
+      12,
+      17
+    ]
+  },
+  {
+    "id": "s2_d64_e17",
+    "old_test_indices": [
+      780,
+      1409,
+      1715,
+      21
+    ],
+    "new_test_indices": [
+      844,
+      30,
+      1187,
+      142
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      13,
+      8,
+      9
+    ],
+    "new_encoder_classes": [
+      11,
+      6,
+      13,
+      6
+    ]
+  },
+  {
+    "id": "s2_d64_e18",
+    "old_test_indices": [
+      1782,
+      787,
+      855,
+      1683
+    ],
+    "new_test_indices": [
+      475,
+      18,
+      469,
+      857
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      1,
+      15,
+      4,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      3,
+      10,
+      18
+    ]
+  },
+  {
+    "id": "s2_d64_e19",
+    "old_test_indices": [
+      2010,
+      370,
+      478,
+      1848
+    ],
+    "new_test_indices": [
+      163,
+      386,
+      343,
+      1081
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      6,
+      11,
+      19
+    ],
+    "new_encoder_classes": [
+      9,
+      1,
+      14,
+      2
+    ]
+  },
+  {
+    "id": "s2_d64_e20",
+    "old_test_indices": [
+      1492,
+      2128,
+      1783,
+      639
+    ],
+    "new_test_indices": [
+      1302,
+      623,
+      769,
+      233
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      7,
+      12,
+      17,
+      3
+    ],
+    "new_encoder_classes": [
+      6,
+      9,
+      2,
+      6
+    ]
+  },
+  {
+    "id": "s2_d64_e21",
+    "old_test_indices": [
+      1725,
+      935,
+      1081,
+      1252
+    ],
+    "new_test_indices": [
+      2112,
+      1940,
+      1742,
+      1608
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      14,
+      2,
+      4
+    ],
+    "new_encoder_classes": [
+      11,
+      11,
+      6,
+      18
+    ]
+  },
+  {
+    "id": "s2_d64_e22",
+    "old_test_indices": [
+      1116,
+      561,
+      1337,
+      413
+    ],
+    "new_test_indices": [
+      2202,
+      1989,
+      317,
+      927
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      17,
+      3,
+      14,
+      1
+    ],
+    "new_encoder_classes": [
+      2,
+      17,
+      13,
+      14
+    ]
+  },
+  {
+    "id": "s2_d64_e23",
+    "old_test_indices": [
+      522,
+      1578,
+      680,
+      2216
+    ],
+    "new_test_indices": [
+      833,
+      874,
+      1360,
+      263
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      17,
+      6,
+      19,
+      13
+    ],
+    "new_encoder_classes": [
+      9,
+      15,
+      19,
+      11
+    ]
+  },
+  {
+    "id": "s2_d64_e24",
+    "old_test_indices": [
+      71,
+      660,
+      2193,
+      1072
+    ],
+    "new_test_indices": [
+      2237,
+      1665,
+      939,
+      1095
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      12,
+      4,
+      13
+    ],
+    "new_encoder_classes": [
+      14,
+      11,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s2_d64_e25",
+    "old_test_indices": [
+      2154,
+      1798,
+      827,
+      1232
+    ],
+    "new_test_indices": [
+      1626,
+      1361,
+      404,
+      1076
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      3,
+      15,
+      3,
+      14
+    ],
+    "new_encoder_classes": [
+      17,
+      13,
+      19,
+      4
+    ]
+  },
+  {
+    "id": "s2_d64_e26",
+    "old_test_indices": [
+      1089,
+      1896,
+      2110,
+      1324
+    ],
+    "new_test_indices": [
+      644,
+      1045,
+      267,
+      454
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      13,
+      14,
+      2
+    ],
+    "new_encoder_classes": [
+      8,
+      6,
+      14,
+      6
+    ]
+  },
+  {
+    "id": "s2_d64_e27",
+    "old_test_indices": [
+      649,
+      2032,
+      120,
+      701
+    ],
+    "new_test_indices": [
+      73,
+      2140,
+      1307,
+      1378
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      4,
+      6,
+      1,
+      13
+    ],
+    "new_encoder_classes": [
+      14,
+      8,
+      19,
+      0
+    ]
+  },
+  {
+    "id": "s2_d64_e28",
+    "old_test_indices": [
+      515,
+      1295,
+      321,
+      1768
+    ],
+    "new_test_indices": [
+      708,
+      454,
+      1452,
+      627
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      18,
+      8,
+      13,
+      14
+    ],
+    "new_encoder_classes": [
+      11,
+      6,
+      14,
+      13
+    ]
+  },
+  {
+    "id": "s2_d64_e29",
+    "old_test_indices": [
+      1755,
+      605,
+      1998,
+      2038
+    ],
+    "new_test_indices": [
+      1769,
+      97,
+      1364,
+      1024
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      17,
+      9,
+      7
+    ],
+    "new_encoder_classes": [
+      6,
+      1,
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s2_d64_e30",
+    "old_test_indices": [
+      1428,
+      273,
+      250,
+      956
+    ],
+    "new_test_indices": [
+      742,
+      1219,
+      82,
+      261
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      0,
+      7,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      11,
+      10,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "s2_d64_e31",
+    "old_test_indices": [
+      870,
+      995,
+      1643,
+      972
+    ],
+    "new_test_indices": [
+      559,
+      1190,
+      451,
+      1517
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      12,
+      9,
+      18
+    ],
+    "new_encoder_classes": [
+      19,
+      9,
+      11,
+      6
+    ]
+  },
+  {
+    "id": "s3_d1_e0",
+    "old_test_indices": [
+      1454,
+      2125,
+      352,
+      339
+    ],
+    "new_test_indices": [
+      720,
+      135,
+      2104,
+      551
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      4,
+      14,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      9,
+      7,
+      11
+    ]
+  },
+  {
+    "id": "s3_d1_e1",
+    "old_test_indices": [
+      668,
+      2062,
+      352,
+      2146
+    ],
+    "new_test_indices": [
+      1626,
+      1543,
+      1539,
+      2081
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      4,
+      8,
+      14,
+      16
+    ],
+    "new_encoder_classes": [
+      17,
+      12,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s3_d1_e2",
+    "old_test_indices": [
+      1751,
+      1697,
+      414,
+      1030
+    ],
+    "new_test_indices": [
+      767,
+      70,
+      1071,
+      1789
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      4,
+      4,
+      3
+    ],
+    "new_encoder_classes": [
+      18,
+      3,
+      16,
+      15
+    ]
+  },
+  {
+    "id": "s3_d1_e3",
+    "old_test_indices": [
+      506,
+      176,
+      1710,
+      606
+    ],
+    "new_test_indices": [
+      1954,
+      1467,
+      1170,
+      812
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      19,
+      14,
+      1
+    ],
+    "new_encoder_classes": [
+      19,
+      16,
+      13,
+      7
+    ]
+  },
+  {
+    "id": "s3_d1_e4",
+    "old_test_indices": [
+      1787,
+      1562,
+      959,
+      1359
+    ],
+    "new_test_indices": [
+      2082,
+      1027,
+      1761,
+      1611
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      15,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      6,
+      18
+    ]
+  },
+  {
+    "id": "s3_d1_e5",
+    "old_test_indices": [
+      689,
+      1475,
+      1878,
+      1182
+    ],
+    "new_test_indices": [
+      745,
+      799,
+      1928,
+      1510
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      3,
+      13,
+      10,
+      10
+    ],
+    "new_encoder_classes": [
+      0,
+      13,
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s3_d1_e6",
+    "old_test_indices": [
+      240,
+      126,
+      119,
+      440
+    ],
+    "new_test_indices": [
+      40,
+      1761,
+      1100,
+      1854
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      13,
+      4,
+      18
+    ],
+    "new_encoder_classes": [
+      3,
+      6,
+      18,
+      19
+    ]
+  },
+  {
+    "id": "s3_d1_e7",
+    "old_test_indices": [
+      1278,
+      2061,
+      269,
+      48
+    ],
+    "new_test_indices": [
+      1575,
+      665,
+      524,
+      1732
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      12,
+      14,
+      5
+    ],
+    "new_encoder_classes": [
+      13,
+      17,
+      3,
+      17
+    ]
+  },
+  {
+    "id": "s3_d1_e8",
+    "old_test_indices": [
+      2008,
+      1427,
+      2079,
+      953
+    ],
+    "new_test_indices": [
+      1969,
+      2114,
+      2009,
+      263
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      12,
+      13,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      10,
+      5,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "s3_d1_e9",
+    "old_test_indices": [
+      1048,
+      745,
+      383,
+      1718
+    ],
+    "new_test_indices": [
+      266,
+      70,
+      789,
+      1076
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      5,
+      0,
+      6,
+      13
+    ],
+    "new_encoder_classes": [
+      15,
+      3,
+      8,
+      4
+    ]
+  },
+  {
+    "id": "s3_d1_e10",
+    "old_test_indices": [
+      1405,
+      2056,
+      1935,
+      525
+    ],
+    "new_test_indices": [
+      237,
+      1896,
+      2164,
+      1752
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      12,
+      9,
+      11,
+      1
+    ],
+    "new_encoder_classes": [
+      3,
+      13,
+      12,
+      12
+    ]
+  },
+  {
+    "id": "s3_d1_e11",
+    "old_test_indices": [
+      935,
+      645,
+      1402,
+      622
+    ],
+    "new_test_indices": [
+      1236,
+      321,
+      602,
+      954
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      10,
+      6,
+      15
+    ],
+    "new_encoder_classes": [
+      1,
+      13,
+      19,
+      3
+    ]
+  },
+  {
+    "id": "s3_d1_e12",
+    "old_test_indices": [
+      799,
+      1147,
+      946,
+      590
+    ],
+    "new_test_indices": [
+      472,
+      222,
+      1541,
+      760
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      13,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      11,
+      14,
+      19
+    ]
+  },
+  {
+    "id": "s3_d1_e13",
+    "old_test_indices": [
+      751,
+      705,
+      30,
+      1771
+    ],
+    "new_test_indices": [
+      382,
+      170,
+      612,
+      424
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      4,
+      0,
+      6,
+      19
+    ],
+    "new_encoder_classes": [
+      14,
+      18,
+      10,
+      1
+    ]
+  },
+  {
+    "id": "s3_d1_e14",
+    "old_test_indices": [
+      1285,
+      1896,
+      446,
+      1989
+    ],
+    "new_test_indices": [
+      1258,
+      1412,
+      788,
+      250
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      11,
+      13,
+      9,
+      17
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3_d1_e15",
+    "old_test_indices": [
+      892,
+      653,
+      81,
+      1959
+    ],
+    "new_test_indices": [
+      1170,
+      559,
+      938,
+      2040
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      0,
+      7,
+      19
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s3_d1_e16",
+    "old_test_indices": [
+      1232,
+      1976,
+      1692,
+      2020
+    ],
+    "new_test_indices": [
+      1003,
+      966,
+      2204,
+      597
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      14,
+      14,
+      10,
+      13
+    ],
+    "new_encoder_classes": [
+      12,
+      13,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s3_d1_e17",
+    "old_test_indices": [
+      521,
+      1416,
+      1534,
+      2064
+    ],
+    "new_test_indices": [
+      752,
+      1568,
+      1450,
+      1290
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      0,
+      0,
+      13,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      1,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "s3_d1_e18",
+    "old_test_indices": [
+      456,
+      1186,
+      1539,
+      269
+    ],
+    "new_test_indices": [
+      474,
+      444,
+      606,
+      702
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      18,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      12,
+      14,
+      1,
+      16
+    ]
+  },
+  {
+    "id": "s3_d1_e19",
+    "old_test_indices": [
+      1515,
+      1955,
+      873,
+      444
+    ],
+    "new_test_indices": [
+      632,
+      1229,
+      205,
+      565
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      13,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      15,
+      5,
+      14,
+      3
+    ]
+  },
+  {
+    "id": "s3_d1_e20",
+    "old_test_indices": [
+      1471,
+      90,
+      1958,
+      211
+    ],
+    "new_test_indices": [
+      2251,
+      705,
+      1052,
+      1617
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      5,
+      13,
+      0,
+      12
+    ],
+    "new_encoder_classes": [
+      13,
+      0,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3_d1_e21",
+    "old_test_indices": [
+      1550,
+      1089,
+      2141,
+      1618
+    ],
+    "new_test_indices": [
+      1625,
+      946,
+      2016,
+      2062
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      6,
+      13,
+      16,
+      17
+    ],
+    "new_encoder_classes": [
+      9,
+      13,
+      8,
+      8
+    ]
+  },
+  {
+    "id": "s3_d1_e22",
+    "old_test_indices": [
+      1347,
+      1226,
+      286,
+      2053
+    ],
+    "new_test_indices": [
+      172,
+      2239,
+      1734,
+      1916
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      6,
+      8,
+      8
+    ],
+    "new_encoder_classes": [
+      13,
+      15,
+      5,
+      4
+    ]
+  },
+  {
+    "id": "s3_d1_e23",
+    "old_test_indices": [
+      2165,
+      1513,
+      2238,
+      1209
+    ],
+    "new_test_indices": [
+      2148,
+      1787,
+      373,
+      1366
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      16,
+      9,
+      17,
+      19
+    ],
+    "new_encoder_classes": [
+      16,
+      8,
+      16,
+      5
+    ]
+  },
+  {
+    "id": "s3_d1_e24",
+    "old_test_indices": [
+      1716,
+      1637,
+      1898,
+      1655
+    ],
+    "new_test_indices": [
+      1543,
+      1295,
+      170,
+      460
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      17,
+      14,
+      10
+    ],
+    "new_encoder_classes": [
+      12,
+      8,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s3_d1_e25",
+    "old_test_indices": [
+      1726,
+      1230,
+      1900,
+      844
+    ],
+    "new_test_indices": [
+      1637,
+      1542,
+      10,
+      1797
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      6,
+      5,
+      16,
+      11
+    ],
+    "new_encoder_classes": [
+      17,
+      13,
+      14,
+      13
+    ]
+  },
+  {
+    "id": "s3_d1_e26",
+    "old_test_indices": [
+      1449,
+      507,
+      130,
+      1867
+    ],
+    "new_test_indices": [
+      1711,
+      178,
+      466,
+      1919
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      3,
+      14,
+      14
+    ],
+    "new_encoder_classes": [
+      7,
+      13,
+      6,
+      6
+    ]
+  },
+  {
+    "id": "s3_d1_e27",
+    "old_test_indices": [
+      475,
+      1149,
+      2024,
+      1814
+    ],
+    "new_test_indices": [
+      1292,
+      122,
+      1411,
+      769
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      5,
+      14,
+      15
+    ],
+    "new_encoder_classes": [
+      0,
+      12,
+      10,
+      2
+    ]
+  },
+  {
+    "id": "s3_d1_e28",
+    "old_test_indices": [
+      1607,
+      1179,
+      1539,
+      2227
+    ],
+    "new_test_indices": [
+      935,
+      901,
+      286,
+      280
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      10,
+      6,
+      17,
+      1
+    ],
+    "new_encoder_classes": [
+      15,
+      0,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s3_d1_e29",
+    "old_test_indices": [
+      351,
+      1163,
+      1266,
+      1600
+    ],
+    "new_test_indices": [
+      141,
+      1415,
+      93,
+      581
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      14,
+      13,
+      15,
+      14
+    ],
+    "new_encoder_classes": [
+      13,
+      14,
+      8,
+      3
+    ]
+  },
+  {
+    "id": "s3_d1_e30",
+    "old_test_indices": [
+      462,
+      363,
+      1508,
+      866
+    ],
+    "new_test_indices": [
+      1005,
+      1035,
+      2074,
+      1880
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      4,
+      1,
+      7,
+      14
+    ],
+    "new_encoder_classes": [
+      7,
+      14,
+      16,
+      4
+    ]
+  },
+  {
+    "id": "s3_d1_e31",
+    "old_test_indices": [
+      178,
+      1895,
+      54,
+      1914
+    ],
+    "new_test_indices": [
+      807,
+      1539,
+      297,
+      1361
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      8,
+      8
+    ],
+    "new_encoder_classes": [
+      15,
+      17,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s3_d16_e0",
+    "old_test_indices": [
+      1454,
+      2125,
+      352,
+      339
+    ],
+    "new_test_indices": [
+      720,
+      135,
+      2104,
+      551
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      4,
+      14,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      9,
+      7,
+      11
+    ]
+  },
+  {
+    "id": "s3_d16_e1",
+    "old_test_indices": [
+      668,
+      2062,
+      352,
+      2146
+    ],
+    "new_test_indices": [
+      1626,
+      1543,
+      1539,
+      2081
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      4,
+      8,
+      14,
+      16
+    ],
+    "new_encoder_classes": [
+      17,
+      12,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s3_d16_e2",
+    "old_test_indices": [
+      1751,
+      1697,
+      414,
+      1030
+    ],
+    "new_test_indices": [
+      767,
+      70,
+      1071,
+      1789
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      4,
+      4,
+      3
+    ],
+    "new_encoder_classes": [
+      18,
+      3,
+      16,
+      15
+    ]
+  },
+  {
+    "id": "s3_d16_e3",
+    "old_test_indices": [
+      506,
+      176,
+      1710,
+      606
+    ],
+    "new_test_indices": [
+      1954,
+      1467,
+      1170,
+      812
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      19,
+      14,
+      1
+    ],
+    "new_encoder_classes": [
+      19,
+      16,
+      13,
+      7
+    ]
+  },
+  {
+    "id": "s3_d16_e4",
+    "old_test_indices": [
+      1787,
+      1562,
+      959,
+      1359
+    ],
+    "new_test_indices": [
+      2082,
+      1027,
+      1761,
+      1611
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      15,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      6,
+      18
+    ]
+  },
+  {
+    "id": "s3_d16_e5",
+    "old_test_indices": [
+      689,
+      1475,
+      1878,
+      1182
+    ],
+    "new_test_indices": [
+      745,
+      799,
+      1928,
+      1510
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      3,
+      13,
+      10,
+      10
+    ],
+    "new_encoder_classes": [
+      0,
+      13,
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s3_d16_e6",
+    "old_test_indices": [
+      240,
+      126,
+      119,
+      440
+    ],
+    "new_test_indices": [
+      40,
+      1761,
+      1100,
+      1854
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      13,
+      4,
+      18
+    ],
+    "new_encoder_classes": [
+      3,
+      6,
+      18,
+      19
+    ]
+  },
+  {
+    "id": "s3_d16_e7",
+    "old_test_indices": [
+      1278,
+      2061,
+      269,
+      48
+    ],
+    "new_test_indices": [
+      1575,
+      665,
+      524,
+      1732
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      12,
+      14,
+      5
+    ],
+    "new_encoder_classes": [
+      13,
+      17,
+      3,
+      17
+    ]
+  },
+  {
+    "id": "s3_d16_e8",
+    "old_test_indices": [
+      2008,
+      1427,
+      2079,
+      953
+    ],
+    "new_test_indices": [
+      1969,
+      2114,
+      2009,
+      263
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      12,
+      13,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      10,
+      5,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "s3_d16_e9",
+    "old_test_indices": [
+      1048,
+      745,
+      383,
+      1718
+    ],
+    "new_test_indices": [
+      266,
+      70,
+      789,
+      1076
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      5,
+      0,
+      6,
+      13
+    ],
+    "new_encoder_classes": [
+      15,
+      3,
+      8,
+      4
+    ]
+  },
+  {
+    "id": "s3_d16_e10",
+    "old_test_indices": [
+      1405,
+      2056,
+      1935,
+      525
+    ],
+    "new_test_indices": [
+      237,
+      1896,
+      2164,
+      1752
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      12,
+      9,
+      11,
+      1
+    ],
+    "new_encoder_classes": [
+      3,
+      13,
+      12,
+      12
+    ]
+  },
+  {
+    "id": "s3_d16_e11",
+    "old_test_indices": [
+      935,
+      645,
+      1402,
+      622
+    ],
+    "new_test_indices": [
+      1236,
+      321,
+      602,
+      954
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      10,
+      6,
+      15
+    ],
+    "new_encoder_classes": [
+      1,
+      13,
+      19,
+      3
+    ]
+  },
+  {
+    "id": "s3_d16_e12",
+    "old_test_indices": [
+      799,
+      1147,
+      946,
+      590
+    ],
+    "new_test_indices": [
+      472,
+      222,
+      1541,
+      760
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      13,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      11,
+      14,
+      19
+    ]
+  },
+  {
+    "id": "s3_d16_e13",
+    "old_test_indices": [
+      751,
+      705,
+      30,
+      1771
+    ],
+    "new_test_indices": [
+      382,
+      170,
+      612,
+      424
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      4,
+      0,
+      6,
+      19
+    ],
+    "new_encoder_classes": [
+      14,
+      18,
+      10,
+      1
+    ]
+  },
+  {
+    "id": "s3_d16_e14",
+    "old_test_indices": [
+      1285,
+      1896,
+      446,
+      1989
+    ],
+    "new_test_indices": [
+      1258,
+      1412,
+      788,
+      250
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      11,
+      13,
+      9,
+      17
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3_d16_e15",
+    "old_test_indices": [
+      892,
+      653,
+      81,
+      1959
+    ],
+    "new_test_indices": [
+      1170,
+      559,
+      938,
+      2040
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      0,
+      7,
+      19
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s3_d16_e16",
+    "old_test_indices": [
+      1232,
+      1976,
+      1692,
+      2020
+    ],
+    "new_test_indices": [
+      1003,
+      966,
+      2204,
+      597
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      14,
+      14,
+      10,
+      13
+    ],
+    "new_encoder_classes": [
+      12,
+      13,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s3_d16_e17",
+    "old_test_indices": [
+      521,
+      1416,
+      1534,
+      2064
+    ],
+    "new_test_indices": [
+      752,
+      1568,
+      1450,
+      1290
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      0,
+      0,
+      13,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      1,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "s3_d16_e18",
+    "old_test_indices": [
+      456,
+      1186,
+      1539,
+      269
+    ],
+    "new_test_indices": [
+      474,
+      444,
+      606,
+      702
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      18,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      12,
+      14,
+      1,
+      16
+    ]
+  },
+  {
+    "id": "s3_d16_e19",
+    "old_test_indices": [
+      1515,
+      1955,
+      873,
+      444
+    ],
+    "new_test_indices": [
+      632,
+      1229,
+      205,
+      565
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      13,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      15,
+      5,
+      14,
+      3
+    ]
+  },
+  {
+    "id": "s3_d16_e20",
+    "old_test_indices": [
+      1471,
+      90,
+      1958,
+      211
+    ],
+    "new_test_indices": [
+      2251,
+      705,
+      1052,
+      1617
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      5,
+      13,
+      0,
+      12
+    ],
+    "new_encoder_classes": [
+      13,
+      0,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3_d16_e21",
+    "old_test_indices": [
+      1550,
+      1089,
+      2141,
+      1618
+    ],
+    "new_test_indices": [
+      1625,
+      946,
+      2016,
+      2062
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      6,
+      13,
+      16,
+      17
+    ],
+    "new_encoder_classes": [
+      9,
+      13,
+      8,
+      8
+    ]
+  },
+  {
+    "id": "s3_d16_e22",
+    "old_test_indices": [
+      1347,
+      1226,
+      286,
+      2053
+    ],
+    "new_test_indices": [
+      172,
+      2239,
+      1734,
+      1916
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      6,
+      8,
+      8
+    ],
+    "new_encoder_classes": [
+      13,
+      15,
+      5,
+      4
+    ]
+  },
+  {
+    "id": "s3_d16_e23",
+    "old_test_indices": [
+      2165,
+      1513,
+      2238,
+      1209
+    ],
+    "new_test_indices": [
+      2148,
+      1787,
+      373,
+      1366
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      16,
+      9,
+      17,
+      19
+    ],
+    "new_encoder_classes": [
+      16,
+      8,
+      16,
+      5
+    ]
+  },
+  {
+    "id": "s3_d16_e24",
+    "old_test_indices": [
+      1716,
+      1637,
+      1898,
+      1655
+    ],
+    "new_test_indices": [
+      1543,
+      1295,
+      170,
+      460
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      17,
+      14,
+      10
+    ],
+    "new_encoder_classes": [
+      12,
+      8,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s3_d16_e25",
+    "old_test_indices": [
+      1726,
+      1230,
+      1900,
+      844
+    ],
+    "new_test_indices": [
+      1637,
+      1542,
+      10,
+      1797
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      6,
+      5,
+      16,
+      11
+    ],
+    "new_encoder_classes": [
+      17,
+      13,
+      14,
+      13
+    ]
+  },
+  {
+    "id": "s3_d16_e26",
+    "old_test_indices": [
+      1449,
+      507,
+      130,
+      1867
+    ],
+    "new_test_indices": [
+      1711,
+      178,
+      466,
+      1919
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      3,
+      14,
+      14
+    ],
+    "new_encoder_classes": [
+      7,
+      13,
+      6,
+      6
+    ]
+  },
+  {
+    "id": "s3_d16_e27",
+    "old_test_indices": [
+      475,
+      1149,
+      2024,
+      1814
+    ],
+    "new_test_indices": [
+      1292,
+      122,
+      1411,
+      769
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      5,
+      14,
+      15
+    ],
+    "new_encoder_classes": [
+      0,
+      12,
+      10,
+      2
+    ]
+  },
+  {
+    "id": "s3_d16_e28",
+    "old_test_indices": [
+      1607,
+      1179,
+      1539,
+      2227
+    ],
+    "new_test_indices": [
+      935,
+      901,
+      286,
+      280
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      10,
+      6,
+      17,
+      1
+    ],
+    "new_encoder_classes": [
+      15,
+      0,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s3_d16_e29",
+    "old_test_indices": [
+      351,
+      1163,
+      1266,
+      1600
+    ],
+    "new_test_indices": [
+      141,
+      1415,
+      93,
+      581
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      14,
+      13,
+      15,
+      14
+    ],
+    "new_encoder_classes": [
+      13,
+      14,
+      8,
+      3
+    ]
+  },
+  {
+    "id": "s3_d16_e30",
+    "old_test_indices": [
+      462,
+      363,
+      1508,
+      866
+    ],
+    "new_test_indices": [
+      1005,
+      1035,
+      2074,
+      1880
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      4,
+      1,
+      7,
+      14
+    ],
+    "new_encoder_classes": [
+      7,
+      14,
+      16,
+      4
+    ]
+  },
+  {
+    "id": "s3_d16_e31",
+    "old_test_indices": [
+      178,
+      1895,
+      54,
+      1914
+    ],
+    "new_test_indices": [
+      807,
+      1539,
+      297,
+      1361
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      8,
+      8
+    ],
+    "new_encoder_classes": [
+      15,
+      17,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s3_d64_e0",
+    "old_test_indices": [
+      1454,
+      2125,
+      352,
+      339
+    ],
+    "new_test_indices": [
+      720,
+      135,
+      2104,
+      551
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      4,
+      14,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      9,
+      7,
+      11
+    ]
+  },
+  {
+    "id": "s3_d64_e1",
+    "old_test_indices": [
+      668,
+      2062,
+      352,
+      2146
+    ],
+    "new_test_indices": [
+      1626,
+      1543,
+      1539,
+      2081
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      4,
+      8,
+      14,
+      16
+    ],
+    "new_encoder_classes": [
+      17,
+      12,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s3_d64_e2",
+    "old_test_indices": [
+      1751,
+      1697,
+      414,
+      1030
+    ],
+    "new_test_indices": [
+      767,
+      70,
+      1071,
+      1789
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      4,
+      4,
+      3
+    ],
+    "new_encoder_classes": [
+      18,
+      3,
+      16,
+      15
+    ]
+  },
+  {
+    "id": "s3_d64_e3",
+    "old_test_indices": [
+      506,
+      176,
+      1710,
+      606
+    ],
+    "new_test_indices": [
+      1954,
+      1467,
+      1170,
+      812
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      8,
+      19,
+      14,
+      1
+    ],
+    "new_encoder_classes": [
+      19,
+      16,
+      13,
+      7
+    ]
+  },
+  {
+    "id": "s3_d64_e4",
+    "old_test_indices": [
+      1787,
+      1562,
+      959,
+      1359
+    ],
+    "new_test_indices": [
+      2082,
+      1027,
+      1761,
+      1611
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      15,
+      13,
+      18
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      6,
+      18
+    ]
+  },
+  {
+    "id": "s3_d64_e5",
+    "old_test_indices": [
+      689,
+      1475,
+      1878,
+      1182
+    ],
+    "new_test_indices": [
+      745,
+      799,
+      1928,
+      1510
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      3,
+      13,
+      10,
+      10
+    ],
+    "new_encoder_classes": [
+      0,
+      13,
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s3_d64_e6",
+    "old_test_indices": [
+      240,
+      126,
+      119,
+      440
+    ],
+    "new_test_indices": [
+      40,
+      1761,
+      1100,
+      1854
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      13,
+      4,
+      18
+    ],
+    "new_encoder_classes": [
+      3,
+      6,
+      18,
+      19
+    ]
+  },
+  {
+    "id": "s3_d64_e7",
+    "old_test_indices": [
+      1278,
+      2061,
+      269,
+      48
+    ],
+    "new_test_indices": [
+      1575,
+      665,
+      524,
+      1732
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      12,
+      14,
+      5
+    ],
+    "new_encoder_classes": [
+      13,
+      17,
+      3,
+      17
+    ]
+  },
+  {
+    "id": "s3_d64_e8",
+    "old_test_indices": [
+      2008,
+      1427,
+      2079,
+      953
+    ],
+    "new_test_indices": [
+      1969,
+      2114,
+      2009,
+      263
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      12,
+      13,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      10,
+      5,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "s3_d64_e9",
+    "old_test_indices": [
+      1048,
+      745,
+      383,
+      1718
+    ],
+    "new_test_indices": [
+      266,
+      70,
+      789,
+      1076
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      5,
+      0,
+      6,
+      13
+    ],
+    "new_encoder_classes": [
+      15,
+      3,
+      8,
+      4
+    ]
+  },
+  {
+    "id": "s3_d64_e10",
+    "old_test_indices": [
+      1405,
+      2056,
+      1935,
+      525
+    ],
+    "new_test_indices": [
+      237,
+      1896,
+      2164,
+      1752
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      12,
+      9,
+      11,
+      1
+    ],
+    "new_encoder_classes": [
+      3,
+      13,
+      12,
+      12
+    ]
+  },
+  {
+    "id": "s3_d64_e11",
+    "old_test_indices": [
+      935,
+      645,
+      1402,
+      622
+    ],
+    "new_test_indices": [
+      1236,
+      321,
+      602,
+      954
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      10,
+      6,
+      15
+    ],
+    "new_encoder_classes": [
+      1,
+      13,
+      19,
+      3
+    ]
+  },
+  {
+    "id": "s3_d64_e12",
+    "old_test_indices": [
+      799,
+      1147,
+      946,
+      590
+    ],
+    "new_test_indices": [
+      472,
+      222,
+      1541,
+      760
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      13,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      11,
+      14,
+      19
+    ]
+  },
+  {
+    "id": "s3_d64_e13",
+    "old_test_indices": [
+      751,
+      705,
+      30,
+      1771
+    ],
+    "new_test_indices": [
+      382,
+      170,
+      612,
+      424
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      4,
+      0,
+      6,
+      19
+    ],
+    "new_encoder_classes": [
+      14,
+      18,
+      10,
+      1
+    ]
+  },
+  {
+    "id": "s3_d64_e14",
+    "old_test_indices": [
+      1285,
+      1896,
+      446,
+      1989
+    ],
+    "new_test_indices": [
+      1258,
+      1412,
+      788,
+      250
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      11,
+      13,
+      9,
+      17
+    ],
+    "new_encoder_classes": [
+      13,
+      11,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3_d64_e15",
+    "old_test_indices": [
+      892,
+      653,
+      81,
+      1959
+    ],
+    "new_test_indices": [
+      1170,
+      559,
+      938,
+      2040
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      0,
+      7,
+      19
+    ],
+    "new_encoder_classes": [
+      13,
+      19,
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s3_d64_e16",
+    "old_test_indices": [
+      1232,
+      1976,
+      1692,
+      2020
+    ],
+    "new_test_indices": [
+      1003,
+      966,
+      2204,
+      597
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      14,
+      14,
+      10,
+      13
+    ],
+    "new_encoder_classes": [
+      12,
+      13,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s3_d64_e17",
+    "old_test_indices": [
+      521,
+      1416,
+      1534,
+      2064
+    ],
+    "new_test_indices": [
+      752,
+      1568,
+      1450,
+      1290
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      0,
+      0,
+      13,
+      4
+    ],
+    "new_encoder_classes": [
+      14,
+      1,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "s3_d64_e18",
+    "old_test_indices": [
+      456,
+      1186,
+      1539,
+      269
+    ],
+    "new_test_indices": [
+      474,
+      444,
+      606,
+      702
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      18,
+      17,
+      14
+    ],
+    "new_encoder_classes": [
+      12,
+      14,
+      1,
+      16
+    ]
+  },
+  {
+    "id": "s3_d64_e19",
+    "old_test_indices": [
+      1515,
+      1955,
+      873,
+      444
+    ],
+    "new_test_indices": [
+      632,
+      1229,
+      205,
+      565
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      10,
+      13,
+      12,
+      14
+    ],
+    "new_encoder_classes": [
+      15,
+      5,
+      14,
+      3
+    ]
+  },
+  {
+    "id": "s3_d64_e20",
+    "old_test_indices": [
+      1471,
+      90,
+      1958,
+      211
+    ],
+    "new_test_indices": [
+      2251,
+      705,
+      1052,
+      1617
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      5,
+      13,
+      0,
+      12
+    ],
+    "new_encoder_classes": [
+      13,
+      0,
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3_d64_e21",
+    "old_test_indices": [
+      1550,
+      1089,
+      2141,
+      1618
+    ],
+    "new_test_indices": [
+      1625,
+      946,
+      2016,
+      2062
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      6,
+      13,
+      16,
+      17
+    ],
+    "new_encoder_classes": [
+      9,
+      13,
+      8,
+      8
+    ]
+  },
+  {
+    "id": "s3_d64_e22",
+    "old_test_indices": [
+      1347,
+      1226,
+      286,
+      2053
+    ],
+    "new_test_indices": [
+      172,
+      2239,
+      1734,
+      1916
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      6,
+      8,
+      8
+    ],
+    "new_encoder_classes": [
+      13,
+      15,
+      5,
+      4
+    ]
+  },
+  {
+    "id": "s3_d64_e23",
+    "old_test_indices": [
+      2165,
+      1513,
+      2238,
+      1209
+    ],
+    "new_test_indices": [
+      2148,
+      1787,
+      373,
+      1366
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      16,
+      9,
+      17,
+      19
+    ],
+    "new_encoder_classes": [
+      16,
+      8,
+      16,
+      5
+    ]
+  },
+  {
+    "id": "s3_d64_e24",
+    "old_test_indices": [
+      1716,
+      1637,
+      1898,
+      1655
+    ],
+    "new_test_indices": [
+      1543,
+      1295,
+      170,
+      460
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      17,
+      14,
+      10
+    ],
+    "new_encoder_classes": [
+      12,
+      8,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s3_d64_e25",
+    "old_test_indices": [
+      1726,
+      1230,
+      1900,
+      844
+    ],
+    "new_test_indices": [
+      1637,
+      1542,
+      10,
+      1797
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      6,
+      5,
+      16,
+      11
+    ],
+    "new_encoder_classes": [
+      17,
+      13,
+      14,
+      13
+    ]
+  },
+  {
+    "id": "s3_d64_e26",
+    "old_test_indices": [
+      1449,
+      507,
+      130,
+      1867
+    ],
+    "new_test_indices": [
+      1711,
+      178,
+      466,
+      1919
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      3,
+      14,
+      14
+    ],
+    "new_encoder_classes": [
+      7,
+      13,
+      6,
+      6
+    ]
+  },
+  {
+    "id": "s3_d64_e27",
+    "old_test_indices": [
+      475,
+      1149,
+      2024,
+      1814
+    ],
+    "new_test_indices": [
+      1292,
+      122,
+      1411,
+      769
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      5,
+      14,
+      15
+    ],
+    "new_encoder_classes": [
+      0,
+      12,
+      10,
+      2
+    ]
+  },
+  {
+    "id": "s3_d64_e28",
+    "old_test_indices": [
+      1607,
+      1179,
+      1539,
+      2227
+    ],
+    "new_test_indices": [
+      935,
+      901,
+      286,
+      280
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      10,
+      6,
+      17,
+      1
+    ],
+    "new_encoder_classes": [
+      15,
+      0,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s3_d64_e29",
+    "old_test_indices": [
+      351,
+      1163,
+      1266,
+      1600
+    ],
+    "new_test_indices": [
+      141,
+      1415,
+      93,
+      581
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      14,
+      13,
+      15,
+      14
+    ],
+    "new_encoder_classes": [
+      13,
+      14,
+      8,
+      3
+    ]
+  },
+  {
+    "id": "s3_d64_e30",
+    "old_test_indices": [
+      462,
+      363,
+      1508,
+      866
+    ],
+    "new_test_indices": [
+      1005,
+      1035,
+      2074,
+      1880
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      4,
+      1,
+      7,
+      14
+    ],
+    "new_encoder_classes": [
+      7,
+      14,
+      16,
+      4
+    ]
+  },
+  {
+    "id": "s3_d64_e31",
+    "old_test_indices": [
+      178,
+      1895,
+      54,
+      1914
+    ],
+    "new_test_indices": [
+      807,
+      1539,
+      297,
+      1361
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      17,
+      8,
+      8
+    ],
+    "new_encoder_classes": [
+      15,
+      17,
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s4_d1_e0",
+    "old_test_indices": [
+      1800,
+      1539,
+      318,
+      1321
+    ],
+    "new_test_indices": [
+      40,
+      223,
+      2204,
+      995
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      17,
+      8,
+      6
+    ],
+    "new_encoder_classes": [
+      3,
+      19,
+      13,
+      12
+    ]
+  },
+  {
+    "id": "s4_d1_e1",
+    "old_test_indices": [
+      1253,
+      1859,
+      908,
+      368
+    ],
+    "new_test_indices": [
+      1057,
+      1372,
+      1689,
+      256
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      18,
+      11,
+      19
+    ],
+    "new_encoder_classes": [
+      0,
+      12,
+      13,
+      13
+    ]
+  },
+  {
+    "id": "s4_d1_e2",
+    "old_test_indices": [
+      1557,
+      448,
+      2197,
+      737
+    ],
+    "new_test_indices": [
+      838,
+      2248,
+      2220,
+      176
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      17,
+      6,
+      10,
+      6
+    ],
+    "new_encoder_classes": [
+      16,
+      6,
+      18,
+      19
+    ]
+  },
+  {
+    "id": "s4_d1_e3",
+    "old_test_indices": [
+      453,
+      237,
+      652,
+      2028
+    ],
+    "new_test_indices": [
+      1123,
+      1935,
+      2,
+      417
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      4,
+      3,
+      19,
+      15
+    ],
+    "new_encoder_classes": [
+      16,
+      11,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s4_d1_e4",
+    "old_test_indices": [
+      1405,
+      1274,
+      841,
+      875
+    ],
+    "new_test_indices": [
+      1203,
+      1053,
+      2132,
+      266
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      12,
+      12,
+      17,
+      18
+    ],
+    "new_encoder_classes": [
+      18,
+      17,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s4_d1_e5",
+    "old_test_indices": [
+      356,
+      773,
+      1654,
+      1513
+    ],
+    "new_test_indices": [
+      1551,
+      2145,
+      212,
+      873
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      7,
+      5,
+      3,
+      9
+    ],
+    "new_encoder_classes": [
+      2,
+      6,
+      16,
+      12
+    ]
+  },
+  {
+    "id": "s4_d1_e6",
+    "old_test_indices": [
+      220,
+      1370,
+      1117,
+      2040
+    ],
+    "new_test_indices": [
+      1368,
+      2139,
+      1809,
+      1002
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      15,
+      0,
+      9
+    ],
+    "new_encoder_classes": [
+      19,
+      4,
+      4,
+      13
+    ]
+  },
+  {
+    "id": "s4_d1_e7",
+    "old_test_indices": [
+      147,
+      1654,
+      576,
+      1441
+    ],
+    "new_test_indices": [
+      2139,
+      1627,
+      769,
+      1467
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      0,
+      3,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      4,
+      11,
+      2,
+      16
+    ]
+  },
+  {
+    "id": "s4_d1_e8",
+    "old_test_indices": [
+      869,
+      1332,
+      1610,
+      2160
+    ],
+    "new_test_indices": [
+      2192,
+      2222,
+      2136,
+      248
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      2,
+      12,
+      17,
+      17
+    ],
+    "new_encoder_classes": [
+      17,
+      8,
+      5,
+      9
+    ]
+  },
+  {
+    "id": "s4_d1_e9",
+    "old_test_indices": [
+      1653,
+      1115,
+      1547,
+      1418
+    ],
+    "new_test_indices": [
+      1921,
+      467,
+      7,
+      282
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      4,
+      14,
+      10,
+      12
+    ],
+    "new_encoder_classes": [
+      4,
+      17,
+      19,
+      18
+    ]
+  },
+  {
+    "id": "s4_d1_e10",
+    "old_test_indices": [
+      1941,
+      381,
+      452,
+      556
+    ],
+    "new_test_indices": [
+      86,
+      613,
+      840,
+      856
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      8,
+      16,
+      14
+    ],
+    "new_encoder_classes": [
+      19,
+      12,
+      10,
+      13
+    ]
+  },
+  {
+    "id": "s4_d1_e11",
+    "old_test_indices": [
+      1737,
+      1897,
+      332,
+      1559
+    ],
+    "new_test_indices": [
+      1975,
+      1517,
+      55,
+      420
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      7,
+      11,
+      18
+    ],
+    "new_encoder_classes": [
+      15,
+      16,
+      6,
+      10
+    ]
+  },
+  {
+    "id": "s4_d1_e12",
+    "old_test_indices": [
+      1920,
+      73,
+      1428,
+      751
+    ],
+    "new_test_indices": [
+      1529,
+      789,
+      1855,
+      1505
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      4,
+      0,
+      4
+    ],
+    "new_encoder_classes": [
+      18,
+      8,
+      4,
+      11
+    ]
+  },
+  {
+    "id": "s4_d1_e13",
+    "old_test_indices": [
+      765,
+      1605,
+      132,
+      1249
+    ],
+    "new_test_indices": [
+      1211,
+      371,
+      561,
+      56
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      10,
+      1,
+      13
+    ],
+    "new_encoder_classes": [
+      2,
+      12,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s4_d1_e14",
+    "old_test_indices": [
+      141,
+      1741,
+      1076,
+      1101
+    ],
+    "new_test_indices": [
+      1782,
+      857,
+      17,
+      1936
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      6,
+      4,
+      17
+    ],
+    "new_encoder_classes": [
+      1,
+      18,
+      14,
+      3
+    ]
+  },
+  {
+    "id": "s4_d1_e15",
+    "old_test_indices": [
+      1579,
+      2155,
+      612,
+      85
+    ],
+    "new_test_indices": [
+      753,
+      1915,
+      1990,
+      364
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      10,
+      10,
+      16
+    ],
+    "new_encoder_classes": [
+      12,
+      4,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s4_d1_e16",
+    "old_test_indices": [
+      212,
+      511,
+      971,
+      1653
+    ],
+    "new_test_indices": [
+      1067,
+      160,
+      1844,
+      861
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      13,
+      6,
+      4
+    ],
+    "new_encoder_classes": [
+      18,
+      1,
+      4,
+      1
+    ]
+  },
+  {
+    "id": "s4_d1_e17",
+    "old_test_indices": [
+      600,
+      1574,
+      403,
+      895
+    ],
+    "new_test_indices": [
+      1625,
+      1723,
+      1397,
+      1148
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      1,
+      6,
+      18
+    ],
+    "new_encoder_classes": [
+      9,
+      10,
+      3,
+      18
+    ]
+  },
+  {
+    "id": "s4_d1_e18",
+    "old_test_indices": [
+      540,
+      1887,
+      1258,
+      1205
+    ],
+    "new_test_indices": [
+      1091,
+      1160,
+      1728,
+      2002
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      15,
+      13,
+      6
+    ],
+    "new_encoder_classes": [
+      13,
+      18,
+      19,
+      6
+    ]
+  },
+  {
+    "id": "s4_d1_e19",
+    "old_test_indices": [
+      255,
+      691,
+      723,
+      1746
+    ],
+    "new_test_indices": [
+      521,
+      1584,
+      926,
+      1629
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      8,
+      15,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      14,
+      2,
+      19
+    ]
+  },
+  {
+    "id": "s4_d1_e20",
+    "old_test_indices": [
+      1334,
+      1463,
+      357,
+      1535
+    ],
+    "new_test_indices": [
+      1490,
+      1990,
+      1783,
+      95
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      15,
+      17,
+      12
+    ],
+    "new_encoder_classes": [
+      9,
+      17,
+      17,
+      0
+    ]
+  },
+  {
+    "id": "s4_d1_e21",
+    "old_test_indices": [
+      1602,
+      590,
+      888,
+      486
+    ],
+    "new_test_indices": [
+      418,
+      501,
+      1002,
+      754
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      11,
+      9,
+      14
+    ],
+    "new_encoder_classes": [
+      3,
+      9,
+      13,
+      10
+    ]
+  },
+  {
+    "id": "s4_d1_e22",
+    "old_test_indices": [
+      2119,
+      1371,
+      80,
+      1864
+    ],
+    "new_test_indices": [
+      1242,
+      1243,
+      2141,
+      903
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      17,
+      8,
+      18
+    ],
+    "new_encoder_classes": [
+      18,
+      3,
+      16,
+      1
+    ]
+  },
+  {
+    "id": "s4_d1_e23",
+    "old_test_indices": [
+      866,
+      1820,
+      851,
+      8
+    ],
+    "new_test_indices": [
+      1557,
+      1654,
+      843,
+      1476
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      14,
+      5,
+      16,
+      18
+    ],
+    "new_encoder_classes": [
+      17,
+      3,
+      18,
+      10
+    ]
+  },
+  {
+    "id": "s4_d1_e24",
+    "old_test_indices": [
+      1028,
+      1853,
+      2007,
+      585
+    ],
+    "new_test_indices": [
+      2022,
+      2076,
+      2102,
+      2175
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      12,
+      19,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      14,
+      9,
+      15
+    ]
+  },
+  {
+    "id": "s4_d1_e25",
+    "old_test_indices": [
+      1786,
+      961,
+      667,
+      1209
+    ],
+    "new_test_indices": [
+      2104,
+      347,
+      2139,
+      148
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      12,
+      7,
+      16,
+      19
+    ],
+    "new_encoder_classes": [
+      7,
+      7,
+      4,
+      14
+    ]
+  },
+  {
+    "id": "s4_d1_e26",
+    "old_test_indices": [
+      968,
+      199,
+      61,
+      379
+    ],
+    "new_test_indices": [
+      362,
+      2014,
+      329,
+      1272
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      10,
+      5,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      4,
+      6,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s4_d1_e27",
+    "old_test_indices": [
+      135,
+      1452,
+      1238,
+      2095
+    ],
+    "new_test_indices": [
+      223,
+      1771,
+      2078,
+      1147
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      14,
+      3,
+      3
+    ],
+    "new_encoder_classes": [
+      19,
+      19,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s4_d1_e28",
+    "old_test_indices": [
+      504,
+      1266,
+      820,
+      846
+    ],
+    "new_test_indices": [
+      1,
+      475,
+      1647,
+      1280
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      11,
+      15,
+      17,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      17,
+      7,
+      10
+    ]
+  },
+  {
+    "id": "s4_d1_e29",
+    "old_test_indices": [
+      1660,
+      1879,
+      589,
+      1172
+    ],
+    "new_test_indices": [
+      177,
+      303,
+      643,
+      867
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      4,
+      13,
+      13
+    ],
+    "new_encoder_classes": [
+      6,
+      6,
+      18,
+      12
+    ]
+  },
+  {
+    "id": "s4_d1_e30",
+    "old_test_indices": [
+      691,
+      2023,
+      1610,
+      786
+    ],
+    "new_test_indices": [
+      454,
+      1785,
+      216,
+      1631
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      2,
+      17,
+      7
+    ],
+    "new_encoder_classes": [
+      6,
+      11,
+      12,
+      5
+    ]
+  },
+  {
+    "id": "s4_d1_e31",
+    "old_test_indices": [
+      760,
+      536,
+      2210,
+      75
+    ],
+    "new_test_indices": [
+      586,
+      1486,
+      22,
+      52
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      7,
+      13,
+      13
+    ],
+    "new_encoder_classes": [
+      1,
+      4,
+      7,
+      18
+    ]
+  },
+  {
+    "id": "s4_d16_e0",
+    "old_test_indices": [
+      1800,
+      1539,
+      318,
+      1321
+    ],
+    "new_test_indices": [
+      40,
+      223,
+      2204,
+      995
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      17,
+      8,
+      6
+    ],
+    "new_encoder_classes": [
+      3,
+      19,
+      13,
+      12
+    ]
+  },
+  {
+    "id": "s4_d16_e1",
+    "old_test_indices": [
+      1253,
+      1859,
+      908,
+      368
+    ],
+    "new_test_indices": [
+      1057,
+      1372,
+      1689,
+      256
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      18,
+      11,
+      19
+    ],
+    "new_encoder_classes": [
+      0,
+      12,
+      13,
+      13
+    ]
+  },
+  {
+    "id": "s4_d16_e2",
+    "old_test_indices": [
+      1557,
+      448,
+      2197,
+      737
+    ],
+    "new_test_indices": [
+      838,
+      2248,
+      2220,
+      176
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      17,
+      6,
+      10,
+      6
+    ],
+    "new_encoder_classes": [
+      16,
+      6,
+      18,
+      19
+    ]
+  },
+  {
+    "id": "s4_d16_e3",
+    "old_test_indices": [
+      453,
+      237,
+      652,
+      2028
+    ],
+    "new_test_indices": [
+      1123,
+      1935,
+      2,
+      417
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      4,
+      3,
+      19,
+      15
+    ],
+    "new_encoder_classes": [
+      16,
+      11,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s4_d16_e4",
+    "old_test_indices": [
+      1405,
+      1274,
+      841,
+      875
+    ],
+    "new_test_indices": [
+      1203,
+      1053,
+      2132,
+      266
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      12,
+      12,
+      17,
+      18
+    ],
+    "new_encoder_classes": [
+      18,
+      17,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s4_d16_e5",
+    "old_test_indices": [
+      356,
+      773,
+      1654,
+      1513
+    ],
+    "new_test_indices": [
+      1551,
+      2145,
+      212,
+      873
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      7,
+      5,
+      3,
+      9
+    ],
+    "new_encoder_classes": [
+      2,
+      6,
+      16,
+      12
+    ]
+  },
+  {
+    "id": "s4_d16_e6",
+    "old_test_indices": [
+      220,
+      1370,
+      1117,
+      2040
+    ],
+    "new_test_indices": [
+      1368,
+      2139,
+      1809,
+      1002
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      15,
+      0,
+      9
+    ],
+    "new_encoder_classes": [
+      19,
+      4,
+      4,
+      13
+    ]
+  },
+  {
+    "id": "s4_d16_e7",
+    "old_test_indices": [
+      147,
+      1654,
+      576,
+      1441
+    ],
+    "new_test_indices": [
+      2139,
+      1627,
+      769,
+      1467
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      0,
+      3,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      4,
+      11,
+      2,
+      16
+    ]
+  },
+  {
+    "id": "s4_d16_e8",
+    "old_test_indices": [
+      869,
+      1332,
+      1610,
+      2160
+    ],
+    "new_test_indices": [
+      2192,
+      2222,
+      2136,
+      248
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      2,
+      12,
+      17,
+      17
+    ],
+    "new_encoder_classes": [
+      17,
+      8,
+      5,
+      9
+    ]
+  },
+  {
+    "id": "s4_d16_e9",
+    "old_test_indices": [
+      1653,
+      1115,
+      1547,
+      1418
+    ],
+    "new_test_indices": [
+      1921,
+      467,
+      7,
+      282
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      4,
+      14,
+      10,
+      12
+    ],
+    "new_encoder_classes": [
+      4,
+      17,
+      19,
+      18
+    ]
+  },
+  {
+    "id": "s4_d16_e10",
+    "old_test_indices": [
+      1941,
+      381,
+      452,
+      556
+    ],
+    "new_test_indices": [
+      86,
+      613,
+      840,
+      856
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      8,
+      16,
+      14
+    ],
+    "new_encoder_classes": [
+      19,
+      12,
+      10,
+      13
+    ]
+  },
+  {
+    "id": "s4_d16_e11",
+    "old_test_indices": [
+      1737,
+      1897,
+      332,
+      1559
+    ],
+    "new_test_indices": [
+      1975,
+      1517,
+      55,
+      420
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      7,
+      11,
+      18
+    ],
+    "new_encoder_classes": [
+      15,
+      16,
+      6,
+      10
+    ]
+  },
+  {
+    "id": "s4_d16_e12",
+    "old_test_indices": [
+      1920,
+      73,
+      1428,
+      751
+    ],
+    "new_test_indices": [
+      1529,
+      789,
+      1855,
+      1505
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      4,
+      0,
+      4
+    ],
+    "new_encoder_classes": [
+      18,
+      8,
+      4,
+      11
+    ]
+  },
+  {
+    "id": "s4_d16_e13",
+    "old_test_indices": [
+      765,
+      1605,
+      132,
+      1249
+    ],
+    "new_test_indices": [
+      1211,
+      371,
+      561,
+      56
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      10,
+      1,
+      13
+    ],
+    "new_encoder_classes": [
+      2,
+      12,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s4_d16_e14",
+    "old_test_indices": [
+      141,
+      1741,
+      1076,
+      1101
+    ],
+    "new_test_indices": [
+      1782,
+      857,
+      17,
+      1936
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      6,
+      4,
+      17
+    ],
+    "new_encoder_classes": [
+      1,
+      18,
+      14,
+      3
+    ]
+  },
+  {
+    "id": "s4_d16_e15",
+    "old_test_indices": [
+      1579,
+      2155,
+      612,
+      85
+    ],
+    "new_test_indices": [
+      753,
+      1915,
+      1990,
+      364
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      10,
+      10,
+      16
+    ],
+    "new_encoder_classes": [
+      12,
+      4,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s4_d16_e16",
+    "old_test_indices": [
+      212,
+      511,
+      971,
+      1653
+    ],
+    "new_test_indices": [
+      1067,
+      160,
+      1844,
+      861
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      13,
+      6,
+      4
+    ],
+    "new_encoder_classes": [
+      18,
+      1,
+      4,
+      1
+    ]
+  },
+  {
+    "id": "s4_d16_e17",
+    "old_test_indices": [
+      600,
+      1574,
+      403,
+      895
+    ],
+    "new_test_indices": [
+      1625,
+      1723,
+      1397,
+      1148
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      1,
+      6,
+      18
+    ],
+    "new_encoder_classes": [
+      9,
+      10,
+      3,
+      18
+    ]
+  },
+  {
+    "id": "s4_d16_e18",
+    "old_test_indices": [
+      540,
+      1887,
+      1258,
+      1205
+    ],
+    "new_test_indices": [
+      1091,
+      1160,
+      1728,
+      2002
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      15,
+      13,
+      6
+    ],
+    "new_encoder_classes": [
+      13,
+      18,
+      19,
+      6
+    ]
+  },
+  {
+    "id": "s4_d16_e19",
+    "old_test_indices": [
+      255,
+      691,
+      723,
+      1746
+    ],
+    "new_test_indices": [
+      521,
+      1584,
+      926,
+      1629
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      8,
+      15,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      14,
+      2,
+      19
+    ]
+  },
+  {
+    "id": "s4_d16_e20",
+    "old_test_indices": [
+      1334,
+      1463,
+      357,
+      1535
+    ],
+    "new_test_indices": [
+      1490,
+      1990,
+      1783,
+      95
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      15,
+      17,
+      12
+    ],
+    "new_encoder_classes": [
+      9,
+      17,
+      17,
+      0
+    ]
+  },
+  {
+    "id": "s4_d16_e21",
+    "old_test_indices": [
+      1602,
+      590,
+      888,
+      486
+    ],
+    "new_test_indices": [
+      418,
+      501,
+      1002,
+      754
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      11,
+      9,
+      14
+    ],
+    "new_encoder_classes": [
+      3,
+      9,
+      13,
+      10
+    ]
+  },
+  {
+    "id": "s4_d16_e22",
+    "old_test_indices": [
+      2119,
+      1371,
+      80,
+      1864
+    ],
+    "new_test_indices": [
+      1242,
+      1243,
+      2141,
+      903
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      17,
+      8,
+      18
+    ],
+    "new_encoder_classes": [
+      18,
+      3,
+      16,
+      1
+    ]
+  },
+  {
+    "id": "s4_d16_e23",
+    "old_test_indices": [
+      866,
+      1820,
+      851,
+      8
+    ],
+    "new_test_indices": [
+      1557,
+      1654,
+      843,
+      1476
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      14,
+      5,
+      16,
+      18
+    ],
+    "new_encoder_classes": [
+      17,
+      3,
+      18,
+      10
+    ]
+  },
+  {
+    "id": "s4_d16_e24",
+    "old_test_indices": [
+      1028,
+      1853,
+      2007,
+      585
+    ],
+    "new_test_indices": [
+      2022,
+      2076,
+      2102,
+      2175
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      12,
+      19,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      14,
+      9,
+      15
+    ]
+  },
+  {
+    "id": "s4_d16_e25",
+    "old_test_indices": [
+      1786,
+      961,
+      667,
+      1209
+    ],
+    "new_test_indices": [
+      2104,
+      347,
+      2139,
+      148
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      12,
+      7,
+      16,
+      19
+    ],
+    "new_encoder_classes": [
+      7,
+      7,
+      4,
+      14
+    ]
+  },
+  {
+    "id": "s4_d16_e26",
+    "old_test_indices": [
+      968,
+      199,
+      61,
+      379
+    ],
+    "new_test_indices": [
+      362,
+      2014,
+      329,
+      1272
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      10,
+      5,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      4,
+      6,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s4_d16_e27",
+    "old_test_indices": [
+      135,
+      1452,
+      1238,
+      2095
+    ],
+    "new_test_indices": [
+      223,
+      1771,
+      2078,
+      1147
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      14,
+      3,
+      3
+    ],
+    "new_encoder_classes": [
+      19,
+      19,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s4_d16_e28",
+    "old_test_indices": [
+      504,
+      1266,
+      820,
+      846
+    ],
+    "new_test_indices": [
+      1,
+      475,
+      1647,
+      1280
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      11,
+      15,
+      17,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      17,
+      7,
+      10
+    ]
+  },
+  {
+    "id": "s4_d16_e29",
+    "old_test_indices": [
+      1660,
+      1879,
+      589,
+      1172
+    ],
+    "new_test_indices": [
+      177,
+      303,
+      643,
+      867
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      4,
+      13,
+      13
+    ],
+    "new_encoder_classes": [
+      6,
+      6,
+      18,
+      12
+    ]
+  },
+  {
+    "id": "s4_d16_e30",
+    "old_test_indices": [
+      691,
+      2023,
+      1610,
+      786
+    ],
+    "new_test_indices": [
+      454,
+      1785,
+      216,
+      1631
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      2,
+      17,
+      7
+    ],
+    "new_encoder_classes": [
+      6,
+      11,
+      12,
+      5
+    ]
+  },
+  {
+    "id": "s4_d16_e31",
+    "old_test_indices": [
+      760,
+      536,
+      2210,
+      75
+    ],
+    "new_test_indices": [
+      586,
+      1486,
+      22,
+      52
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      7,
+      13,
+      13
+    ],
+    "new_encoder_classes": [
+      1,
+      4,
+      7,
+      18
+    ]
+  },
+  {
+    "id": "s4_d64_e0",
+    "old_test_indices": [
+      1800,
+      1539,
+      318,
+      1321
+    ],
+    "new_test_indices": [
+      40,
+      223,
+      2204,
+      995
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      17,
+      8,
+      6
+    ],
+    "new_encoder_classes": [
+      3,
+      19,
+      13,
+      12
+    ]
+  },
+  {
+    "id": "s4_d64_e1",
+    "old_test_indices": [
+      1253,
+      1859,
+      908,
+      368
+    ],
+    "new_test_indices": [
+      1057,
+      1372,
+      1689,
+      256
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      18,
+      11,
+      19
+    ],
+    "new_encoder_classes": [
+      0,
+      12,
+      13,
+      13
+    ]
+  },
+  {
+    "id": "s4_d64_e2",
+    "old_test_indices": [
+      1557,
+      448,
+      2197,
+      737
+    ],
+    "new_test_indices": [
+      838,
+      2248,
+      2220,
+      176
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      17,
+      6,
+      10,
+      6
+    ],
+    "new_encoder_classes": [
+      16,
+      6,
+      18,
+      19
+    ]
+  },
+  {
+    "id": "s4_d64_e3",
+    "old_test_indices": [
+      453,
+      237,
+      652,
+      2028
+    ],
+    "new_test_indices": [
+      1123,
+      1935,
+      2,
+      417
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      4,
+      3,
+      19,
+      15
+    ],
+    "new_encoder_classes": [
+      16,
+      11,
+      13,
+      9
+    ]
+  },
+  {
+    "id": "s4_d64_e4",
+    "old_test_indices": [
+      1405,
+      1274,
+      841,
+      875
+    ],
+    "new_test_indices": [
+      1203,
+      1053,
+      2132,
+      266
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      12,
+      12,
+      17,
+      18
+    ],
+    "new_encoder_classes": [
+      18,
+      17,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s4_d64_e5",
+    "old_test_indices": [
+      356,
+      773,
+      1654,
+      1513
+    ],
+    "new_test_indices": [
+      1551,
+      2145,
+      212,
+      873
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      7,
+      5,
+      3,
+      9
+    ],
+    "new_encoder_classes": [
+      2,
+      6,
+      16,
+      12
+    ]
+  },
+  {
+    "id": "s4_d64_e6",
+    "old_test_indices": [
+      220,
+      1370,
+      1117,
+      2040
+    ],
+    "new_test_indices": [
+      1368,
+      2139,
+      1809,
+      1002
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      3,
+      15,
+      0,
+      9
+    ],
+    "new_encoder_classes": [
+      19,
+      4,
+      4,
+      13
+    ]
+  },
+  {
+    "id": "s4_d64_e7",
+    "old_test_indices": [
+      147,
+      1654,
+      576,
+      1441
+    ],
+    "new_test_indices": [
+      2139,
+      1627,
+      769,
+      1467
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      0,
+      3,
+      13,
+      17
+    ],
+    "new_encoder_classes": [
+      4,
+      11,
+      2,
+      16
+    ]
+  },
+  {
+    "id": "s4_d64_e8",
+    "old_test_indices": [
+      869,
+      1332,
+      1610,
+      2160
+    ],
+    "new_test_indices": [
+      2192,
+      2222,
+      2136,
+      248
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      2,
+      12,
+      17,
+      17
+    ],
+    "new_encoder_classes": [
+      17,
+      8,
+      5,
+      9
+    ]
+  },
+  {
+    "id": "s4_d64_e9",
+    "old_test_indices": [
+      1653,
+      1115,
+      1547,
+      1418
+    ],
+    "new_test_indices": [
+      1921,
+      467,
+      7,
+      282
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      4,
+      14,
+      10,
+      12
+    ],
+    "new_encoder_classes": [
+      4,
+      17,
+      19,
+      18
+    ]
+  },
+  {
+    "id": "s4_d64_e10",
+    "old_test_indices": [
+      1941,
+      381,
+      452,
+      556
+    ],
+    "new_test_indices": [
+      86,
+      613,
+      840,
+      856
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      17,
+      8,
+      16,
+      14
+    ],
+    "new_encoder_classes": [
+      19,
+      12,
+      10,
+      13
+    ]
+  },
+  {
+    "id": "s4_d64_e11",
+    "old_test_indices": [
+      1737,
+      1897,
+      332,
+      1559
+    ],
+    "new_test_indices": [
+      1975,
+      1517,
+      55,
+      420
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      6,
+      7,
+      11,
+      18
+    ],
+    "new_encoder_classes": [
+      15,
+      16,
+      6,
+      10
+    ]
+  },
+  {
+    "id": "s4_d64_e12",
+    "old_test_indices": [
+      1920,
+      73,
+      1428,
+      751
+    ],
+    "new_test_indices": [
+      1529,
+      789,
+      1855,
+      1505
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      17,
+      4,
+      0,
+      4
+    ],
+    "new_encoder_classes": [
+      18,
+      8,
+      4,
+      11
+    ]
+  },
+  {
+    "id": "s4_d64_e13",
+    "old_test_indices": [
+      765,
+      1605,
+      132,
+      1249
+    ],
+    "new_test_indices": [
+      1211,
+      371,
+      561,
+      56
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      10,
+      1,
+      13
+    ],
+    "new_encoder_classes": [
+      2,
+      12,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s4_d64_e14",
+    "old_test_indices": [
+      141,
+      1741,
+      1076,
+      1101
+    ],
+    "new_test_indices": [
+      1782,
+      857,
+      17,
+      1936
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      13,
+      6,
+      4,
+      17
+    ],
+    "new_encoder_classes": [
+      1,
+      18,
+      14,
+      3
+    ]
+  },
+  {
+    "id": "s4_d64_e15",
+    "old_test_indices": [
+      1579,
+      2155,
+      612,
+      85
+    ],
+    "new_test_indices": [
+      753,
+      1915,
+      1990,
+      364
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      13,
+      10,
+      10,
+      16
+    ],
+    "new_encoder_classes": [
+      12,
+      4,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "s4_d64_e16",
+    "old_test_indices": [
+      212,
+      511,
+      971,
+      1653
+    ],
+    "new_test_indices": [
+      1067,
+      160,
+      1844,
+      861
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      16,
+      13,
+      6,
+      4
+    ],
+    "new_encoder_classes": [
+      18,
+      1,
+      4,
+      1
+    ]
+  },
+  {
+    "id": "s4_d64_e17",
+    "old_test_indices": [
+      600,
+      1574,
+      403,
+      895
+    ],
+    "new_test_indices": [
+      1625,
+      1723,
+      1397,
+      1148
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      1,
+      6,
+      18
+    ],
+    "new_encoder_classes": [
+      9,
+      10,
+      3,
+      18
+    ]
+  },
+  {
+    "id": "s4_d64_e18",
+    "old_test_indices": [
+      540,
+      1887,
+      1258,
+      1205
+    ],
+    "new_test_indices": [
+      1091,
+      1160,
+      1728,
+      2002
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      8,
+      15,
+      13,
+      6
+    ],
+    "new_encoder_classes": [
+      13,
+      18,
+      19,
+      6
+    ]
+  },
+  {
+    "id": "s4_d64_e19",
+    "old_test_indices": [
+      255,
+      691,
+      723,
+      1746
+    ],
+    "new_test_indices": [
+      521,
+      1584,
+      926,
+      1629
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      9,
+      8,
+      15,
+      3
+    ],
+    "new_encoder_classes": [
+      17,
+      14,
+      2,
+      19
+    ]
+  },
+  {
+    "id": "s4_d64_e20",
+    "old_test_indices": [
+      1334,
+      1463,
+      357,
+      1535
+    ],
+    "new_test_indices": [
+      1490,
+      1990,
+      1783,
+      95
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      13,
+      15,
+      17,
+      12
+    ],
+    "new_encoder_classes": [
+      9,
+      17,
+      17,
+      0
+    ]
+  },
+  {
+    "id": "s4_d64_e21",
+    "old_test_indices": [
+      1602,
+      590,
+      888,
+      486
+    ],
+    "new_test_indices": [
+      418,
+      501,
+      1002,
+      754
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      19,
+      11,
+      9,
+      14
+    ],
+    "new_encoder_classes": [
+      3,
+      9,
+      13,
+      10
+    ]
+  },
+  {
+    "id": "s4_d64_e22",
+    "old_test_indices": [
+      2119,
+      1371,
+      80,
+      1864
+    ],
+    "new_test_indices": [
+      1242,
+      1243,
+      2141,
+      903
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      8,
+      17,
+      8,
+      18
+    ],
+    "new_encoder_classes": [
+      18,
+      3,
+      16,
+      1
+    ]
+  },
+  {
+    "id": "s4_d64_e23",
+    "old_test_indices": [
+      866,
+      1820,
+      851,
+      8
+    ],
+    "new_test_indices": [
+      1557,
+      1654,
+      843,
+      1476
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      14,
+      5,
+      16,
+      18
+    ],
+    "new_encoder_classes": [
+      17,
+      3,
+      18,
+      10
+    ]
+  },
+  {
+    "id": "s4_d64_e24",
+    "old_test_indices": [
+      1028,
+      1853,
+      2007,
+      585
+    ],
+    "new_test_indices": [
+      2022,
+      2076,
+      2102,
+      2175
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 1,
+    "old_encoder_classes": [
+      9,
+      12,
+      19,
+      11
+    ],
+    "new_encoder_classes": [
+      14,
+      14,
+      9,
+      15
+    ]
+  },
+  {
+    "id": "s4_d64_e25",
+    "old_test_indices": [
+      1786,
+      961,
+      667,
+      1209
+    ],
+    "new_test_indices": [
+      2104,
+      347,
+      2139,
+      148
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 0,
+    "old_encoder_classes": [
+      12,
+      7,
+      16,
+      19
+    ],
+    "new_encoder_classes": [
+      7,
+      7,
+      4,
+      14
+    ]
+  },
+  {
+    "id": "s4_d64_e26",
+    "old_test_indices": [
+      968,
+      199,
+      61,
+      379
+    ],
+    "new_test_indices": [
+      362,
+      2014,
+      329,
+      1272
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      10,
+      5,
+      18,
+      4
+    ],
+    "new_encoder_classes": [
+      4,
+      6,
+      13,
+      1
+    ]
+  },
+  {
+    "id": "s4_d64_e27",
+    "old_test_indices": [
+      135,
+      1452,
+      1238,
+      2095
+    ],
+    "new_test_indices": [
+      223,
+      1771,
+      2078,
+      1147
+    ],
+    "old_query_slot": 3,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      9,
+      14,
+      3,
+      3
+    ],
+    "new_encoder_classes": [
+      19,
+      19,
+      8,
+      17
+    ]
+  },
+  {
+    "id": "s4_d64_e28",
+    "old_test_indices": [
+      504,
+      1266,
+      820,
+      846
+    ],
+    "new_test_indices": [
+      1,
+      475,
+      1647,
+      1280
+    ],
+    "old_query_slot": 0,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      11,
+      15,
+      17,
+      13
+    ],
+    "new_encoder_classes": [
+      11,
+      17,
+      7,
+      10
+    ]
+  },
+  {
+    "id": "s4_d64_e29",
+    "old_test_indices": [
+      1660,
+      1879,
+      589,
+      1172
+    ],
+    "new_test_indices": [
+      177,
+      303,
+      643,
+      867
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      15,
+      4,
+      13,
+      13
+    ],
+    "new_encoder_classes": [
+      6,
+      6,
+      18,
+      12
+    ]
+  },
+  {
+    "id": "s4_d64_e30",
+    "old_test_indices": [
+      691,
+      2023,
+      1610,
+      786
+    ],
+    "new_test_indices": [
+      454,
+      1785,
+      216,
+      1631
+    ],
+    "old_query_slot": 1,
+    "new_query_slot": 2,
+    "old_encoder_classes": [
+      8,
+      2,
+      17,
+      7
+    ],
+    "new_encoder_classes": [
+      6,
+      11,
+      12,
+      5
+    ]
+  },
+  {
+    "id": "s4_d64_e31",
+    "old_test_indices": [
+      760,
+      536,
+      2210,
+      75
+    ],
+    "new_test_indices": [
+      586,
+      1486,
+      22,
+      52
+    ],
+    "old_query_slot": 2,
+    "new_query_slot": 3,
+    "old_encoder_classes": [
+      9,
+      7,
+      13,
+      13
+    ],
+    "new_encoder_classes": [
+      1,
+      4,
+      7,
+      18
+    ]
+  }
+]

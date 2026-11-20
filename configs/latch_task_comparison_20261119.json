@@ -1,0 +1,7 @@
+{
+  "hold_cycles": 12, "window_cycles": 5, "phase_count": 16,
+  "protocol": "Each native E1 period is the median same-neuron interval during the second half of a separate unforced ON calibration. Apply reset after 12+i/16 periods, wait 12 periods, apply rewrite, wait 12 periods. Read final 5 periods of each stage. Floor integer boundaries.",
+  "arms": ["full", "skip_reset", "skip_rewrite"],
+  "outcome": "At least one excitatory spike gives ON. Success of the complete task requires ON/OFF/ON. Expected control signatures are ON/ON/ON and ON/OFF/OFF.",
+  "interface": "Use previously calibrated native commands from each model. Keep coupling on; no access to state for task readout. Native strengths, clock durations and finite windows are not physically interchangeable."
+}

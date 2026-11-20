@@ -1,0 +1,17 @@
+{
+  "dataset": "N-MNIST, Mendeley Data v1, official Test.zip",
+  "doi": "10.17632/468j46mzdv.1",
+  "url": "https://data.mendeley.com/public-files/datasets/468j46mzdv/files/05a4d654-7e03-4c15-bdfa-9bb2bcbea494/file_downloaded",
+  "size_bytes": 169674850,
+  "sha256": "6ecfd5d85dbb49a631961d8dc3101871c5be53e645004ee34064f6557d169f09",
+  "sample": "Within each digit sort .bin paths by sha256('NN-NMNIST-20261119-v1|' plus full archive path). Select the first 32. For digit d and j=0..15 pair its j-th recording with recording 16+j of digit (d+1) modulo 10. Each recording used once.",
+  "descriptor": "One bit for each of four fixed y bands indexed by floor(4*y/34); bit=1 iff more events have x>=17 than x<17 in the band. Both polarities and all saccades retained, ties or empty band map to zero. Skip overflow markers (y=240).",
+  "network": "4 modules, directed unit-weight ring, original integer model; no control access to state bits",
+  "delay_steps": 16,
+  "deadline": 24,
+  "write": "14 for 2 ticks followed by 6 for settling with zero drive",
+  "arms": ["locked", "row_tight", "no_suppression_equal_wait", "ideal_register"],
+  "measure": "same old and new event descriptors per arm. Primary endpoint all four rewritten bits correct. Also exact zero after release, old read correctness, old whole-word intrusion among changed words, bit errors, native protocol E,D,H; global zero required even when old code denotes zero bits.",
+  "readout": "two-step spike counts, unique winner per bit. Score entire 4-bit word.",
+  "inference": "160 paired episodes, no repeated sample, deterministic pilot. Interval if requested descriptive Wilson per arm. No image or event classification claim, and no claim about a naturally measured topology."
+}

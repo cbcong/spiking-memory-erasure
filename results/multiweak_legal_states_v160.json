@@ -1,0 +1,562 @@
+{
+  "seed": 291613,
+  "generator": "numpy.default_rng(SeedSequence([seed,n,profile_index]))",
+  "numpy_version": "1.26.4",
+  "profile_order": [
+    "uniform_legal",
+    "high_current",
+    "translated_domain"
+  ],
+  "protocol_key": "E,D,H",
+  "records": [
+    {
+      "n": 32,
+      "profile": "uniform_legal",
+      "layout": "alternating",
+      "cases": 32,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 27
+    },
+    {
+      "n": 32,
+      "profile": "uniform_legal",
+      "layout": "clustered",
+      "cases": 32,
+      "L": 16,
+      "certified_D": 106,
+      "results": {
+        "3,17,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "3,106,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 27
+    },
+    {
+      "n": 32,
+      "profile": "high_current",
+      "layout": "alternating",
+      "cases": 32,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 27
+    },
+    {
+      "n": 32,
+      "profile": "high_current",
+      "layout": "clustered",
+      "cases": 32,
+      "L": 16,
+      "certified_D": 106,
+      "results": {
+        "3,17,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "3,106,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 27
+    },
+    {
+      "n": 32,
+      "profile": "translated_domain",
+      "layout": "alternating",
+      "cases": 32,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 27
+    },
+    {
+      "n": 32,
+      "profile": "translated_domain",
+      "layout": "clustered",
+      "cases": 32,
+      "L": 16,
+      "certified_D": 106,
+      "results": {
+        "3,17,10": {
+          "zero": 20,
+          "nonzero_indices": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        "3,106,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 32,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 27
+    },
+    {
+      "n": 64,
+      "profile": "uniform_legal",
+      "layout": "alternating",
+      "cases": 64,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 64,
+      "profile": "uniform_legal",
+      "layout": "clustered",
+      "cases": 64,
+      "L": 32,
+      "certified_D": 202,
+      "results": {
+        "3,17,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "3,202,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 64,
+      "profile": "high_current",
+      "layout": "alternating",
+      "cases": 64,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 64,
+      "profile": "high_current",
+      "layout": "clustered",
+      "cases": 64,
+      "L": 32,
+      "certified_D": 202,
+      "results": {
+        "3,17,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "3,202,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 64,
+      "profile": "translated_domain",
+      "layout": "alternating",
+      "cases": 64,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 64,
+      "profile": "translated_domain",
+      "layout": "clustered",
+      "cases": 64,
+      "L": 32,
+      "certified_D": 202,
+      "results": {
+        "3,17,10": {
+          "zero": 18,
+          "nonzero_indices": [
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        "3,202,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 64,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 128,
+      "profile": "uniform_legal",
+      "layout": "alternating",
+      "cases": 128,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 128,
+      "profile": "uniform_legal",
+      "layout": "clustered",
+      "cases": 128,
+      "L": 64,
+      "certified_D": 394,
+      "results": {
+        "3,17,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        },
+        "3,394,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 128,
+      "profile": "high_current",
+      "layout": "alternating",
+      "cases": 128,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 128,
+      "profile": "high_current",
+      "layout": "clustered",
+      "cases": 128,
+      "L": 64,
+      "certified_D": 394,
+      "results": {
+        "3,17,10": {
+          "zero": 127,
+          "nonzero_indices": [
+            96
+          ]
+        },
+        "3,394,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 128,
+      "profile": "translated_domain",
+      "layout": "alternating",
+      "cases": 128,
+      "L": 1,
+      "certified_D": 17,
+      "results": {
+        "3,17,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    },
+    {
+      "n": 128,
+      "profile": "translated_domain",
+      "layout": "clustered",
+      "cases": 128,
+      "L": 64,
+      "certified_D": 394,
+      "results": {
+        "3,17,10": {
+          "zero": 20,
+          "nonzero_indices": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+          ]
+        },
+        "3,394,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        },
+        "4,10,10": {
+          "zero": 128,
+          "nonzero_indices": []
+        }
+      },
+      "reference_updates": 0
+    }
+  ]
+}

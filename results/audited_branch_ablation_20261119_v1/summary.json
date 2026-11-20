@@ -1,0 +1,83 @@
+{
+  "arms": [
+    {
+      "budget": 20,
+      "arm": "split",
+      "total": 1065,
+      "accepted": 694,
+      "incorrect": 0,
+      "selected": 852,
+      "repeats": [
+        139,
+        135,
+        139,
+        142,
+        139
+      ]
+    },
+    {
+      "budget": 20,
+      "arm": "hull",
+      "total": 1065,
+      "accepted": 428,
+      "incorrect": 0,
+      "selected": 586,
+      "repeats": [
+        84,
+        85,
+        86,
+        86,
+        87
+      ]
+    },
+    {
+      "budget": 100,
+      "arm": "split",
+      "total": 1065,
+      "accepted": 1064,
+      "incorrect": 0,
+      "selected": 1065,
+      "repeats": [
+        213,
+        212,
+        213,
+        213,
+        213
+      ]
+    },
+    {
+      "budget": 100,
+      "arm": "hull",
+      "total": 1065,
+      "accepted": 1064,
+      "incorrect": 0,
+      "selected": 1065,
+      "repeats": [
+        213,
+        213,
+        213,
+        212,
+        213
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "budget": 20,
+      "counts": {
+        "both": 428,
+        "split_only": 266,
+        "neither": 371
+      }
+    },
+    {
+      "budget": 100,
+      "counts": {
+        "both": 1063,
+        "split_only": 1,
+        "hull_only": 1
+      }
+    }
+  ],
+  "elapsed_seconds": 85.70979369999259
+}

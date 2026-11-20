@@ -1,0 +1,14 @@
+{
+  "modules": 48,
+  "blocks": 4,
+  "pairs": 24,
+  "first_seed": 140202611,
+  "deadline": 60,
+  "arms": ["global", "block"],
+  "rng": "Python random.Random, separate per-pair streams using string seed <seed>:<profile|global|block>",
+  "weights": "Per target independently draw degree uniformly from 1..4, then each weight uniformly from 1..4. Both arms share the ordered vector.",
+  "wiring": "Four equal contiguous groups. Global sources uniform among all eligible nonself sources. Block arm first chooses within-group source with probability .8 and outside-group otherwise. Sources used at most once per target.",
+  "methods": "Locked protocol versus per-graph minimum of row-tight and marginal intervals, ranked by peak E, total D+H, then D.",
+  "endpoints": "Aggregate peak saving 1-sum(E_locked)/sum(E_strong) separately by arm; peak wins/ties/losses, mean completion-time change, pooled E*D and relative change. Paired contrast of absolute unit savings ((E_strong-E_locked)_block minus same for global) and arm savings percentages.",
+  "validation": "Verify unique matrix hashes, diagonal zero, equal per-target incoming weight multisets and equal row baselines in each pair, all plans within budget; reference-replay two initial states of each graph under the locked plan. Pooled within-group edge fraction reported separately by arm. Descriptive fixed panel; no causal claims for community membership independently of outgoing degrees."
+}

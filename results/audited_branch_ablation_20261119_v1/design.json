@@ -1,0 +1,24 @@
+{
+  "created_utc": "2026-11-19T03:01:19.658071+00:00",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "python": "3.12.4",
+  "order_seed": 2026111906,
+  "repetitions": 5,
+  "budgets_ms": [
+    20,
+    100
+  ],
+  "contract": "first certificate then fresh independent full original-domain Fraction audit through the claimed H, stop at the first certificate, atomic completion required by common wall deadline, no reoptimization and no cross-call cache",
+  "file_sha256": {
+    "results\\erasure_study_20261112_v3\\case_details.json": "969aebf05c70c53c815913513c7b6aa91fef03b01ca53b196318e3b8196b98ff",
+    "experiments\\run_audited_branch_ablation.py": "37083103eb6c800bf0e200b1d4a03a1ee4f5ab8b706866328861bf2ebf3a9cb7",
+    "experiments\\run_branch_ablation.py": "29ca5876d0b8e32a1a0cb466ba28a947709b90b1261a906481ecaba4d8abcd53",
+    "experiments\\run_protocol_selection.py": "4f4d5077943c02744d48fd2a64bc4a9530b7c09ea913c1edcfbf602795334f45",
+    "integer_snn\\fixed_protocol.py": "9fdddd8d80d0c1bff0c63f9d2954cfff2cc091e2670f04cc79aab0a492c29799",
+    "integer_snn\\certificates.py": "50d04da49908b802c5a3c653bf7f49648ee56c050290ae0042b3cd015cc06728",
+    "integer_snn\\model.py": "704a1ec6c79f6b4ab24408f3f6d231629b25ef7d5bc39b79f9b6aca3aa9f4d01",
+    "integer_snn\\phase_erasure.py": "452cb1f0ae42e75b97d2cbdbd9a030728a5fa1f98a0910bc215ee8b152d6e9a0",
+    "integer_snn\\reference.py": "aa06698286168721cf98161f983ecce09fc07e405dd6e15bd6a37cf8b3c83abd",
+    "integer_snn\\budgeted_erasure.py": "9ed9cc9da8fb55c98ec05442bd69c4c0e26a529eb2151efbccf047de63c94424"
+  }
+}

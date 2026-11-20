@@ -1,0 +1,3116 @@
+{
+  "state": "From entire ring at zero, five synchronous (14,0) writes",
+  "time": "d=0 at last write. Minimum D scans all durations from zero until exact zero is reachable after release. H is the number of unforced ticks until all registers first equal zero for that D. Neither optimizes over states.",
+  "controls": "Periodic repeats are a symmetry check. Independent of that check, each shuffled ring permutes the same gap multiset with random.Random(56170+n).",
+  "records": [
+    {
+      "layout": "repeated",
+      "n": 32,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 13,
+      "minimum_witness_D": 16,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 32,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 32,
+      "gaps": [
+        4,
+        1,
+        1,
+        8,
+        4,
+        3,
+        8,
+        3
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 13,
+      "minimum_witness_D": 16,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 32,
+      "gaps": [
+        4,
+        1,
+        1,
+        8,
+        4,
+        3,
+        8,
+        3
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 64,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 13,
+      "minimum_witness_D": 16,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 64,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 64,
+      "gaps": [
+        1,
+        8,
+        1,
+        1,
+        3,
+        3,
+        4,
+        4,
+        8,
+        3,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 13,
+      "minimum_witness_D": 16,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 64,
+      "gaps": [
+        1,
+        8,
+        1,
+        1,
+        3,
+        3,
+        4,
+        4,
+        8,
+        3,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 128,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 13,
+      "minimum_witness_D": 16,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 128,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 128,
+      "gaps": [
+        3,
+        1,
+        8,
+        4,
+        1,
+        8,
+        1,
+        8,
+        8,
+        8,
+        1,
+        8,
+        4,
+        3,
+        3,
+        4,
+        1,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4,
+        4,
+        3,
+        3,
+        3,
+        8,
+        1,
+        1,
+        1,
+        8
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 15,
+      "minimum_witness_D": 18,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 16,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 17,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 128,
+      "gaps": [
+        3,
+        1,
+        8,
+        4,
+        1,
+        8,
+        1,
+        8,
+        8,
+        8,
+        1,
+        8,
+        4,
+        3,
+        3,
+        4,
+        1,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4,
+        4,
+        3,
+        3,
+        3,
+        8,
+        1,
+        1,
+        1,
+        8
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 256,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 13,
+      "minimum_witness_D": 16,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 256,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 256,
+      "gaps": [
+        3,
+        8,
+        3,
+        4,
+        3,
+        4,
+        1,
+        3,
+        3,
+        4,
+        1,
+        4,
+        8,
+        8,
+        4,
+        1,
+        1,
+        1,
+        8,
+        8,
+        3,
+        1,
+        4,
+        3,
+        4,
+        1,
+        3,
+        8,
+        1,
+        4,
+        3,
+        8,
+        1,
+        4,
+        1,
+        8,
+        3,
+        3,
+        8,
+        4,
+        3,
+        3,
+        4,
+        4,
+        8,
+        1,
+        4,
+        8,
+        1,
+        4,
+        4,
+        8,
+        8,
+        3,
+        4,
+        1,
+        1,
+        3,
+        8,
+        1,
+        1,
+        8,
+        3,
+        8
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 15,
+      "minimum_witness_D": 18,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 16,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 17,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 256,
+      "gaps": [
+        3,
+        8,
+        3,
+        4,
+        3,
+        4,
+        1,
+        3,
+        3,
+        4,
+        1,
+        4,
+        8,
+        8,
+        4,
+        1,
+        1,
+        1,
+        8,
+        8,
+        3,
+        1,
+        4,
+        3,
+        4,
+        1,
+        3,
+        8,
+        1,
+        4,
+        3,
+        8,
+        1,
+        4,
+        1,
+        8,
+        3,
+        3,
+        8,
+        4,
+        3,
+        3,
+        4,
+        4,
+        8,
+        1,
+        4,
+        8,
+        1,
+        4,
+        4,
+        8,
+        8,
+        3,
+        4,
+        1,
+        1,
+        3,
+        8,
+        1,
+        1,
+        8,
+        3,
+        8
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 512,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 13,
+      "minimum_witness_D": 16,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "repeated",
+      "n": 512,
+      "gaps": [
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1,
+        8,
+        4,
+        3,
+        1
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 512,
+      "gaps": [
+        1,
+        4,
+        3,
+        4,
+        3,
+        4,
+        1,
+        1,
+        8,
+        8,
+        4,
+        4,
+        8,
+        3,
+        8,
+        3,
+        4,
+        4,
+        1,
+        4,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        4,
+        8,
+        1,
+        1,
+        1,
+        8,
+        1,
+        4,
+        3,
+        4,
+        8,
+        1,
+        3,
+        1,
+        8,
+        8,
+        3,
+        1,
+        1,
+        4,
+        8,
+        1,
+        1,
+        3,
+        8,
+        1,
+        3,
+        8,
+        4,
+        8,
+        8,
+        3,
+        1,
+        3,
+        8,
+        4,
+        4,
+        8,
+        8,
+        8,
+        8,
+        8,
+        4,
+        3,
+        8,
+        3,
+        8,
+        4,
+        1,
+        8,
+        1,
+        8,
+        4,
+        4,
+        4,
+        4,
+        1,
+        4,
+        8,
+        4,
+        3,
+        3,
+        3,
+        3,
+        4,
+        3,
+        8,
+        3,
+        1,
+        1,
+        4,
+        3,
+        3,
+        8,
+        1,
+        4,
+        1,
+        4,
+        4,
+        3,
+        1,
+        3,
+        3,
+        1,
+        3,
+        1,
+        3,
+        3,
+        8,
+        3,
+        1,
+        3,
+        8,
+        4,
+        4,
+        8,
+        1,
+        8,
+        4,
+        3,
+        4,
+        8
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 3,
+      "last_spike": 15,
+      "minimum_witness_D": 18,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 16,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 17,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "shuffled",
+      "n": 512,
+      "gaps": [
+        1,
+        4,
+        3,
+        4,
+        3,
+        4,
+        1,
+        1,
+        8,
+        8,
+        4,
+        4,
+        8,
+        3,
+        8,
+        3,
+        4,
+        4,
+        1,
+        4,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        4,
+        8,
+        1,
+        1,
+        1,
+        8,
+        1,
+        4,
+        3,
+        4,
+        8,
+        1,
+        3,
+        1,
+        8,
+        8,
+        3,
+        1,
+        1,
+        4,
+        8,
+        1,
+        1,
+        3,
+        8,
+        1,
+        3,
+        8,
+        4,
+        8,
+        8,
+        3,
+        1,
+        3,
+        8,
+        4,
+        4,
+        8,
+        8,
+        8,
+        8,
+        8,
+        4,
+        3,
+        8,
+        3,
+        8,
+        4,
+        1,
+        8,
+        1,
+        8,
+        4,
+        4,
+        4,
+        4,
+        1,
+        4,
+        8,
+        4,
+        3,
+        3,
+        3,
+        3,
+        4,
+        3,
+        8,
+        3,
+        1,
+        1,
+        4,
+        3,
+        3,
+        8,
+        1,
+        4,
+        1,
+        4,
+        4,
+        3,
+        1,
+        3,
+        3,
+        1,
+        3,
+        1,
+        3,
+        3,
+        8,
+        3,
+        1,
+        3,
+        8,
+        4,
+        4,
+        8,
+        1,
+        8,
+        4,
+        3,
+        4,
+        8
+      ],
+      "longest_strong_run": 7,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "four_even",
+      "n": 64,
+      "gaps": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "longest_strong_run": 15,
+      "amplitude": 3,
+      "last_spike": 31,
+      "minimum_witness_D": 34,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 16,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 17,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 18,
+          "repeat_tick": 22,
+          "period": 2
+        },
+        {
+          "d": 19,
+          "repeat_tick": 21,
+          "period": 2
+        },
+        {
+          "d": 20,
+          "repeat_tick": 20,
+          "period": 2
+        },
+        {
+          "d": 21,
+          "repeat_tick": 19,
+          "period": 2
+        },
+        {
+          "d": 22,
+          "repeat_tick": 18,
+          "period": 2
+        },
+        {
+          "d": 23,
+          "repeat_tick": 17,
+          "period": 2
+        },
+        {
+          "d": 24,
+          "repeat_tick": 16,
+          "period": 2
+        },
+        {
+          "d": 25,
+          "repeat_tick": 15,
+          "period": 2
+        },
+        {
+          "d": 26,
+          "repeat_tick": 14,
+          "period": 2
+        },
+        {
+          "d": 27,
+          "repeat_tick": 13,
+          "period": 2
+        },
+        {
+          "d": 28,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 29,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 30,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 31,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 32,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 33,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "four_even",
+      "n": 64,
+      "gaps": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "longest_strong_run": 15,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "four_clustered",
+      "n": 64,
+      "gaps": [
+        61,
+        1,
+        1,
+        1
+      ],
+      "longest_strong_run": 60,
+      "amplitude": 3,
+      "last_spike": 66,
+      "minimum_witness_D": 69,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": false,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 5,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 7,
+          "repeat_tick": 10,
+          "period": 2
+        },
+        {
+          "d": 8,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 9,
+          "repeat_tick": 16,
+          "period": 2
+        },
+        {
+          "d": 10,
+          "repeat_tick": 13,
+          "period": 2
+        },
+        {
+          "d": 11,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 12,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 13,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 14,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 15,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 16,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 17,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 18,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 19,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 20,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 21,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 22,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 23,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 24,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 25,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 26,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 27,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 28,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 29,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 30,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 31,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 32,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 33,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 34,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 35,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 36,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 37,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 38,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 39,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 40,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 41,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 42,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 43,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 44,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 45,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 46,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 47,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 48,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 49,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 50,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 51,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 52,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 53,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 54,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 55,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 56,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 57,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 58,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 59,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 60,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 61,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 62,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 63,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 64,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 65,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 66,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 67,
+          "repeat_tick": 12,
+          "period": 2
+        },
+        {
+          "d": 68,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "layout": "four_clustered",
+      "n": 64,
+      "gaps": [
+        61,
+        1,
+        1,
+        1
+      ],
+      "longest_strong_run": 60,
+      "amplitude": 4,
+      "last_spike": 4,
+      "minimum_witness_D": 7,
+      "H_at_first_safe_D": 10,
+      "fixed_10_10_zero": true,
+      "rejected_durations_from_zero": [
+        {
+          "d": 0,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 1,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 2,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 3,
+          "repeat_tick": 4,
+          "period": 1
+        },
+        {
+          "d": 4,
+          "repeat_tick": 3,
+          "period": 1
+        },
+        {
+          "d": 5,
+          "repeat_tick": 9,
+          "period": 2
+        },
+        {
+          "d": 6,
+          "repeat_tick": 12,
+          "period": 2
+        }
+      ]
+    }
+  ]
+}

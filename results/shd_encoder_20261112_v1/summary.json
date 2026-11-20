@@ -1,0 +1,273 @@
+{
+  "status": "completed",
+  "created_utc": "2026-11-12T08:02:24.056272+00:00",
+  "config": {
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "max_epochs": 60,
+    "batch_size": 128,
+    "learning_rate": 0.003,
+    "l2": 0.001,
+    "patience": 12,
+    "validation_speakers": [
+      0,
+      1
+    ],
+    "model": "1400 feature to 20 class linear softmax, float32",
+    "selection": "validation accuracy, then lower validation nll",
+    "test_policy": "evaluate official test only after all five fits; do not choose a seed on test",
+    "purpose": "shared frozen front end for derived delayed-query memory task, not SOTA classification",
+    "blas_threads": 2
+  },
+  "features_summary": {
+    "prepared_utc": "2026-11-12T07:59:23.822610+00:00",
+    "raw_manifest": "data/shd/raw/manifest.json",
+    "configuration": {
+      "channel_groups": 70,
+      "time_bins": 20,
+      "horizon_seconds": 1.5,
+      "count_transform": "log1p",
+      "validation_speakers": [
+        0,
+        1
+      ],
+      "normalization": "train-speaker-only mean/std; std floor 0.1; clip [-5,5]"
+    },
+    "sample_counts": {
+      "train": 6340,
+      "validation": 1816,
+      "official_test": 2264
+    },
+    "training_speakers": [
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "validation_speakers": [
+      0,
+      1
+    ],
+    "official_test_unseen_in_original_train_speakers": [
+      4,
+      5
+    ],
+    "exact_record_overlap": {
+      "train_validation": 0,
+      "development_official_test": 0
+    },
+    "source_summaries": {
+      "train": {
+        "samples": 8156,
+        "events": 63993588,
+        "events_at_or_after_horizon": 0,
+        "empty_samples": 0,
+        "maximum_event_time_seconds": 1.369140625
+      },
+      "test": {
+        "samples": 2264,
+        "events": 18631462,
+        "events_at_or_after_horizon": 0,
+        "empty_samples": 0,
+        "maximum_event_time_seconds": 1.169921875
+      }
+    },
+    "features_sha256": "3e994847f8b829275a8c19ebbe07c58254b5969e5957a14916d1e9b54a0103fc",
+    "scope": [
+      "offline event histogram front end, not end-to-end SNN",
+      "test labels are not used for fitting, model selection or normalization",
+      "future query identities are absent from encoder features",
+      "official test has both seen and unseen speakers; report subsets separately",
+      "the task built later is a derived memory benchmark, not the original SHD leaderboard"
+    ],
+    "wall_seconds": 19.863062800002808,
+    "peak_process_working_set_bytes": 264613888,
+    "files_bytes_before_summary": 17289027,
+    "numpy_version": "2.0.2",
+    "h5py_version": "3.12.1"
+  },
+  "seeds": [
+    {
+      "seed": 0,
+      "training": {
+        "accuracy": 0.987223974763407,
+        "nll": 0.13175833225250244,
+        "n": 6340
+      },
+      "validation": {
+        "accuracy": 0.6310572687224669,
+        "nll": 1.5015597343444824,
+        "n": 1816
+      },
+      "test": {
+        "accuracy": 0.7248233215547704,
+        "nll": 0.9314125776290894,
+        "n": 2264
+      },
+      "subgroups": {
+        "unseen_speakers_4_5": {
+          "n": 1840,
+          "accuracy": 0.7032608695652174
+        },
+        "other_speakers": {
+          "n": 424,
+          "accuracy": 0.8183962264150944
+        }
+      },
+      "selected_epoch": 6
+    },
+    {
+      "seed": 1,
+      "training": {
+        "accuracy": 0.9821766561514196,
+        "nll": 0.1556416153907776,
+        "n": 6340
+      },
+      "validation": {
+        "accuracy": 0.6354625550660793,
+        "nll": 1.4603747129440308,
+        "n": 1816
+      },
+      "test": {
+        "accuracy": 0.717756183745583,
+        "nll": 0.9131016731262207,
+        "n": 2264
+      },
+      "subgroups": {
+        "unseen_speakers_4_5": {
+          "n": 1840,
+          "accuracy": 0.6918478260869565
+        },
+        "other_speakers": {
+          "n": 424,
+          "accuracy": 0.8301886792452831
+        }
+      },
+      "selected_epoch": 5
+    },
+    {
+      "seed": 2,
+      "training": {
+        "accuracy": 0.9861198738170347,
+        "nll": 0.13126277923583984,
+        "n": 6340
+      },
+      "validation": {
+        "accuracy": 0.6349118942731278,
+        "nll": 1.4406379461288452,
+        "n": 1816
+      },
+      "test": {
+        "accuracy": 0.7168727915194346,
+        "nll": 0.9051008820533752,
+        "n": 2264
+      },
+      "subgroups": {
+        "unseen_speakers_4_5": {
+          "n": 1840,
+          "accuracy": 0.6934782608695652
+        },
+        "other_speakers": {
+          "n": 424,
+          "accuracy": 0.8183962264150944
+        }
+      },
+      "selected_epoch": 6
+    },
+    {
+      "seed": 3,
+      "training": {
+        "accuracy": 0.9817034700315458,
+        "nll": 0.15399783849716187,
+        "n": 6340
+      },
+      "validation": {
+        "accuracy": 0.6365638766519823,
+        "nll": 1.4211467504501343,
+        "n": 1816
+      },
+      "test": {
+        "accuracy": 0.7296819787985865,
+        "nll": 0.8614940047264099,
+        "n": 2264
+      },
+      "subgroups": {
+        "unseen_speakers_4_5": {
+          "n": 1840,
+          "accuracy": 0.7086956521739131
+        },
+        "other_speakers": {
+          "n": 424,
+          "accuracy": 0.8207547169811321
+        }
+      },
+      "selected_epoch": 5
+    },
+    {
+      "seed": 4,
+      "training": {
+        "accuracy": 0.9561514195583596,
+        "nll": 0.24832528829574585,
+        "n": 6340
+      },
+      "validation": {
+        "accuracy": 0.6431718061674009,
+        "nll": 1.3180550336837769,
+        "n": 1816
+      },
+      "test": {
+        "accuracy": 0.7204063604240283,
+        "nll": 0.8792159557342529,
+        "n": 2264
+      },
+      "subgroups": {
+        "unseen_speakers_4_5": {
+          "n": 1840,
+          "accuracy": 0.6994565217391304
+        },
+        "other_speakers": {
+          "n": 424,
+          "accuracy": 0.8113207547169812
+        }
+      },
+      "selected_epoch": 3
+    }
+  ],
+  "test_accuracy_mean": 0.7219081272084805,
+  "test_accuracy_seed_sd": 0.005333377684849319,
+  "test_accuracy_seed_mean_t95_interval": [
+    0.7152858641488515,
+    0.7285303902681095
+  ],
+  "interval_scope": "5 optimizer/initialization seeds on the same test set; not dataset sampling uncertainty",
+  "encoder_parameter_count": 28020,
+  "encoder_parameter_bytes_float32": 112080,
+  "scope": [
+    "shared offline float32 linear encoder; integer memory is evaluated separately",
+    "not original SHD benchmark SOTA; validation speakers are held out of official train",
+    "no query or delayed-task answer enters encoder features",
+    "same preprocessing and seed-specific encoder to be used for all memory baselines",
+    "do not select the best seed or tune using these test results"
+  ],
+  "source_hashes": {
+    "encoders\\linear.py": "1249370d79be2e9d1ac6bb38bbcdce4d0935901b5d4bbf1f3103667a07239fe1",
+    "experiments/train_shd_encoder.py": "956b1940323e891380e9c621ff9866e939e1d9d980c944249538bd98cfb9f452",
+    "configs\\shd_encoder_v1.json": "6dcdab2a1db1fabe331da158d381fdfc0dac87050fb6b641fdfc97db3eb771b2",
+    "experiments\\build_shd_features.py": "77b89fe0d2fd845137e3e773aab11daa876308f2246798968be01a095cbcfdd6",
+    "tests\\test_linear_encoder.py": "6119f9ac7906d17b6a64f3eca72d7c13bce96083bb2ef43eb3b4c5ea14e72f75"
+  },
+  "wall_seconds": 2.154100200001267,
+  "cpu_seconds": 2.65625,
+  "peak_process_working_set_bytes": 103170048,
+  "gpu_used": false,
+  "download_bytes": 0
+}

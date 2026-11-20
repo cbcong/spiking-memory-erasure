@@ -1,0 +1,6480 @@
+{
+  "domain": "all legal post-update states of the specified fixed three-module model",
+  "objective": "minimize E under D+H <= deadline; search D=0..T and H=T-D",
+  "solver": "PicoSAT via pycosat 0.6.6",
+  "amplitude_cap": 8,
+  "propagation_limit": 3000000,
+  "records": [
+    {
+      "graph": "feedback_fork",
+      "weights": [
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ],
+      "deadline": 18,
+      "exact": {
+        "first_feasible": {
+          "e": 4,
+          "d": 10,
+          "h": 8
+        },
+        "minimum_proved": true,
+        "unknown": [],
+        "counts": {
+          "SAT": 7,
+          "replay": 86,
+          "UNSAT": 1
+        },
+        "checks": [
+          {
+            "e": 0,
+            "d": 0,
+            "status": "SAT",
+            "encoding_s": 0.1276620999997249,
+            "solving_s": 0.18826799999987998,
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 2,
+            "status": "SAT",
+            "encoding_s": 0.1236401999994996,
+            "solving_s": 0.1503515000003972,
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 3,
+            "status": "SAT",
+            "encoding_s": 0.11395450000054552,
+            "solving_s": 0.13780659999974887,
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 5,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 6,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 7,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 8,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 9,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 10,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 11,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 12,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 13,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 14,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 1,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 2,
+            "d": 2,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 2,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 5,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 6,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 7,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 8,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 9,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 10,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 11,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 12,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 1,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 2,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 5,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 6,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.12046090000148979,
+            "solving_s": 0.18901999999980035,
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 8,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 9,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 10,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 11,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 4,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 1,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 4,
+            "d": 2,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 5,
+            "status": "SAT",
+            "encoding_s": 0.10227470000063477,
+            "solving_s": 0.16986829999950714,
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 6,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.10904449999907229,
+            "solving_s": 0.24700149999989662,
+            "witness": 5
+          },
+          {
+            "e": 4,
+            "d": 8,
+            "status": "SAT",
+            "encoding_s": 0.10913040000014007,
+            "solving_s": 0.3584646999988763,
+            "witness": 6
+          },
+          {
+            "e": 4,
+            "d": 9,
+            "status": "replay",
+            "witness": 6
+          },
+          {
+            "e": 4,
+            "d": 10,
+            "status": "UNSAT",
+            "encoding_s": 0.11210439999922528,
+            "solving_s": 0.44894080000085523
+          }
+        ],
+        "witnesses": [
+          [
+            {
+              "v": [
+                -9,
+                -8
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                3,
+                4
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                8,
+                -15
+              ],
+              "current": [
+                7,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                12,
+                0
+              ],
+              "current": [
+                9,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                15,
+                6
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                3,
+                11
+              ],
+              "current": [
+                14,
+                9
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                -12
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                4,
+                3
+              ],
+              "current": [
+                14,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -10,
+                6
+              ],
+              "current": [
+                15,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                -12
+              ],
+              "current": [
+                9,
+                14
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                12,
+                0
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                15,
+                2
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                8,
+                11
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                11
+              ],
+              "current": [
+                12,
+                10
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                11
+              ],
+              "current": [
+                8,
+                14
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                6,
+                12
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                6,
+                5
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                10,
+                0
+              ],
+              "current": [
+                15,
+                11
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                11
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                7
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                10
+              ],
+              "current": [
+                10,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ]
+        ]
+      },
+      "total_replayed": 93,
+      "plans": {
+        "row": [
+          7,
+          8,
+          9
+        ],
+        "marginal": [
+          6,
+          8,
+          9
+        ],
+        "comparator": [
+          6,
+          8,
+          9
+        ],
+        "net_inhibition": [
+          5,
+          9,
+          8
+        ],
+        "proposed": [
+          5,
+          9,
+          8
+        ]
+      },
+      "gaps": {
+        "row": 3,
+        "marginal": 2,
+        "comparator": 2,
+        "net_inhibition": 1,
+        "proposed": 1
+      },
+      "independent_schedule_checks": [
+        {
+          "plan": [
+            7,
+            8,
+            9
+          ],
+          "amplitude": 7,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 252846,
+          "encoding_s": 0.10690759999852162,
+          "solving_s": 0.2005925000012212
+        },
+        {
+          "plan": [
+            6,
+            8,
+            9
+          ],
+          "amplitude": 6,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 252846,
+          "encoding_s": 0.113022200001069,
+          "solving_s": 0.2573610999988887
+        },
+        {
+          "plan": [
+            5,
+            9,
+            8
+          ],
+          "amplitude": 5,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 252846,
+          "encoding_s": 0.10279569999875093,
+          "solving_s": 0.23577470000054745
+        }
+      ],
+      "wall_seconds": 4.07972189999964
+    },
+    {
+      "graph": "feedback_fork",
+      "weights": [
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ],
+      "deadline": 20,
+      "exact": {
+        "first_feasible": {
+          "e": 4,
+          "d": 9,
+          "h": 11
+        },
+        "minimum_proved": true,
+        "unknown": [],
+        "counts": {
+          "SAT": 7,
+          "replay": 94,
+          "UNSAT": 1
+        },
+        "checks": [
+          {
+            "e": 0,
+            "d": 0,
+            "status": "SAT",
+            "encoding_s": 0.11834169999929145,
+            "solving_s": 0.18768620000082592,
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 6,
+            "status": "SAT",
+            "encoding_s": 0.14077629999883357,
+            "solving_s": 0.13513370000146097,
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 7,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 8,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 9,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 10,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 11,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 12,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 13,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 14,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 15,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 16,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 17,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 18,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 19,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 2,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 15,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 2,
+            "d": 16,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 2,
+            "d": 3,
+            "status": "SAT",
+            "encoding_s": 0.12610140000106185,
+            "solving_s": 0.15094560000034107,
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 5,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 6,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 7,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 8,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 9,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 10,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 11,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 12,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 13,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 14,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 14,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 5,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 6,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.1239199000010558,
+            "solving_s": 0.25932640000064566,
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 8,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 9,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 10,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 11,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 12,
+            "status": "SAT",
+            "encoding_s": 0.11894409999877098,
+            "solving_s": 0.17637500000091677,
+            "witness": 4
+          },
+          {
+            "e": 3,
+            "d": 13,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 13,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 4,
+            "d": 2,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 5,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 6,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.12318229999982577,
+            "solving_s": 0.34585539999898174,
+            "witness": 5
+          },
+          {
+            "e": 4,
+            "d": 8,
+            "status": "SAT",
+            "encoding_s": 0.13913270000011835,
+            "solving_s": 0.3851256999987527,
+            "witness": 6
+          },
+          {
+            "e": 4,
+            "d": 9,
+            "status": "UNSAT",
+            "encoding_s": 0.13558139999986452,
+            "solving_s": 0.44564189999982773
+          }
+        ],
+        "witnesses": [
+          [
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                7,
+                12
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                11
+              ],
+              "current": [
+                6,
+                12
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                11,
+                -4
+              ],
+              "current": [
+                3,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                3
+              ],
+              "current": [
+                1,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                5,
+                6
+              ],
+              "current": [
+                14,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                8
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                9,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                7,
+                13
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                9,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                -2
+              ],
+              "current": [
+                15,
+                8
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                13,
+                8
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                11,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                13
+              ],
+              "current": [
+                11,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -6,
+                0
+              ],
+              "current": [
+                14,
+                12
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                2,
+                0
+              ],
+              "current": [
+                15,
+                11
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            }
+          ]
+        ]
+      },
+      "total_replayed": 101,
+      "plans": {
+        "row": [
+          6,
+          10,
+          9
+        ],
+        "marginal": [
+          6,
+          8,
+          9
+        ],
+        "comparator": [
+          6,
+          8,
+          9
+        ],
+        "net_inhibition": [
+          4,
+          12,
+          8
+        ],
+        "proposed": [
+          4,
+          12,
+          8
+        ]
+      },
+      "gaps": {
+        "row": 2,
+        "marginal": 2,
+        "comparator": 2,
+        "net_inhibition": 0,
+        "proposed": 0
+      },
+      "independent_schedule_checks": [
+        {
+          "plan": [
+            6,
+            10,
+            9
+          ],
+          "amplitude": 6,
+          "status": "UNSAT",
+          "variables": 9271,
+          "clauses": 282562,
+          "encoding_s": 0.1179855000009411,
+          "solving_s": 0.26799190000019735
+        },
+        {
+          "plan": [
+            6,
+            8,
+            9
+          ],
+          "amplitude": 6,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 252846,
+          "encoding_s": 0.10791530000096827,
+          "solving_s": 0.2460969000003388
+        },
+        {
+          "plan": [
+            4,
+            12,
+            8
+          ],
+          "amplitude": 4,
+          "status": "UNSAT",
+          "variables": 9745,
+          "clauses": 297420,
+          "encoding_s": 0.1273455999998987,
+          "solving_s": 0.3914584999984072
+        }
+      ],
+      "wall_seconds": 4.636869300000399
+    },
+    {
+      "graph": "feedback_fork",
+      "weights": [
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ],
+      "deadline": 24,
+      "exact": {
+        "first_feasible": {
+          "e": 4,
+          "d": 9,
+          "h": 15
+        },
+        "minimum_proved": true,
+        "unknown": [],
+        "counts": {
+          "SAT": 6,
+          "replay": 111,
+          "UNSAT": 1
+        },
+        "checks": [
+          {
+            "e": 0,
+            "d": 0,
+            "status": "SAT",
+            "encoding_s": 0.16199190000043018,
+            "solving_s": 0.22821180000028107,
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.1489136000000144,
+            "solving_s": 0.21685509999952046,
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 8,
+            "status": "SAT",
+            "encoding_s": 0.15267920000042068,
+            "solving_s": 0.17631670000082522,
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 9,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 10,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 18,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 11,
+            "status": "SAT",
+            "encoding_s": 0.15502890000061598,
+            "solving_s": 0.20769490000020596,
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 12,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 13,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 14,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 15,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 16,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 17,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 4,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 3,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 4,
+            "d": 4,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 4,
+            "d": 5,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 4,
+            "d": 6,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 4,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.1797820000010688,
+            "solving_s": 0.2160128999985318,
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 8,
+            "status": "SAT",
+            "encoding_s": 0.1507333000008657,
+            "solving_s": 0.4043056999998953,
+            "witness": 5
+          },
+          {
+            "e": 4,
+            "d": 17,
+            "status": "replay",
+            "witness": 5
+          },
+          {
+            "e": 4,
+            "d": 9,
+            "status": "UNSAT",
+            "encoding_s": 0.15496539999912784,
+            "solving_s": 0.59908440000072
+          }
+        ],
+        "witnesses": [
+          [
+            {
+              "v": [
+                0,
+                10
+              ],
+              "current": [
+                7,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                4,
+                11
+              ],
+              "current": [
+                15,
+                9
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                8
+              ],
+              "current": [
+                8,
+                12
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -12,
+                8
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                14,
+                10
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                11
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                12,
+                11
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                7,
+                12
+              ],
+              "current": [
+                12,
+                13
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -14,
+                0
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                14,
+                11
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                12,
+                11
+              ],
+              "current": [
+                15,
+                13
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                10
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                11,
+                0
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                -2,
+                0
+              ],
+              "current": [
+                15,
+                12
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                1,
+                12
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                12
+              ],
+              "current": [
+                14,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                -14
+              ],
+              "current": [
+                10,
+                11
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ]
+        ]
+      },
+      "total_replayed": 117,
+      "plans": {
+        "row": [
+          6,
+          10,
+          9
+        ],
+        "marginal": [
+          6,
+          8,
+          9
+        ],
+        "comparator": [
+          6,
+          8,
+          9
+        ],
+        "net_inhibition": [
+          4,
+          12,
+          8
+        ],
+        "proposed": [
+          4,
+          12,
+          8
+        ]
+      },
+      "gaps": {
+        "row": 2,
+        "marginal": 2,
+        "comparator": 2,
+        "net_inhibition": 0,
+        "proposed": 0
+      },
+      "independent_schedule_checks": [
+        {
+          "plan": [
+            6,
+            10,
+            9
+          ],
+          "amplitude": 6,
+          "status": "UNSAT",
+          "variables": 9271,
+          "clauses": 282562,
+          "encoding_s": 0.11143500000071072,
+          "solving_s": 0.2740572999991855
+        },
+        {
+          "plan": [
+            6,
+            8,
+            9
+          ],
+          "amplitude": 6,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 252846,
+          "encoding_s": 0.10646170000109123,
+          "solving_s": 0.24621579999984533
+        },
+        {
+          "plan": [
+            4,
+            12,
+            8
+          ],
+          "amplitude": 4,
+          "status": "UNSAT",
+          "variables": 9745,
+          "clauses": 297420,
+          "encoding_s": 0.12757390000115265,
+          "solving_s": 0.4157114999998157
+        }
+      ],
+      "wall_seconds": 4.752612499998577
+    },
+    {
+      "graph": "feedforward_merge",
+      "weights": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ],
+      "deadline": 18,
+      "exact": {
+        "first_feasible": {
+          "e": 4,
+          "d": 10,
+          "h": 8
+        },
+        "minimum_proved": true,
+        "unknown": [],
+        "counts": {
+          "SAT": 5,
+          "replay": 89,
+          "UNSAT": 1
+        },
+        "checks": [
+          {
+            "e": 0,
+            "d": 0,
+            "status": "SAT",
+            "encoding_s": 0.10496129999955883,
+            "solving_s": 0.10619530000076338,
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.10530780000044615,
+            "solving_s": 0.13245479999932286,
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 8,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 9,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 10,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 3,
+            "d": 11,
+            "status": "replay",
+            "witness": 1
+          },
+          {
+            "e": 4,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 5,
+            "status": "SAT",
+            "encoding_s": 0.10971090000020922,
+            "solving_s": 0.12248910000016622,
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 6,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.11209609999968961,
+            "solving_s": 0.17817360000117333,
+            "witness": 3
+          },
+          {
+            "e": 4,
+            "d": 8,
+            "status": "SAT",
+            "encoding_s": 0.10130460000073072,
+            "solving_s": 0.24017999999887252,
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 9,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 4,
+            "d": 10,
+            "status": "UNSAT",
+            "encoding_s": 0.10779560000082711,
+            "solving_s": 0.287766699999338
+          }
+        ],
+        "witnesses": [
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                1,
+                15
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                15,
+                1
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                15,
+                10
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                4,
+                0
+              ],
+              "current": [
+                15,
+                8
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                10,
+                -10
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                9,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                13
+              ],
+              "current": [
+                14,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                7,
+                15
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                -14,
+                0
+              ],
+              "current": [
+                15,
+                12
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                3,
+                3
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                12,
+                0
+              ],
+              "current": [
+                15,
+                13
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                2,
+                12
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                12,
+                12
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            }
+          ]
+        ]
+      },
+      "total_replayed": 94,
+      "plans": {
+        "row": [
+          8,
+          8,
+          9
+        ],
+        "marginal": [
+          6,
+          9,
+          8
+        ],
+        "comparator": [
+          6,
+          9,
+          8
+        ],
+        "net_inhibition": [
+          5,
+          10,
+          8
+        ],
+        "proposed": [
+          5,
+          10,
+          8
+        ]
+      },
+      "gaps": {
+        "row": 4,
+        "marginal": 2,
+        "comparator": 2,
+        "net_inhibition": 1,
+        "proposed": 1
+      },
+      "independent_schedule_checks": [
+        {
+          "plan": [
+            8,
+            8,
+            9
+          ],
+          "amplitude": 8,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 248902,
+          "encoding_s": 0.10776860000078159,
+          "solving_s": 0.11151559999962046
+        },
+        {
+          "plan": [
+            6,
+            9,
+            8
+          ],
+          "amplitude": 6,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 248902,
+          "encoding_s": 0.11156080000000657,
+          "solving_s": 0.2021130000011908
+        },
+        {
+          "plan": [
+            5,
+            10,
+            8
+          ],
+          "amplitude": 5,
+          "status": "UNSAT",
+          "variables": 8797,
+          "clauses": 263528,
+          "encoding_s": 0.10818579999977374,
+          "solving_s": 0.24544050000076822
+        }
+      ],
+      "wall_seconds": 2.7905899999987014
+    },
+    {
+      "graph": "feedforward_merge",
+      "weights": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ],
+      "deadline": 20,
+      "exact": {
+        "first_feasible": {
+          "e": 4,
+          "d": 9,
+          "h": 11
+        },
+        "minimum_proved": true,
+        "unknown": [],
+        "counts": {
+          "SAT": 11,
+          "replay": 90,
+          "UNSAT": 1
+        },
+        "checks": [
+          {
+            "e": 0,
+            "d": 0,
+            "status": "SAT",
+            "encoding_s": 0.136682500000461,
+            "solving_s": 0.13007699999980105,
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 1,
+            "status": "SAT",
+            "encoding_s": 0.14953040000000328,
+            "solving_s": 0.1415988999997353,
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 2,
+            "status": "SAT",
+            "encoding_s": 0.1302977000013925,
+            "solving_s": 0.2034215999992739,
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 5,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 6,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 7,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 8,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 9,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 10,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 11,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 12,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 13,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 14,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 15,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 16,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 1,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 2,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 4,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 5,
+            "status": "SAT",
+            "encoding_s": 0.127023700000791,
+            "solving_s": 0.15355669999917154,
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 6,
+            "status": "SAT",
+            "encoding_s": 0.13364349999937986,
+            "solving_s": 0.14852699999937613,
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 7,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 8,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 9,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 10,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 11,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 12,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 13,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 2,
+            "d": 14,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 3,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 1,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 2,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 3,
+            "status": "SAT",
+            "encoding_s": 0.1268486999997549,
+            "solving_s": 0.12818409999999858,
+            "witness": 5
+          },
+          {
+            "e": 3,
+            "d": 4,
+            "status": "SAT",
+            "encoding_s": 0.11642769999889424,
+            "solving_s": 0.13902190000044357,
+            "witness": 6
+          },
+          {
+            "e": 3,
+            "d": 5,
+            "status": "replay",
+            "witness": 6
+          },
+          {
+            "e": 3,
+            "d": 6,
+            "status": "replay",
+            "witness": 6
+          },
+          {
+            "e": 3,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.1342480000002979,
+            "solving_s": 0.16620080000029702,
+            "witness": 7
+          },
+          {
+            "e": 3,
+            "d": 8,
+            "status": "replay",
+            "witness": 7
+          },
+          {
+            "e": 3,
+            "d": 9,
+            "status": "SAT",
+            "encoding_s": 0.1439353999994637,
+            "solving_s": 0.3250224999992497,
+            "witness": 8
+          },
+          {
+            "e": 3,
+            "d": 10,
+            "status": "SAT",
+            "encoding_s": 0.1267840000000433,
+            "solving_s": 0.3273560000016005,
+            "witness": 9
+          },
+          {
+            "e": 3,
+            "d": 11,
+            "status": "replay",
+            "witness": 9
+          },
+          {
+            "e": 3,
+            "d": 12,
+            "status": "replay",
+            "witness": 9
+          },
+          {
+            "e": 3,
+            "d": 13,
+            "status": "replay",
+            "witness": 9
+          },
+          {
+            "e": 4,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 4,
+            "d": 1,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 4,
+            "d": 2,
+            "status": "replay",
+            "witness": 5
+          },
+          {
+            "e": 4,
+            "d": 3,
+            "status": "replay",
+            "witness": 5
+          },
+          {
+            "e": 4,
+            "d": 4,
+            "status": "replay",
+            "witness": 6
+          },
+          {
+            "e": 4,
+            "d": 5,
+            "status": "replay",
+            "witness": 9
+          },
+          {
+            "e": 4,
+            "d": 6,
+            "status": "replay",
+            "witness": 9
+          },
+          {
+            "e": 4,
+            "d": 7,
+            "status": "replay",
+            "witness": 9
+          },
+          {
+            "e": 4,
+            "d": 8,
+            "status": "SAT",
+            "encoding_s": 0.12918319999880623,
+            "solving_s": 0.26752789999954985,
+            "witness": 10
+          },
+          {
+            "e": 4,
+            "d": 9,
+            "status": "UNSAT",
+            "encoding_s": 0.14011140000002342,
+            "solving_s": 0.43610679999983404
+          }
+        ],
+        "witnesses": [
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                11
+              ],
+              "current": [
+                1,
+                9
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                12
+              ],
+              "current": [
+                1,
+                9
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                10,
+                7
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                2,
+                2
+              ],
+              "current": [
+                12,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                7,
+                -4
+              ],
+              "current": [
+                7,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                6,
+                -13
+              ],
+              "current": [
+                14,
+                13
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                7,
+                7
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                4,
+                10
+              ],
+              "current": [
+                14,
+                12
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                3
+              ],
+              "current": [
+                1,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                11
+              ],
+              "current": [
+                1,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                1,
+                14
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                13,
+                0
+              ],
+              "current": [
+                14,
+                12
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                -15
+              ],
+              "current": [
+                12,
+                2
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                3,
+                -4
+              ],
+              "current": [
+                15,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                11
+              ],
+              "current": [
+                7,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                10,
+                15
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                -13
+              ],
+              "current": [
+                2,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -8,
+                0
+              ],
+              "current": [
+                15,
+                12
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                11,
+                14
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                10,
+                0
+              ],
+              "current": [
+                15,
+                12
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                -2
+              ],
+              "current": [
+                15,
+                13
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                13
+              ],
+              "current": [
+                11,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                11,
+                11
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            }
+          ]
+        ]
+      },
+      "total_replayed": 101,
+      "plans": {
+        "row": [
+          7,
+          10,
+          9
+        ],
+        "marginal": [
+          6,
+          9,
+          8
+        ],
+        "comparator": [
+          6,
+          9,
+          8
+        ],
+        "net_inhibition": [
+          5,
+          10,
+          8
+        ],
+        "proposed": [
+          5,
+          10,
+          8
+        ]
+      },
+      "gaps": {
+        "row": 3,
+        "marginal": 2,
+        "comparator": 2,
+        "net_inhibition": 1,
+        "proposed": 1
+      },
+      "independent_schedule_checks": [
+        {
+          "plan": [
+            7,
+            10,
+            9
+          ],
+          "amplitude": 7,
+          "status": "UNSAT",
+          "variables": 9271,
+          "clauses": 278154,
+          "encoding_s": 0.14021349999893573,
+          "solving_s": 0.1462507000014739
+        },
+        {
+          "plan": [
+            6,
+            9,
+            8
+          ],
+          "amplitude": 6,
+          "status": "UNSAT",
+          "variables": 8323,
+          "clauses": 248902,
+          "encoding_s": 0.1182343000000401,
+          "solving_s": 0.19949050000104762
+        },
+        {
+          "plan": [
+            5,
+            10,
+            8
+          ],
+          "amplitude": 5,
+          "status": "UNSAT",
+          "variables": 8797,
+          "clauses": 263528,
+          "encoding_s": 0.11574349999864353,
+          "solving_s": 0.24456710000049497
+        }
+      ],
+      "wall_seconds": 5.490545799999381
+    },
+    {
+      "graph": "feedforward_merge",
+      "weights": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ],
+      "deadline": 24,
+      "exact": {
+        "first_feasible": {
+          "e": 3,
+          "d": 13,
+          "h": 11
+        },
+        "minimum_proved": true,
+        "unknown": [],
+        "counts": {
+          "SAT": 10,
+          "replay": 85,
+          "UNSAT": 1
+        },
+        "checks": [
+          {
+            "e": 0,
+            "d": 0,
+            "status": "SAT",
+            "encoding_s": 0.14763349999884667,
+            "solving_s": 0.17009450000114157,
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 1,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 2,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 3,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 4,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 5,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 6,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 7,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 8,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 9,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 10,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 11,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 12,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 13,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 14,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 15,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 16,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 17,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 0,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 1,
+            "d": 1,
+            "status": "SAT",
+            "encoding_s": 0.20438820000163105,
+            "solving_s": 0.21018249999906402,
+            "witness": 1
+          },
+          {
+            "e": 1,
+            "d": 2,
+            "status": "SAT",
+            "encoding_s": 0.18148459999974875,
+            "solving_s": 0.17489070000010543,
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 3,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 1,
+            "d": 4,
+            "status": "SAT",
+            "encoding_s": 0.19930550000026415,
+            "solving_s": 0.17703900000014983,
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 5,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 6,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 7,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 8,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 9,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 10,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 11,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 12,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 13,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 14,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 15,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 16,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 17,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 18,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 19,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 1,
+            "d": 20,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 2,
+            "d": 1,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 2,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 2,
+            "d": 3,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 4,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 5,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 6,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 7,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 8,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 9,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 10,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 11,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 12,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 13,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 14,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 15,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 16,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 17,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 2,
+            "d": 18,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 0,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 18,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 19,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 20,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 21,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 22,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 23,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 24,
+            "status": "replay",
+            "witness": 0
+          },
+          {
+            "e": 3,
+            "d": 1,
+            "status": "replay",
+            "witness": 2
+          },
+          {
+            "e": 3,
+            "d": 2,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 3,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 4,
+            "status": "replay",
+            "witness": 3
+          },
+          {
+            "e": 3,
+            "d": 5,
+            "status": "SAT",
+            "encoding_s": 0.1629780999992363,
+            "solving_s": 0.1964127000010194,
+            "witness": 4
+          },
+          {
+            "e": 3,
+            "d": 6,
+            "status": "replay",
+            "witness": 4
+          },
+          {
+            "e": 3,
+            "d": 7,
+            "status": "SAT",
+            "encoding_s": 0.19724440000027244,
+            "solving_s": 0.23609919999944395,
+            "witness": 5
+          },
+          {
+            "e": 3,
+            "d": 8,
+            "status": "replay",
+            "witness": 5
+          },
+          {
+            "e": 3,
+            "d": 9,
+            "status": "SAT",
+            "encoding_s": 0.17420750000019325,
+            "solving_s": 0.383874699999069,
+            "witness": 6
+          },
+          {
+            "e": 3,
+            "d": 10,
+            "status": "SAT",
+            "encoding_s": 0.17099570000027597,
+            "solving_s": 0.3728866999990714,
+            "witness": 7
+          },
+          {
+            "e": 3,
+            "d": 11,
+            "status": "SAT",
+            "encoding_s": 0.21479399999952875,
+            "solving_s": 0.4038662999992084,
+            "witness": 8
+          },
+          {
+            "e": 3,
+            "d": 12,
+            "status": "SAT",
+            "encoding_s": 0.1680091000016546,
+            "solving_s": 0.5225424000000203,
+            "witness": 9
+          },
+          {
+            "e": 3,
+            "d": 13,
+            "status": "UNSAT",
+            "encoding_s": 0.16370950000055018,
+            "solving_s": 0.49208290000024135
+          }
+        ],
+        "witnesses": [
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                11
+              ],
+              "current": [
+                1,
+                9
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                12
+              ],
+              "current": [
+                1,
+                9
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -2
+              ],
+              "current": [
+                1,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                1,
+                11
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                -15
+              ],
+              "current": [
+                1,
+                1
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                1,
+                15
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                6,
+                12
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                6
+              ],
+              "current": [
+                15,
+                11
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                2,
+                8
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                6,
+                6
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                12,
+                11
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                -8,
+                0
+              ],
+              "current": [
+                1,
+                11
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                6,
+                -12
+              ],
+              "current": [
+                15,
+                14
+              ],
+              "spike": [
+                0,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                12,
+                5
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                4
+              ],
+              "current": [
+                10,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                0,
+                -4
+              ],
+              "current": [
+                12,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                11,
+                6
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                0
+              ],
+              "current": [
+                15,
+                12
+              ],
+              "spike": [
+                1,
+                1
+              ]
+            }
+          ],
+          [
+            {
+              "v": [
+                8,
+                0
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            },
+            {
+              "v": [
+                0,
+                10
+              ],
+              "current": [
+                11,
+                15
+              ],
+              "spike": [
+                1,
+                0
+              ]
+            },
+            {
+              "v": [
+                -15,
+                0
+              ],
+              "current": [
+                15,
+                15
+              ],
+              "spike": [
+                0,
+                1
+              ]
+            }
+          ]
+        ]
+      },
+      "total_replayed": 95,
+      "plans": {
+        "row": [
+          7,
+          10,
+          9
+        ],
+        "marginal": [
+          5,
+          13,
+          8
+        ],
+        "comparator": [
+          5,
+          13,
+          8
+        ],
+        "net_inhibition": [
+          4,
+          13,
+          8
+        ],
+        "proposed": [
+          4,
+          13,
+          8
+        ]
+      },
+      "gaps": {
+        "row": 4,
+        "marginal": 2,
+        "comparator": 2,
+        "net_inhibition": 1,
+        "proposed": 1
+      },
+      "independent_schedule_checks": [
+        {
+          "plan": [
+            7,
+            10,
+            9
+          ],
+          "amplitude": 7,
+          "status": "UNSAT",
+          "variables": 9271,
+          "clauses": 278154,
+          "encoding_s": 0.13578079999933834,
+          "solving_s": 0.14763879999918572
+        },
+        {
+          "plan": [
+            5,
+            13,
+            8
+          ],
+          "amplitude": 5,
+          "status": "UNSAT",
+          "variables": 10219,
+          "clauses": 307406,
+          "encoding_s": 0.13559210000130406,
+          "solving_s": 0.35778819999904954
+        },
+        {
+          "plan": [
+            4,
+            13,
+            8
+          ],
+          "amplitude": 4,
+          "status": "UNSAT",
+          "variables": 10219,
+          "clauses": 307406,
+          "encoding_s": 0.17370200000004843,
+          "solving_s": 0.2784382000008918
+        }
+      ],
+      "wall_seconds": 6.943101200000456
+    }
+  ],
+  "source_sha256": {
+    "experiments/run_nonring_deadline_oracle.py": "bd7d112208a6a737cd009cccd5fc7105f45504f2cf93e217ec0c3c96120b8c88",
+    "experiments/run_free_duration_sat.py": "08d00c3dc648e027d1f502f1f7e82a1f4a74d635d98708de344fbec722134bc8",
+    "experiments/run_free_duration_disjoint.py": "50d670acae89663b6d45e7fecd2cd49207da473b9a113eb359123c00e64f3d29",
+    "experiments/run_external_sat_erasure.py": "ffd45ddb02f42dd41d18d3204aba09e7238a68d7372efc91732a42468e43f238",
+    "experiments/run_locked_erasure_scale.py": "324c5e34357def8e0a608d7beaf805cfbfb0caea136f8bee4bcf3b2a6d930f91",
+    "experiments/run_box_erasure_scale.py": "e4805a7fe352b9f95e5c4d2116240d6d43480d9a584274b7672a7e4b439d8d59",
+    "integer_snn/network.py": "4ce8d41fa2ccc3f86b36baa31f4f5191120606851127c8abbbca38b42995207f",
+    "integer_snn/reference.py": "aa06698286168721cf98161f983ecce09fc07e405dd6e15bd6a37cf8b3c83abd",
+    "integer_snn/topology_certificate.py": "77972944c564c1440fd751cc960eb4cc90010a735742af3bbb983ce8e9351486"
+  }
+}

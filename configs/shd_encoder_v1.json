@@ -1,0 +1,14 @@
+{
+  "seeds": [0, 1, 2, 3, 4],
+  "max_epochs": 60,
+  "batch_size": 128,
+  "learning_rate": 0.003,
+  "l2": 0.001,
+  "patience": 12,
+  "validation_speakers": [0, 1],
+  "model": "1400 feature to 20 class linear softmax, float32",
+  "selection": "validation accuracy, then lower validation nll",
+  "test_policy": "evaluate official test only after all five fits; do not choose a seed on test",
+  "purpose": "shared frozen front end for derived delayed-query memory task, not SOTA classification",
+  "blas_threads": 2
+}

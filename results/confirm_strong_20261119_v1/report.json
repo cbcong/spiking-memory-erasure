@@ -1,0 +1,2102 @@
+{
+  "design_sha256": "63f1b48431df18a4d729daf3700b990b9f78bf2e7ec532bc1d890eb4435201a6",
+  "completed_utc": "2026-11-19T13:12:18.605419+00:00",
+  "incomplete": 0,
+  "primary_positive": true,
+  "summary": {
+    "n": 72,
+    "protocols": {
+      "row": {
+        "peak_sum": 9567,
+        "mean_pressure": 9.36111111111111,
+        "mean_time": 18.194444444444443,
+        "amplitude_pressure_sum": 86279
+      },
+      "box": {
+        "peak_sum": 6595,
+        "mean_pressure": 15.61111111111111,
+        "mean_time": 24.40277777777778,
+        "amplitude_pressure_sum": 138380
+      },
+      "baseline": {
+        "peak_sum": 6523,
+        "mean_pressure": 16.680555555555557,
+        "mean_time": 25.47222222222222,
+        "amplitude_pressure_sum": 138670
+      },
+      "topology": {
+        "peak_sum": 6425,
+        "mean_pressure": 24.86111111111111,
+        "mean_time": 33.65277777777778,
+        "amplitude_pressure_sum": 202100
+      }
+    },
+    "reduction": 0.01502376207266598,
+    "paired_ci95": [
+      0.01418331554064356,
+      0.015890213938316352
+    ],
+    "wins": 48,
+    "ties": 24,
+    "losses": 0
+  },
+  "by_family": {
+    "sparse": {
+      "n": 24,
+      "protocols": {
+        "row": {
+          "peak_sum": 510,
+          "mean_pressure": 9.041666666666666,
+          "mean_time": 18,
+          "amplitude_pressure_sum": 4606
+        },
+        "box": {
+          "peak_sum": 190,
+          "mean_pressure": 18.875,
+          "mean_time": 27.708333333333332,
+          "amplitude_pressure_sum": 3471
+        },
+        "baseline": {
+          "peak_sum": 190,
+          "mean_pressure": 18.875,
+          "mean_time": 27.708333333333332,
+          "amplitude_pressure_sum": 3471
+        },
+        "topology": {
+          "peak_sum": 140,
+          "mean_pressure": 33.083333333333336,
+          "mean_time": 41.916666666666664,
+          "amplitude_pressure_sum": 4601
+        }
+      },
+      "reduction": 0.26315789473684215,
+      "paired_ci95": [
+        0.2406417112299465,
+        0.2842639593908629
+      ],
+      "wins": 24,
+      "ties": 0,
+      "losses": 0
+    },
+    "dense": {
+      "n": 24,
+      "protocols": {
+        "row": {
+          "peak_sum": 8792,
+          "mean_pressure": 9,
+          "mean_time": 18,
+          "amplitude_pressure_sum": 79128
+        },
+        "box": {
+          "peak_sum": 6068,
+          "mean_pressure": 21.125,
+          "mean_time": 30.125,
+          "amplitude_pressure_sum": 132654
+        },
+        "baseline": {
+          "peak_sum": 6068,
+          "mean_pressure": 21.125,
+          "mean_time": 30.125,
+          "amplitude_pressure_sum": 132654
+        },
+        "topology": {
+          "peak_sum": 6020,
+          "mean_pressure": 31.458333333333332,
+          "mean_time": 40.458333333333336,
+          "amplitude_pressure_sum": 194954
+        }
+      },
+      "reduction": 0.007910349373764003,
+      "paired_ci95": [
+        0.007884362680683266,
+        0.007936507936507908
+      ],
+      "wins": 24,
+      "ties": 0,
+      "losses": 0
+    },
+    "regular": {
+      "n": 24,
+      "protocols": {
+        "row": {
+          "peak_sum": 265,
+          "mean_pressure": 10.041666666666666,
+          "mean_time": 18.583333333333332,
+          "amplitude_pressure_sum": 2545
+        },
+        "box": {
+          "peak_sum": 337,
+          "mean_pressure": 6.833333333333333,
+          "mean_time": 15.375,
+          "amplitude_pressure_sum": 2255
+        },
+        "baseline": {
+          "peak_sum": 265,
+          "mean_pressure": 10.041666666666666,
+          "mean_time": 18.583333333333332,
+          "amplitude_pressure_sum": 2545
+        },
+        "topology": {
+          "peak_sum": 265,
+          "mean_pressure": 10.041666666666666,
+          "mean_time": 18.583333333333332,
+          "amplitude_pressure_sum": 2545
+        }
+      },
+      "reduction": 0.0,
+      "paired_ci95": [
+        0.0,
+        0.0
+      ],
+      "wins": 0,
+      "ties": 24,
+      "losses": 0
+    }
+  },
+  "rows": [
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370000,
+      "matrix_sha256": "4c502c5c538cb83eecc1cb4a948b600c12f196e9f69df0b621e4337161821f58",
+      "topology": [
+        5,
+        32,
+        8
+      ],
+      "row": [
+        21,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        18,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        18,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370001,
+      "matrix_sha256": "6aeff0dba219723830c5d067ccd803377fa9aaa643848af15ea8b7921b5badec",
+      "topology": [
+        6,
+        26,
+        9
+      ],
+      "row": [
+        17,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        14,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        14,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370002,
+      "matrix_sha256": "7d94bb46d7ab54f7df8b60fa2e88431710d886e21dd90d20b30654aca1b81add",
+      "topology": [
+        5,
+        38,
+        8
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370003,
+      "matrix_sha256": "0992fc4510d4c6095b498c2c1fe23fb4c6d8c66062298dfbe3ac43c0d3ec4229",
+      "topology": [
+        6,
+        35,
+        9
+      ],
+      "row": [
+        18,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        11,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        9,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370004,
+      "matrix_sha256": "c22a49011a44646250b76d47c6d96795094deaa8317656a365ebfb12edbc0dab",
+      "topology": [
+        6,
+        29,
+        9
+      ],
+      "row": [
+        19,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370005,
+      "matrix_sha256": "235aec3bfde8dfabd8ee8a8062cf4986c505f8dfaea9bcb6cb6d038b75ac316e",
+      "topology": [
+        6,
+        23,
+        9
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        36,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        36,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370006,
+      "matrix_sha256": "6555a5e07192cb5bbe6d450b2b8d4996574fec01d237d4da01b1d861f4bb0d22",
+      "topology": [
+        6,
+        31,
+        9
+      ],
+      "row": [
+        18,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        10,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        9,
+        10,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "sparse",
+      "seed": 732370007,
+      "matrix_sha256": "3db07bd398a42a4479a9d728c375c04412fc606c0c289b55cea9bb937a6fc31a",
+      "topology": [
+        6,
+        32,
+        9
+      ],
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        20,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        20,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370100,
+      "matrix_sha256": "fd5653aa3724dea78292a7139c3e1f110dcae2a02344dece895666b21d3983d5",
+      "topology": [
+        99,
+        35,
+        9
+      ],
+      "row": [
+        181,
+        9,
+        9
+      ],
+      "box": [
+        101,
+        20,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        101,
+        20,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370101,
+      "matrix_sha256": "6bca14fa3cf281a062af8357e81076b6eb7fb070c0c5cc4aec8b269a1d75a21c",
+      "topology": [
+        101,
+        23,
+        9
+      ],
+      "row": [
+        170,
+        9,
+        9
+      ],
+      "box": [
+        103,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        103,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370102,
+      "matrix_sha256": "61392f5b38281e1675165b11b1ddfbb5282640c01d06b2b1df2883f2251ddea3",
+      "topology": [
+        102,
+        21,
+        9
+      ],
+      "row": [
+        188,
+        9,
+        9
+      ],
+      "box": [
+        104,
+        16,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        104,
+        16,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370103,
+      "matrix_sha256": "b104d0366af1bdb339cbe3cc43772e2e8fc5ef605cf8c62b25324e2d873ead1e",
+      "topology": [
+        101,
+        32,
+        9
+      ],
+      "row": [
+        198,
+        9,
+        9
+      ],
+      "box": [
+        103,
+        18,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        103,
+        18,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370104,
+      "matrix_sha256": "7b2b1be1d8b3184a603e7c3597317cf08344eed38cd380d01071dd5f1fba5c55",
+      "topology": [
+        100,
+        29,
+        9
+      ],
+      "row": [
+        160,
+        9,
+        9
+      ],
+      "box": [
+        102,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        102,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370105,
+      "matrix_sha256": "59b3ce817c64904e908bafb7ffa8fc812405d7864e4371c93b0205099c15ff29",
+      "topology": [
+        95,
+        44,
+        9
+      ],
+      "row": [
+        164,
+        9,
+        9
+      ],
+      "box": [
+        97,
+        32,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        97,
+        32,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370106,
+      "matrix_sha256": "7d93acf9645f240026e1b35492969efeabe95a169d317c3baa25b67097ef8b3b",
+      "topology": [
+        100,
+        18,
+        9
+      ],
+      "row": [
+        162,
+        9,
+        9
+      ],
+      "box": [
+        102,
+        15,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        102,
+        15,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "dense",
+      "seed": 732370107,
+      "matrix_sha256": "78d2b325f7c6646bcb4c80a81a8b0473fa4bd767d33b435095be06b7ec0a478b",
+      "topology": [
+        97,
+        24,
+        9
+      ],
+      "row": [
+        162,
+        9,
+        9
+      ],
+      "box": [
+        99,
+        16,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        99,
+        16,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370200,
+      "matrix_sha256": "6de63ccef98df42a375f95ff43f8a1f29b7fb13afb1a11844a85c95e5167eae0",
+      "topology": [
+        5,
+        11,
+        8
+      ],
+      "row": [
+        5,
+        11,
+        8
+      ],
+      "box": [
+        8,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        5,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370201,
+      "matrix_sha256": "4c1f83e37a9664dc1edee1d40b4c08989d10e629507d6655e64252ae3cde3537",
+      "topology": [
+        20,
+        9,
+        9
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        23,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        20,
+        9,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370202,
+      "matrix_sha256": "fe235b92514c49609e6ac0be661e0e5c2155829545c73520caf598c1044a6617",
+      "topology": [
+        4,
+        11,
+        8
+      ],
+      "row": [
+        4,
+        11,
+        8
+      ],
+      "box": [
+        7,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        4,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370203,
+      "matrix_sha256": "033c3b1ffd3bfc6c37640d7da9869880d091c4aa3da97b0ce54246058b0c7028",
+      "topology": [
+        8,
+        10,
+        9
+      ],
+      "row": [
+        8,
+        10,
+        9
+      ],
+      "box": [
+        11,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        10,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370204,
+      "matrix_sha256": "447c3c4fb889b4db4d52f8224514786c3d42ddacc778d52249735da32bb49a03",
+      "topology": [
+        22,
+        9,
+        9
+      ],
+      "row": [
+        22,
+        9,
+        9
+      ],
+      "box": [
+        25,
+        6,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        22,
+        9,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370205,
+      "matrix_sha256": "c391a5b06226097dd91b74f73351e70eacbf22daa1573dd47945b6e05ee8c700",
+      "topology": [
+        26,
+        9,
+        9
+      ],
+      "row": [
+        26,
+        9,
+        9
+      ],
+      "box": [
+        29,
+        6,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        26,
+        9,
+        9
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370206,
+      "matrix_sha256": "c27697497a5d2631a9d9f13554cd366504e114d0414b96c6fdea24102a622005",
+      "topology": [
+        14,
+        10,
+        8
+      ],
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        17,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        14,
+        10,
+        8
+      ]
+    },
+    {
+      "n": 128,
+      "family": "regular",
+      "seed": 732370207,
+      "matrix_sha256": "e882900ecd84fa0d94b5a1957e4a5e532e82dcf6355e9358b91556b9aaebaa83",
+      "topology": [
+        7,
+        10,
+        9
+      ],
+      "row": [
+        7,
+        10,
+        9
+      ],
+      "box": [
+        10,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        10,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650000,
+      "matrix_sha256": "31fa3e07d7c7b4b5dabd323fda92b89a048e1c7369789e1487ddc99c3214c4a5",
+      "topology": [
+        5,
+        44,
+        8
+      ],
+      "row": [
+        23,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        23,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        23,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650001,
+      "matrix_sha256": "c0030af8b06a6525085135cad7802a12dbaa81c80104bcb5c872d216c2c8f4ed",
+      "topology": [
+        6,
+        35,
+        9
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        11,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        9,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650002,
+      "matrix_sha256": "4f7520ddb893a4bfcac331831bcc5fc6ab93577f650565fda296c929ddf3ae50",
+      "topology": [
+        6,
+        39,
+        9
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650003,
+      "matrix_sha256": "b228cce802625d0aa6b1c2b22385677f62f418db89d6a90547ab344aded9b1df",
+      "topology": [
+        6,
+        27,
+        9
+      ],
+      "row": [
+        25,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        15,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        15,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650004,
+      "matrix_sha256": "fae22d539e6a9b0823ff54645980cf13c8fbb0e7b46207c739455f64e08fef08",
+      "topology": [
+        6,
+        42,
+        9
+      ],
+      "row": [
+        24,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        12,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        9,
+        12,
+        8
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650005,
+      "matrix_sha256": "abfe500da8519e589cb0dfe2dfafc067b2a96f4b4e5fa02562fa9433cd6bc6b7",
+      "topology": [
+        6,
+        23,
+        9
+      ],
+      "row": [
+        21,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        15,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        15,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650006,
+      "matrix_sha256": "da235e5fa1c75d3d062f1f7890602a0d794063961f384c7c5e6ef8d13c752e75",
+      "topology": [
+        6,
+        42,
+        9
+      ],
+      "row": [
+        30,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        9,
+        11,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "sparse",
+      "seed": 733650007,
+      "matrix_sha256": "f8e9b525c0ebf8ceacdf04cea4f3d6ea8f6c76e51e2091e5230cd8ff1b779c71",
+      "topology": [
+        5,
+        49,
+        8
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        24,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        24,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650100,
+      "matrix_sha256": "4cfab5e65efbd15c768bb12b3de13d916efd732050dd27d06fd12531c2410675",
+      "topology": [
+        211,
+        21,
+        9
+      ],
+      "row": [
+        325,
+        9,
+        9
+      ],
+      "box": [
+        213,
+        16,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        213,
+        16,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650101,
+      "matrix_sha256": "cbddfca5afb57301fb3d0349f7deba4d150d506041ad1778655f701f6e724677",
+      "topology": [
+        216,
+        29,
+        9
+      ],
+      "row": [
+        331,
+        9,
+        9
+      ],
+      "box": [
+        218,
+        21,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        218,
+        21,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650102,
+      "matrix_sha256": "7b6589652c3d9d876880ee59076fc17709bf166a9aab1327ae5428dc52818df1",
+      "topology": [
+        208,
+        43,
+        9
+      ],
+      "row": [
+        319,
+        9,
+        9
+      ],
+      "box": [
+        210,
+        24,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        210,
+        24,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650103,
+      "matrix_sha256": "5e74500def82eb38edb23cafcf3000049a9fbd0faf069ca8b8bf0140f5db87aa",
+      "topology": [
+        210,
+        42,
+        9
+      ],
+      "row": [
+        318,
+        9,
+        9
+      ],
+      "box": [
+        212,
+        22,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        212,
+        22,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650104,
+      "matrix_sha256": "3e7fecf174fa7d5aad1c71f52fb67ec258c1e106cb623d238e0fd80242775e42",
+      "topology": [
+        209,
+        30,
+        9
+      ],
+      "row": [
+        334,
+        9,
+        9
+      ],
+      "box": [
+        211,
+        20,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        211,
+        20,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650105,
+      "matrix_sha256": "51eafbadf58973b946157dba23eb7401aef21930dce6945cb8a4856b62f83faa",
+      "topology": [
+        211,
+        26,
+        9
+      ],
+      "row": [
+        317,
+        9,
+        9
+      ],
+      "box": [
+        213,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        213,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650106,
+      "matrix_sha256": "bfae2ec86816e4baa0ff61d719fc0e5acf7a500fe67d57fd4b567249c0862d3d",
+      "topology": [
+        212,
+        46,
+        9
+      ],
+      "row": [
+        329,
+        9,
+        9
+      ],
+      "box": [
+        214,
+        34,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        214,
+        34,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "dense",
+      "seed": 733650107,
+      "matrix_sha256": "a1963359a8e87840806843671814c97700a2812c40990f5d7bdbb3ed5b86e263",
+      "topology": [
+        212,
+        28,
+        9
+      ],
+      "row": [
+        313,
+        9,
+        9
+      ],
+      "box": [
+        214,
+        22,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        214,
+        22,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650200,
+      "matrix_sha256": "4b9ea32c994b3d79d9435f1be445033459fe4b71c5eca90aed8b22ef4ccbda1e",
+      "topology": [
+        22,
+        9,
+        9
+      ],
+      "row": [
+        22,
+        9,
+        9
+      ],
+      "box": [
+        25,
+        6,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        22,
+        9,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650201,
+      "matrix_sha256": "ce1361f707e3565ce6aa5b5a64d045038f636a0d00587c28b464213d3890abb7",
+      "topology": [
+        4,
+        11,
+        8
+      ],
+      "row": [
+        4,
+        11,
+        8
+      ],
+      "box": [
+        7,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        4,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650202,
+      "matrix_sha256": "6c380e863d1da7859c7f732e18e72e05dd0f7014fd67b26ea8b1c18270c7bf9f",
+      "topology": [
+        3,
+        11,
+        8
+      ],
+      "row": [
+        3,
+        11,
+        8
+      ],
+      "box": [
+        6,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        3,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650203,
+      "matrix_sha256": "66b6944e06386716bfb526991123831cd4cfa22e90dce414e8c3b02b912a001b",
+      "topology": [
+        20,
+        9,
+        9
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        23,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        20,
+        9,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650204,
+      "matrix_sha256": "ac967464eec9fd7f760978520fac7ac39c73cf93d6c797e1cdb89189903777eb",
+      "topology": [
+        7,
+        10,
+        9
+      ],
+      "row": [
+        7,
+        10,
+        9
+      ],
+      "box": [
+        10,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        10,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650205,
+      "matrix_sha256": "fd6c6b94a04ae8a979861adfdfe80b2afd7075a28dc41114a94f3719eda7610a",
+      "topology": [
+        8,
+        10,
+        9
+      ],
+      "row": [
+        8,
+        10,
+        9
+      ],
+      "box": [
+        11,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        10,
+        9
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650206,
+      "matrix_sha256": "0e915f544569bd75a90806d57c01a21ec6aaf1cb05858356e1d7afbccb20a163",
+      "topology": [
+        14,
+        10,
+        8
+      ],
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        17,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        14,
+        10,
+        8
+      ]
+    },
+    {
+      "n": 256,
+      "family": "regular",
+      "seed": 733650207,
+      "matrix_sha256": "53cd8470f2d8ae2f9e7f448401ecbd30ff0e1d7cf99749f74d4466cc919849e6",
+      "topology": [
+        8,
+        10,
+        9
+      ],
+      "row": [
+        8,
+        10,
+        9
+      ],
+      "box": [
+        11,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        10,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210000,
+      "matrix_sha256": "d1358335705e57afff49a0eb591586e1cb02b3a506c04e888f3f86331fd0b8e6",
+      "topology": [
+        6,
+        24,
+        9
+      ],
+      "row": [
+        26,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        29,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        29,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210001,
+      "matrix_sha256": "9682322df333e1c881e4b3ba4861e3e82df68029d5671f4de6b8d7e14e3485ba",
+      "topology": [
+        6,
+        35,
+        9
+      ],
+      "row": [
+        23,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        20,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        20,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210002,
+      "matrix_sha256": "723abb60968353911b7dea25635e466ec0611eb596aeb7f94bb28a3b1361cf2c",
+      "topology": [
+        6,
+        31,
+        9
+      ],
+      "row": [
+        26,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        38,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        38,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210003,
+      "matrix_sha256": "22d9a456d34569c3dfddb90aed9c75ed40f9c19d07d038529d8fb9bf0a768e5a",
+      "topology": [
+        6,
+        44,
+        9
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        11,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        9,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210004,
+      "matrix_sha256": "0b77f395a798a7e743b3676e130352687a20de519210c4b8e6b8bed2a5a56bc1",
+      "topology": [
+        6,
+        28,
+        9
+      ],
+      "row": [
+        20,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        34,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        7,
+        34,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210005,
+      "matrix_sha256": "fd74ea7bb285c63b530d052a0d111d6614f345627bdfda9687c4b4162627484d",
+      "topology": [
+        6,
+        28,
+        9
+      ],
+      "row": [
+        19,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        18,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        18,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210006,
+      "matrix_sha256": "9b897f47c172b0242df5de833d202aa035bbd4748e640c64f39de96b4861e328",
+      "topology": [
+        6,
+        30,
+        9
+      ],
+      "row": [
+        21,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "sparse",
+      "seed": 736210007,
+      "matrix_sha256": "031e970b6760a4ad3e0281ff619d314179ecfaf307191c7fab063614ce80a195",
+      "topology": [
+        6,
+        27,
+        9
+      ],
+      "row": [
+        23,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        15,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        8,
+        15,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210100,
+      "matrix_sha256": "28344ff2bf75d6e0f739574f71889f11195400591e8847bd51ba9939f42669b6",
+      "topology": [
+        444,
+        24,
+        9
+      ],
+      "row": [
+        596,
+        9,
+        9
+      ],
+      "box": [
+        446,
+        17,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        446,
+        17,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210101,
+      "matrix_sha256": "557cb588310d98e9e0219472321f199dbe0a7b18baf2fa6f934c750d9c975016",
+      "topology": [
+        442,
+        31,
+        9
+      ],
+      "row": [
+        611,
+        9,
+        9
+      ],
+      "box": [
+        444,
+        21,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        444,
+        21,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210102,
+      "matrix_sha256": "c00fd0134b8529c5fe3ff60ec06133f737fa093cf56c611e254833821da8d7b5",
+      "topology": [
+        442,
+        48,
+        9
+      ],
+      "row": [
+        598,
+        9,
+        9
+      ],
+      "box": [
+        444,
+        34,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        444,
+        34,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210103,
+      "matrix_sha256": "ad6f7bd7a6748ae976d15e071331985518f5fae70170215605566e390159c874",
+      "topology": [
+        442,
+        36,
+        9
+      ],
+      "row": [
+        617,
+        9,
+        9
+      ],
+      "box": [
+        444,
+        24,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        444,
+        24,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210104,
+      "matrix_sha256": "70e8823d0542aa3b36e44c6bfa960d5b2d229f8de9a3a0f90ea1b3d0e372532b",
+      "topology": [
+        441,
+        29,
+        9
+      ],
+      "row": [
+        607,
+        9,
+        9
+      ],
+      "box": [
+        443,
+        20,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        443,
+        20,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210105,
+      "matrix_sha256": "b4872fe6881db51a01d70de133357c74563728370b385e7c79f9cab3f3a3fe1c",
+      "topology": [
+        441,
+        35,
+        9
+      ],
+      "row": [
+        595,
+        9,
+        9
+      ],
+      "box": [
+        443,
+        24,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        443,
+        24,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210106,
+      "matrix_sha256": "5f391e0facf0adc1b361ce0dd21c0a383ce58162e1cb4effd610240590584d0d",
+      "topology": [
+        445,
+        32,
+        9
+      ],
+      "row": [
+        593,
+        9,
+        9
+      ],
+      "box": [
+        447,
+        18,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        447,
+        18,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "dense",
+      "seed": 736210107,
+      "matrix_sha256": "95347149b549f0bd61ed9cba5061d57cf5f39f567d07d6605a01d1c44d1fb08f",
+      "topology": [
+        439,
+        29,
+        9
+      ],
+      "row": [
+        604,
+        9,
+        9
+      ],
+      "box": [
+        441,
+        22,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        441,
+        22,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210200,
+      "matrix_sha256": "29f9f7388c084cb3ffd77ad2b1a42e07642bb91ce2c4db7c2e46d08612ed2c00",
+      "topology": [
+        4,
+        11,
+        8
+      ],
+      "row": [
+        4,
+        11,
+        8
+      ],
+      "box": [
+        7,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        4,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210201,
+      "matrix_sha256": "0e386936efe2b9cfc3b0779f2c9fb65048c03f65778adbd085a5dbf2716fc98b",
+      "topology": [
+        22,
+        9,
+        9
+      ],
+      "row": [
+        22,
+        9,
+        9
+      ],
+      "box": [
+        25,
+        6,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        22,
+        9,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210202,
+      "matrix_sha256": "099c21236871ca4afd748ec82c197c6d2388d9b9b5247a57e232b1be02702a80",
+      "topology": [
+        6,
+        10,
+        9
+      ],
+      "row": [
+        6,
+        10,
+        9
+      ],
+      "box": [
+        9,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        6,
+        10,
+        9
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210203,
+      "matrix_sha256": "59bd56dae068b9a420699dcaf74131f43777e214a6eff835018b6c10a3c20d85",
+      "topology": [
+        14,
+        10,
+        8
+      ],
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        17,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        14,
+        10,
+        8
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210204,
+      "matrix_sha256": "a4cec0a6dd607d8b55dfa5559935d53812fea286fad5437436cc731b4cb6cca8",
+      "topology": [
+        3,
+        11,
+        8
+      ],
+      "row": [
+        3,
+        11,
+        8
+      ],
+      "box": [
+        6,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        3,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210205,
+      "matrix_sha256": "b9a320245f1c17094c7d158e1df55e809f3731b8dab8d1b7f07b30b27d033c33",
+      "topology": [
+        14,
+        10,
+        8
+      ],
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        17,
+        7,
+        8
+      ],
+      "complete": true,
+      "baseline": [
+        14,
+        10,
+        8
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210206,
+      "matrix_sha256": "4534d540be7ce181080de49981fbcf2b75bee77d96e2f0d16bf4ea5dbb5b3193",
+      "topology": [
+        4,
+        11,
+        8
+      ],
+      "row": [
+        4,
+        11,
+        8
+      ],
+      "box": [
+        7,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        4,
+        11,
+        8
+      ]
+    },
+    {
+      "n": 512,
+      "family": "regular",
+      "seed": 736210207,
+      "matrix_sha256": "0e34cc3718286d8c00da0415653fbd575303cb4809b45487d535a7f29b3e0e27",
+      "topology": [
+        6,
+        10,
+        9
+      ],
+      "row": [
+        6,
+        10,
+        9
+      ],
+      "box": [
+        9,
+        7,
+        9
+      ],
+      "complete": true,
+      "baseline": [
+        6,
+        10,
+        9
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1807 @@
+{
+  "design_sha256": "ba1497cbcd4a181bb41d67a1f3bf1b8e48b02a1283dd9c507f74b8a7ec92322f",
+  "generator_sha256": "2438e7b529dfd192259d749993ff9da06bb7803705b8dc192afe92c5aa8f9a6d",
+  "summary": {
+    "global": {
+      "proposed": {
+        "peak_sum": 142,
+        "mean_duration": 34.125,
+        "mean_total": 43,
+        "amplitude_steps": 4811
+      },
+      "best_baseline": {
+        "peak_sum": 196,
+        "mean_duration": 16.791666666666668,
+        "mean_total": 25.708333333333332,
+        "amplitude_steps": 3215
+      },
+      "n": 24,
+      "lower": 24,
+      "equal": 0,
+      "higher": 0,
+      "peak_reduction": 0.2755102040816326,
+      "within_edges": 649,
+      "edges": 2810
+    },
+    "block": {
+      "proposed": {
+        "peak_sum": 147,
+        "mean_duration": 39.375,
+        "mean_total": 48.291666666666664,
+        "amplitude_steps": 5696
+      },
+      "best_baseline": {
+        "peak_sum": 210,
+        "mean_duration": 13.583333333333334,
+        "mean_total": 22.333333333333332,
+        "amplitude_steps": 2810
+      },
+      "n": 24,
+      "lower": 24,
+      "equal": 0,
+      "higher": 0,
+      "peak_reduction": 0.30000000000000004,
+      "within_edges": 2229,
+      "edges": 2810
+    }
+  },
+  "paired_contrast": {
+    "values": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      -1,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      0,
+      2,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      -1,
+      1,
+      0
+    ],
+    "mean": 0.375
+  },
+  "rows": [
+    {
+      "seed": 140202611,
+      "arm": "global",
+      "matrix_sha256": "1fef9232628705fb33f86d66d4c0d840786604d5760ce38cad3d8366a190ac9d",
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        15,
+        9
+      ],
+      "topology": [
+        6,
+        22,
+        9
+      ],
+      "strong": [
+        8,
+        15,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 23,
+      "edges": 103,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 62,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202611,
+      "arm": "block",
+      "matrix_sha256": "ba9115dfe9c93f8c9abf9a090d6e186b668497f9939cedcb866455affbed959e",
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        13,
+        9
+      ],
+      "topology": [
+        5,
+        45,
+        8
+      ],
+      "strong": [
+        8,
+        13,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 84,
+      "edges": 103,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 106,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202612,
+      "arm": "global",
+      "matrix_sha256": "6ac7176f1e6d5ecec818de984ce09edce36b1f75af0925e8cd678e010736e17e",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        42,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 22,
+      "edges": 112,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 102,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202612,
+      "arm": "block",
+      "matrix_sha256": "ae4dc3ac857eb41a64e4fcb4d124e7b92ca843181c11efb8ba4679addddc3507",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        12,
+        9
+      ],
+      "topology": [
+        6,
+        47,
+        9
+      ],
+      "strong": [
+        9,
+        12,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 81,
+      "edges": 112,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 112,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202613,
+      "arm": "global",
+      "matrix_sha256": "e7e35337091996f2e08e77a46989541f73873b02753e7b1791f0d2162c650703",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        7,
+        25,
+        9
+      ],
+      "topology": [
+        5,
+        50,
+        8
+      ],
+      "strong": [
+        7,
+        25,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 27,
+      "edges": 117,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 116,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202613,
+      "arm": "block",
+      "matrix_sha256": "58d49495f63dc244e7b322830f0e06fc3ebaa111d0cb4b557183d294881694a8",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        15,
+        9
+      ],
+      "topology": [
+        6,
+        48,
+        9
+      ],
+      "strong": [
+        9,
+        15,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 98,
+      "edges": 117,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 114,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202614,
+      "arm": "global",
+      "matrix_sha256": "f1bb0181b4d97570d449ee29366fedd21107c0416c6493689b6689634c41d8b3",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        19,
+        9
+      ],
+      "topology": [
+        6,
+        29,
+        9
+      ],
+      "strong": [
+        8,
+        19,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 26,
+      "edges": 116,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 76,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202614,
+      "arm": "block",
+      "matrix_sha256": "38f588db060a5eae5e12397837ca50655a9364a32c555be9b95f51ca73c2567c",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        16,
+        9
+      ],
+      "topology": [
+        7,
+        26,
+        9
+      ],
+      "strong": [
+        9,
+        16,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 92,
+      "edges": 116,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 70,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202615,
+      "arm": "global",
+      "matrix_sha256": "0f5d4cd03f0bcea56c167d3ecc2182421f010341cc306f9aef5091dda2860e67",
+      "row": [
+        17,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        20,
+        9
+      ],
+      "topology": [
+        6,
+        30,
+        9
+      ],
+      "strong": [
+        8,
+        20,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 28,
+      "edges": 111,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 78,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202615,
+      "arm": "block",
+      "matrix_sha256": "4408dda8d511fb8ebef6ff7b9d3ff5c925c165298d266d5e1aa036ec34d049a4",
+      "row": [
+        17,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        46,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 93,
+      "edges": 111,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 110,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202616,
+      "arm": "global",
+      "matrix_sha256": "7fe84c37d1736b668d305b573bdc83d8a9ffd81ad07b17e26116141ba1414eb1",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        49,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 25,
+      "edges": 124,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 116,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202616,
+      "arm": "block",
+      "matrix_sha256": "3bfe0b84b38f68d94d1c768616230af6eaf85f2ebeed6bb45db52c144b192e48",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        10,
+        12,
+        8
+      ],
+      "topology": [
+        8,
+        23,
+        9
+      ],
+      "strong": [
+        10,
+        12,
+        8
+      ],
+      "peak_saving": 2,
+      "within_edges": 108,
+      "edges": 124,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 64,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202617,
+      "arm": "global",
+      "matrix_sha256": "bb8b3b515e3d3c6c89011b76d161965745bf95c0ded0f682390f0b22434a39f8",
+      "row": [
+        17,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        14,
+        8
+      ],
+      "topology": [
+        7,
+        21,
+        9
+      ],
+      "strong": [
+        9,
+        14,
+        8
+      ],
+      "peak_saving": 2,
+      "within_edges": 29,
+      "edges": 117,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 60,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202617,
+      "arm": "block",
+      "matrix_sha256": "b015b0978c3d564cf8d9a7ce6c50b21562453db51ac9132dac3813f4566ecd54",
+      "row": [
+        17,
+        9,
+        9
+      ],
+      "box": [
+        8,
+        26,
+        9
+      ],
+      "topology": [
+        6,
+        48,
+        9
+      ],
+      "strong": [
+        8,
+        26,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 90,
+      "edges": 117,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 114,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202618,
+      "arm": "global",
+      "matrix_sha256": "8aac0b9f50ab44217da11b6c519bdbe7c6fd2caec5c30c6d8c4edf46ac637bd6",
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        8
+      ],
+      "topology": [
+        6,
+        37,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        8
+      ],
+      "peak_saving": 3,
+      "within_edges": 28,
+      "edges": 136,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 92,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202618,
+      "arm": "block",
+      "matrix_sha256": "7d937334919f206ba12158da01d2bb255d13789b19e8fc67b9a06c785a143e1e",
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        14,
+        8
+      ],
+      "topology": [
+        6,
+        51,
+        9
+      ],
+      "strong": [
+        9,
+        14,
+        8
+      ],
+      "peak_saving": 3,
+      "within_edges": 114,
+      "edges": 136,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 120,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202619,
+      "arm": "global",
+      "matrix_sha256": "2437f3a3cd84514e21a833421b0efda66f72e83d1b655349415f291c855b4ca3",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        42,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 39,
+      "edges": 118,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 102,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202619,
+      "arm": "block",
+      "matrix_sha256": "2eee6b8118a6ec28630d206aa1a80b14cfd37514e0d772f7cbbb55e13abec0bc",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        16,
+        9
+      ],
+      "topology": [
+        6,
+        31,
+        9
+      ],
+      "strong": [
+        8,
+        16,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 100,
+      "edges": 118,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 80,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202620,
+      "arm": "global",
+      "matrix_sha256": "065d6de4a954ecbc232e829bebbe148264fa9fb78856f335c9abd22656cc428b",
+      "row": [
+        17,
+        9,
+        9
+      ],
+      "box": [
+        7,
+        20,
+        9
+      ],
+      "topology": [
+        5,
+        37,
+        8
+      ],
+      "strong": [
+        7,
+        20,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 24,
+      "edges": 108,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 90,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202620,
+      "arm": "block",
+      "matrix_sha256": "13284a9ee7971ab060536a8f3d2fafe90b669bc0c31242fef79b01f84ddb8fe2",
+      "row": [
+        17,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        9,
+        9
+      ],
+      "topology": [
+        6,
+        46,
+        9
+      ],
+      "strong": [
+        9,
+        9,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 86,
+      "edges": 108,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 110,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202621,
+      "arm": "global",
+      "matrix_sha256": "b67d0c324e7d80c2b0704d44929414ffed8a350eaa8efdd75104171c33e9441c",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        17,
+        9
+      ],
+      "topology": [
+        6,
+        31,
+        9
+      ],
+      "strong": [
+        8,
+        17,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 34,
+      "edges": 118,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 80,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202621,
+      "arm": "block",
+      "matrix_sha256": "9d0873390f4316eb5bf233bc9b88a7a818a55096fde29acae990e59a9f68c346",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        7,
+        18,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 92,
+      "edges": 118,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 54,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202622,
+      "arm": "global",
+      "matrix_sha256": "6aa3f940dc94176383743f46552811aafc67ebbb9d66db9e317c36e0afad6cc6",
+      "row": [
+        13,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        15,
+        9
+      ],
+      "topology": [
+        6,
+        28,
+        9
+      ],
+      "strong": [
+        8,
+        15,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 20,
+      "edges": 112,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 74,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202622,
+      "arm": "block",
+      "matrix_sha256": "be16ee458d46628f250c6cf2b75b8cd3f1e5c109263f7def8b4492e8af5cee74",
+      "row": [
+        13,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        22,
+        9
+      ],
+      "topology": [
+        6,
+        41,
+        9
+      ],
+      "strong": [
+        8,
+        22,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 86,
+      "edges": 112,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 100,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202623,
+      "arm": "global",
+      "matrix_sha256": "19b67513fdf2843bad4394bf6f3b838fb554f13989f9e5226c944a6a00963cfc",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        7,
+        35,
+        9
+      ],
+      "topology": [
+        6,
+        26,
+        9
+      ],
+      "strong": [
+        7,
+        35,
+        9
+      ],
+      "peak_saving": 1,
+      "within_edges": 26,
+      "edges": 114,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 70,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202623,
+      "arm": "block",
+      "matrix_sha256": "44d3ea28b6ac6c85e5a8fe88ae264584fb235a7d2c76464c1599a53a27b9fb27",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        47,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 86,
+      "edges": 114,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 112,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202624,
+      "arm": "global",
+      "matrix_sha256": "4dd6cb4e4b16328c6dbd630bcbcf71bc0559d080b73ac2f7f67ff675eeecef42",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        23,
+        9
+      ],
+      "topology": [
+        6,
+        38,
+        9
+      ],
+      "strong": [
+        8,
+        23,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 29,
+      "edges": 113,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 94,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202624,
+      "arm": "block",
+      "matrix_sha256": "08f94ef05b59bdb7c27e89f1ccd69fcad26c680660bae035366d7689060f1455",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        8
+      ],
+      "topology": [
+        6,
+        37,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        8
+      ],
+      "peak_saving": 3,
+      "within_edges": 82,
+      "edges": 113,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 92,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202625,
+      "arm": "global",
+      "matrix_sha256": "4b21f4fa4d6de456a7839ae29008dabdf4b0d683dba3ee1bfee4663e8e5a0ec5",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        14,
+        9
+      ],
+      "topology": [
+        6,
+        25,
+        9
+      ],
+      "strong": [
+        8,
+        14,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 27,
+      "edges": 106,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 68,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202625,
+      "arm": "block",
+      "matrix_sha256": "b2a070ba95c64753e70a351275e73ea6bca27082c590bcd3ef5daf4f65f39a80",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        13,
+        9
+      ],
+      "topology": [
+        6,
+        23,
+        9
+      ],
+      "strong": [
+        8,
+        13,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 86,
+      "edges": 106,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 64,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202626,
+      "arm": "global",
+      "matrix_sha256": "ccb1f18c16c5b3824bafd0ddd4a676bf7cd3d488fe58dc6831a86a3efa825d96",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        15,
+        9
+      ],
+      "topology": [
+        6,
+        20,
+        9
+      ],
+      "strong": [
+        8,
+        15,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 27,
+      "edges": 119,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 58,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202626,
+      "arm": "block",
+      "matrix_sha256": "34fa3841e80845ccdc8e9fa052bce84b4f4bc7899cb4eea91f3fc7097ee9115a",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        13,
+        9
+      ],
+      "topology": [
+        6,
+        49,
+        9
+      ],
+      "strong": [
+        9,
+        13,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 94,
+      "edges": 119,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 116,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202627,
+      "arm": "global",
+      "matrix_sha256": "0f20712d61563f41f0bca78cabaadf1f706e3f40c2cf3c7edbbdbfb5f514dc68",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        7,
+        18,
+        9
+      ],
+      "topology": [
+        5,
+        37,
+        8
+      ],
+      "strong": [
+        7,
+        18,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 24,
+      "edges": 121,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 90,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202627,
+      "arm": "block",
+      "matrix_sha256": "c7769b9a3fff5c473d45c7abcb8d7ffc7bf256fc2f7d8c3912309ff1a16a78de",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        10,
+        8
+      ],
+      "topology": [
+        6,
+        31,
+        9
+      ],
+      "strong": [
+        9,
+        10,
+        8
+      ],
+      "peak_saving": 3,
+      "within_edges": 101,
+      "edges": 121,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 80,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202628,
+      "arm": "global",
+      "matrix_sha256": "e81337ad585617ceb12e3740235192b970c5dbeee8919f3acaabf9fd16c83d8d",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        22,
+        9
+      ],
+      "topology": [
+        6,
+        33,
+        9
+      ],
+      "strong": [
+        8,
+        22,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 35,
+      "edges": 131,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 84,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202628,
+      "arm": "block",
+      "matrix_sha256": "5fc3b7760bef77e9c1456aaf069dfb6690dcb0c9012c72e38628d4bd8adb33d3",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        16,
+        8
+      ],
+      "topology": [
+        7,
+        28,
+        9
+      ],
+      "strong": [
+        9,
+        16,
+        8
+      ],
+      "peak_saving": 2,
+      "within_edges": 98,
+      "edges": 131,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 74,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202629,
+      "arm": "global",
+      "matrix_sha256": "dfbc2896f87ad918424865d1f3d701140309c094bf11e3fe8b1b4536c63f7185",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        24,
+        9
+      ],
+      "topology": [
+        6,
+        45,
+        9
+      ],
+      "strong": [
+        8,
+        24,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 21,
+      "edges": 116,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 108,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202629,
+      "arm": "block",
+      "matrix_sha256": "d9d2087b0b212a4cfaac6d84dce6f225b910bc06cf1ed8696d1749f4c5f5c436",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        42,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 89,
+      "edges": 116,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 102,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202630,
+      "arm": "global",
+      "matrix_sha256": "7969e173f36182405dcd4de8809fb78f7e3f53a879d08f5e59fc3713f33fc8db",
+      "row": [
+        18,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        10,
+        9
+      ],
+      "topology": [
+        6,
+        40,
+        9
+      ],
+      "strong": [
+        9,
+        10,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 25,
+      "edges": 122,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 98,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202630,
+      "arm": "block",
+      "matrix_sha256": "dca0f26a7a3867e790706cbfa8871aeacfb8063cc77afb5a2adb076bc22cdb1c",
+      "row": [
+        18,
+        9,
+        9
+      ],
+      "box": [
+        9,
+        10,
+        9
+      ],
+      "topology": [
+        6,
+        44,
+        9
+      ],
+      "strong": [
+        9,
+        10,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 96,
+      "edges": 122,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 106,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202631,
+      "arm": "global",
+      "matrix_sha256": "c8b5d9d70e674b837dba78accb87fb04e1a4dd94cbb722f7c5ba733b33a8a72d",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        17,
+        9
+      ],
+      "topology": [
+        6,
+        31,
+        9
+      ],
+      "strong": [
+        8,
+        17,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 32,
+      "edges": 122,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 80,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202631,
+      "arm": "block",
+      "matrix_sha256": "6af31d8b2657c8923b1b3e10e5119d96a57eee1b805f8a0c0abcd9155076253a",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        48,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 96,
+      "edges": 122,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 114,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202632,
+      "arm": "global",
+      "matrix_sha256": "332ad88408ebd5fec3998dd9b4e715597c8d4803d968352e719159af2282803b",
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        10,
+        9
+      ],
+      "topology": [
+        6,
+        42,
+        9
+      ],
+      "strong": [
+        9,
+        10,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 21,
+      "edges": 112,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 102,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202632,
+      "arm": "block",
+      "matrix_sha256": "7c13554bcbc5045986e4f4bcde51959332b8c5dcc3846b8def7bb1939f0ee736",
+      "row": [
+        14,
+        10,
+        8
+      ],
+      "box": [
+        7,
+        23,
+        9
+      ],
+      "topology": [
+        5,
+        47,
+        8
+      ],
+      "strong": [
+        7,
+        23,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 88,
+      "edges": 112,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 110,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202633,
+      "arm": "global",
+      "matrix_sha256": "7c2247276335a7511e0d8c1b2c836f0b4bc1241ff6e02860aa4be15366f22f21",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        8,
+        15,
+        9
+      ],
+      "topology": [
+        6,
+        29,
+        9
+      ],
+      "strong": [
+        8,
+        15,
+        9
+      ],
+      "peak_saving": 2,
+      "within_edges": 30,
+      "edges": 124,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 76,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202633,
+      "arm": "block",
+      "matrix_sha256": "9d20b2c2e696ca59ad4a41cb0d9aeecb2b4f7ba448a1abfab4dd4899fb214fcd",
+      "row": [
+        16,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        8
+      ],
+      "topology": [
+        6,
+        35,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        8
+      ],
+      "peak_saving": 3,
+      "within_edges": 98,
+      "edges": 124,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 88,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202634,
+      "arm": "global",
+      "matrix_sha256": "3c92f013e258e0bfdd8bb1682ebef5ce73f12ab82647cb1224985f2e2e1776ef",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        11,
+        9
+      ],
+      "topology": [
+        6,
+        35,
+        9
+      ],
+      "strong": [
+        9,
+        11,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 27,
+      "edges": 118,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 88,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "seed": 140202634,
+      "arm": "block",
+      "matrix_sha256": "7119c740e4774a7ad78eb156280723ea2e4f5a307b62740aaec5065a1dd350b2",
+      "row": [
+        15,
+        10,
+        8
+      ],
+      "box": [
+        9,
+        9,
+        9
+      ],
+      "topology": [
+        6,
+        44,
+        9
+      ],
+      "strong": [
+        9,
+        9,
+        9
+      ],
+      "peak_saving": 3,
+      "within_edges": 91,
+      "edges": 118,
+      "replay": {
+        "trajectories": 2,
+        "network_steps": 106,
+        "indices": [
+          3,
+          8
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "definition": "Enumerate each n-module binary word from the zero state. Write amplitude 14 to the chosen channel of each module for five ticks. Tick zero is the end of these writes. Measure the last network spike under constant pressure. In a separate paired run, check all registers after 10 driven ticks and 10 released ticks.",
+  "records": [
+    {
+      "modules": 8,
+      "words": 256,
+      "amplitudes": {
+        "3": {
+          "last_spike": {
+            "minimum": 4,
+            "median": 7.0,
+            "maximum": 15,
+            "counts": {
+              "4": 2,
+              "5": 32,
+              "6": 92,
+              "7": 66,
+              "8": 36,
+              "9": 16,
+              "10": 8,
+              "11": 2,
+              "15": 2
+            }
+          },
+          "uniform_word_last_spike": 15,
+          "maximum_word_examples": [
+            "00000000",
+            "11111111"
+          ],
+          "20_tick_protocol_cleared": 192
+        },
+        "4": {
+          "last_spike": {
+            "minimum": 2,
+            "median": 4.0,
+            "maximum": 4,
+            "counts": {
+              "2": 2,
+              "4": 254
+            }
+          },
+          "uniform_word_last_spike": 4,
+          "maximum_word_examples": [
+            "00000000",
+            "00000001",
+            "00000010",
+            "00000011"
+          ],
+          "20_tick_protocol_cleared": 256
+        }
+      },
+      "paired_last_spike_reduction": {
+        "minimum": 1,
+        "median": 3.0,
+        "maximum": 11,
+        "counts": {
+          "1": 32,
+          "2": 94,
+          "3": 66,
+          "4": 36,
+          "5": 16,
+          "6": 8,
+          "7": 2,
+          "11": 2
+        }
+      },
+      "reference_words": [
+        "01010101",
+        "00001111",
+        "10000001"
+      ],
+      "reference_word_updates": 240
+    },
+    {
+      "modules": 12,
+      "words": 4096,
+      "amplitudes": {
+        "3": {
+          "last_spike": {
+            "minimum": 4,
+            "median": 7.0,
+            "maximum": 23,
+            "counts": {
+              "4": 2,
+              "5": 232,
+              "6": 1198,
+              "7": 1232,
+              "8": 742,
+              "9": 370,
+              "10": 176,
+              "11": 80,
+              "12": 36,
+              "13": 16,
+              "14": 8,
+              "15": 2,
+              "23": 2
+            }
+          },
+          "uniform_word_last_spike": 23,
+          "maximum_word_examples": [
+            "000000000000",
+            "111111111111"
+          ],
+          "20_tick_protocol_cleared": 2664
+        },
+        "4": {
+          "last_spike": {
+            "minimum": 2,
+            "median": 4.0,
+            "maximum": 4,
+            "counts": {
+              "2": 2,
+              "4": 4094
+            }
+          },
+          "uniform_word_last_spike": 4,
+          "maximum_word_examples": [
+            "000000000000",
+            "000000000001",
+            "000000000010",
+            "000000000011"
+          ],
+          "20_tick_protocol_cleared": 4096
+        }
+      },
+      "paired_last_spike_reduction": {
+        "minimum": 1,
+        "median": 3.0,
+        "maximum": 19,
+        "counts": {
+          "1": 232,
+          "2": 1200,
+          "3": 1232,
+          "4": 742,
+          "5": 370,
+          "6": 176,
+          "7": 80,
+          "8": 36,
+          "9": 16,
+          "10": 8,
+          "11": 2,
+          "19": 2
+        }
+      },
+      "reference_words": [
+        "010101010101",
+        "000000111111",
+        "100000000001"
+      ],
+      "reference_word_updates": 264
+    }
+  ]
+}
