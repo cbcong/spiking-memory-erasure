@@ -1,4 +1,4 @@
-# PeakLimitedErasure
+# spiking-memory-erasure
 
 This repository contains the inputs, Python scripts and saved runs for a set of spiking-circuit experiments. You can inspect the numbers from an archived run, repeat it from its original graph seeds, or redraw the figures. The commands below assume CPython 3.11 and a CPU. The graph experiments run offline once the Python dependencies are installed.
 
